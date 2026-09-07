@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.dsh-meow/
+*.log
+.DS_Store

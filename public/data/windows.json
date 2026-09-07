@@ -1,0 +1,5441 @@
+{
+ "meta": {
+  "rule": "open_after=任务首次出现前最近主线步; close_before=任务末次出现后最近主线步(模板线性推导初稿,待人工核查)",
+  "generated_at": "2026-09-07",
+  "base_version": "1.24.32"
+ },
+ "windows": [
+  {
+   "quest": "北望",
+   "quest_norm": "北望",
+   "occurrences": 1,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 2,
+   "close_before": 3,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 2
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 2,
+    "close_before": 3
+   }
+  },
+  {
+   "quest": "铁匠的烦心事",
+   "quest_norm": "铁匠的烦心事",
+   "occurrences": 1,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 2,
+   "close_before": 3,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 2
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 2,
+    "close_before": 3
+   }
+  },
+  {
+   "quest": "百晓生-无妄之灾",
+   "quest_norm": "百晓生-无妄之灾",
+   "occurrences": 1,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 2,
+   "close_before": 3,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 2
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 2,
+    "close_before": 3
+   }
+  },
+  {
+   "quest": "枯藤老树昏鸦",
+   "quest_norm": "枯藤老树昏鸦",
+   "occurrences": 1,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 3,
+   "close_before": 4,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 3
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 3,
+    "close_before": 4
+   }
+  },
+  {
+   "quest": "樵夫的斧子",
+   "quest_norm": "樵夫的斧子",
+   "occurrences": 1,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 3,
+   "close_before": 4,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 3
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 3,
+    "close_before": 4
+   }
+  },
+  {
+   "quest": "村民的困惑",
+   "quest_norm": "村民的困惑",
+   "occurrences": 1,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 3,
+   "close_before": 4,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 3
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 3,
+    "close_before": 4
+   }
+  },
+  {
+   "quest": "卫霍的承诺",
+   "quest_norm": "卫霍的承诺",
+   "occurrences": 1,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 4,
+   "close_before": 5,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 4
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 4,
+    "close_before": 5
+   }
+  },
+  {
+   "quest": "无妄蛇灾",
+   "quest_norm": "无妄蛇灾",
+   "occurrences": 3,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ],
+    [
+     1,
+     "初出茅庐"
+    ],
+    [
+     1,
+     "初出茅庐"
+    ]
+   ],
+   "open_after": 3,
+   "close_before": 9,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 3
+   },
+   "last": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "main_no": 8,
+    "close_before": 9
+   }
+  },
+  {
+   "quest": "农忙",
+   "quest_norm": "农忙",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 10,
+   "close_before": 11,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 10
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 10,
+    "close_before": 11
+   }
+  },
+  {
+   "quest": "野猪进村",
+   "quest_norm": "野猪进村",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 10,
+   "close_before": 11,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 10
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 10,
+    "close_before": 11
+   }
+  },
+  {
+   "quest": "百晓生-桃花劫",
+   "quest_norm": "百晓生-桃花劫",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 10,
+   "close_before": 11,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 10
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 10,
+    "close_before": 11
+   }
+  },
+  {
+   "quest": "百晓生-命中贵人",
+   "quest_norm": "百晓生-命中贵人",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 10,
+   "close_before": 11,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 10
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 10,
+    "close_before": 11
+   }
+  },
+  {
+   "quest": "慈母手中线",
+   "quest_norm": "慈母手中线",
+   "occurrences": 2,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ],
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 3,
+   "close_before": 12,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 3
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "山猪为患",
+   "quest_norm": "山猪为患",
+   "occurrences": 3,
+   "chapters": [
+    [
+     1,
+     "初出茅庐"
+    ],
+    [
+     2,
+     "洛村剿匪"
+    ],
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 4,
+   "close_before": 12,
+   "first": {
+    "sec_id": 1,
+    "sec_title": "初出茅庐",
+    "after_main": 4
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "养生秘术",
+   "quest_norm": "养生秘术",
+   "occurrences": 2,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ],
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 10,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 10
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "化缘",
+   "quest_norm": "化缘",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "同情心",
+   "quest_norm": "同情心",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "千金难求",
+   "quest_norm": "千金难求",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "千金蟾衣",
+   "quest_norm": "千金蟾衣",
+   "occurrences": 2,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ],
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "拦路打劫",
+   "quest_norm": "拦路打劫",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "莲湖会晤",
+   "quest_norm": "莲湖会晤",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "砥砺精进",
+   "quest_norm": "砥砺精进",
+   "occurrences": 2,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ],
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "酒酿鱼脍",
+   "quest_norm": "酒酿鱼脍",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "夺回布料",
+   "quest_norm": "夺回布料",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "海上丝绸",
+   "quest_norm": "海上丝绸",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "周家纠葛",
+   "quest_norm": "周家纠葛",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "昏鸦",
+   "quest_norm": "昏鸦",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "防身灵符",
+   "quest_norm": "防身灵符",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "拳镇三山",
+   "quest_norm": "拳镇三山",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "丐帮豪富",
+   "quest_norm": "丐帮豪富",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "谭城旧事",
+   "quest_norm": "谭城旧事",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "净衣礼",
+   "quest_norm": "净衣礼",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "丢失的旺福",
+   "quest_norm": "丢失的旺福",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "叫花鸡",
+   "quest_norm": "叫花鸡",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "小蝶之心",
+   "quest_norm": "小蝶之心",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "司马相之心",
+   "quest_norm": "司马相之心",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "钓鱼翁",
+   "quest_norm": "钓鱼翁",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "套路",
+   "quest_norm": "套路",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "猪倌的生意",
+   "quest_norm": "猪倌的生意",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "哭泣的小胖",
+   "quest_norm": "哭泣的小胖",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "草寇为祸",
+   "quest_norm": "草寇为祸",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "饥民",
+   "quest_norm": "饥民",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "蜃楼幻境",
+   "quest_norm": "蜃楼幻境",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "画舫轻歌",
+   "quest_norm": "画舫轻歌",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "威远镖局悬赏",
+   "quest_norm": "威远镖局悬赏",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "插翅虎的来历",
+   "quest_norm": "插翅虎的来历",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "跛足老道",
+   "quest_norm": "跛足老道",
+   "occurrences": 1,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 12,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "main_no": 11,
+    "close_before": 12
+   }
+  },
+  {
+   "quest": "白帝剑器",
+   "quest_norm": "白帝剑器",
+   "occurrences": 2,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ],
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 13,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "重回碗子山",
+   "quest_norm": "重回碗子山",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "锦蛇青梅",
+   "quest_norm": "锦蛇青梅",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "断天绝景",
+   "quest_norm": "断天绝景",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "五仙花酿",
+   "quest_norm": "五仙花酿",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "武馆叛徒",
+   "quest_norm": "武馆叛徒",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "画舫旧事",
+   "quest_norm": "画舫旧事",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "出师考验",
+   "quest_norm": "出师考验",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "青木裁衣",
+   "quest_norm": "青木裁衣",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "津鲤锦鲤",
+   "quest_norm": "津鲤锦鲤",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "姑苏曼舞",
+   "quest_norm": "姑苏曼舞",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "同情心-归宿",
+   "quest_norm": "同情心-归宿",
+   "occurrences": 1,
+   "chapters": [
+    [
+     4,
+     "江湖游侠"
+    ]
+   ],
+   "open_after": 12,
+   "close_before": 13,
+   "first": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "after_main": 12
+   },
+   "last": {
+    "sec_id": 4,
+    "sec_title": "江湖游侠",
+    "main_no": 12,
+    "close_before": 13
+   }
+  },
+  {
+   "quest": "武道之始",
+   "quest_norm": "武道之始",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "九炼熊蛇丸",
+   "quest_norm": "九炼熊蛇丸",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "玄火试炼",
+   "quest_norm": "玄火试炼",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "小高手智武",
+   "quest_norm": "小高手智武",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "贪吃的智文",
+   "quest_norm": "贪吃的智文",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "歪僧慧达(一)",
+   "quest_norm": "歪僧慧达(一)",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "歪僧慧达(二)",
+   "quest_norm": "歪僧慧达(二)",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "破庙老猿",
+   "quest_norm": "破庙老猿",
+   "occurrences": 1,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "乞丐与宝书",
+   "quest_norm": "乞丐与宝书",
+   "occurrences": 3,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ],
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ],
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "比武招亲",
+   "quest_norm": "比武招亲",
+   "occurrences": 1,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "东海明珠",
+   "quest_norm": "东海明珠",
+   "occurrences": 2,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ],
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "黄金蟹斗",
+   "quest_norm": "黄金蟹斗",
+   "occurrences": 1,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "钓鱼之王",
+   "quest_norm": "钓鱼之王",
+   "occurrences": 1,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "暮霞双锦",
+   "quest_norm": "暮霞双锦",
+   "occurrences": 1,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "仙猿山",
+   "quest_norm": "仙猿山",
+   "occurrences": 1,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 14,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "main_no": 13,
+    "close_before": 14
+   }
+  },
+  {
+   "quest": "海商赵伦",
+   "quest_norm": "海商赵伦",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 14,
+   "close_before": 15,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 14
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 14,
+    "close_before": 15
+   }
+  },
+  {
+   "quest": "冲突",
+   "quest_norm": "冲突",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 16,
+   "close_before": 17,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 16
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 16,
+    "close_before": 17
+   }
+  },
+  {
+   "quest": "公子相邀",
+   "quest_norm": "公子相邀",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 16,
+   "close_before": 17,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 16
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 16,
+    "close_before": 17
+   }
+  },
+  {
+   "quest": "北山寒尸",
+   "quest_norm": "北山寒尸",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 16,
+   "close_before": 17,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 16
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 16,
+    "close_before": 17
+   }
+  },
+  {
+   "quest": "平康麟子",
+   "quest_norm": "平康麟子",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 16,
+   "close_before": 17,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 16
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 16,
+    "close_before": 17
+   }
+  },
+  {
+   "quest": "莫问的喜好",
+   "quest_norm": "莫问的喜好",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 21,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 20,
+    "close_before": 21
+   }
+  },
+  {
+   "quest": "天龙暗桩",
+   "quest_norm": "天龙暗桩",
+   "occurrences": 2,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ],
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 21,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 20,
+    "close_before": 21
+   }
+  },
+  {
+   "quest": "酒鬼乞丐",
+   "quest_norm": "酒鬼乞丐",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 21,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 20,
+    "close_before": 21
+   }
+  },
+  {
+   "quest": "雷家村",
+   "quest_norm": "雷家村",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 21,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 20,
+    "close_before": 21
+   }
+  },
+  {
+   "quest": "反攻前奏",
+   "quest_norm": "反攻前奏",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 21,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 20,
+    "close_before": 21
+   }
+  },
+  {
+   "quest": "娄赴召的归宿",
+   "quest_norm": "娄赴召的归宿",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 21,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 20,
+    "close_before": 21
+   }
+  },
+  {
+   "quest": "武当元启",
+   "quest_norm": "武当元启",
+   "occurrences": 1,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 21,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "main_no": 20,
+    "close_before": 21
+   }
+  },
+  {
+   "quest": "韶华轻掷",
+   "quest_norm": "韶华轻掷",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 24,
+   "close_before": 25,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 24
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 24,
+    "close_before": 25
+   }
+  },
+  {
+   "quest": "猜灯谜",
+   "quest_norm": "猜灯谜",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 30,
+   "close_before": 31,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 30
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 30,
+    "close_before": 31
+   }
+  },
+  {
+   "quest": "霓裳羽衣",
+   "quest_norm": "霓裳羽衣",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 30,
+   "close_before": 31,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 30
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 30,
+    "close_before": 31
+   }
+  },
+  {
+   "quest": "茶摊说书",
+   "quest_norm": "茶摊说书",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 30,
+   "close_before": 31,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 30
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 30,
+    "close_before": 31
+   }
+  },
+  {
+   "quest": "街头卖艺",
+   "quest_norm": "街头卖艺",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 30,
+   "close_before": 31,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 30
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 30,
+    "close_before": 31
+   }
+  },
+  {
+   "quest": "百味馄饨",
+   "quest_norm": "百味馄饨",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 30,
+   "close_before": 31,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 30
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 30,
+    "close_before": 31
+   }
+  },
+  {
+   "quest": "姑苏灯会",
+   "quest_norm": "姑苏灯会",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 30,
+   "close_before": 31,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 30
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 30,
+    "close_before": 31
+   }
+  },
+  {
+   "quest": "毒蝎夺命",
+   "quest_norm": "毒蝎夺命",
+   "occurrences": 2,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 36,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "明珠无瑕",
+   "quest_norm": "明珠无瑕",
+   "occurrences": 2,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 36,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "和璞山庄",
+   "quest_norm": "和璞山庄",
+   "occurrences": 2,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 36,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "寒泉铸剑",
+   "quest_norm": "寒泉铸剑",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "烟霞剑客",
+   "quest_norm": "烟霞剑客",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-芭蕉扇",
+   "quest_norm": "蓬莱遗珍-芭蕉扇",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-莲花裳",
+   "quest_norm": "蓬莱遗珍-莲花裳",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-火龙剑",
+   "quest_norm": "蓬莱遗珍-火龙剑",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-白玉圭",
+   "quest_norm": "蓬莱遗珍-白玉圭",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-凤凰衫",
+   "quest_norm": "蓬莱遗珍-凤凰衫",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-紫竹篮",
+   "quest_norm": "蓬莱遗珍-紫竹篮",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-玄铁拐杖",
+   "quest_norm": "蓬莱遗珍-玄铁拐杖",
+   "occurrences": 1,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "异种金蝎",
+   "quest_norm": "异种金蝎",
+   "occurrences": 2,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "毒物商人",
+   "quest_norm": "毒物商人",
+   "occurrences": 1,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "药圣之约",
+   "quest_norm": "药圣之约",
+   "occurrences": 1,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "沙盘演武",
+   "quest_norm": "沙盘演武",
+   "occurrences": 3,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "协助叶家兄妹掌握玉枪",
+   "quest_norm": "协助叶家兄妹掌握玉枪",
+   "occurrences": 3,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "夤夜访客",
+   "quest_norm": "夤夜访客",
+   "occurrences": 2,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "流转",
+   "quest_norm": "流转",
+   "occurrences": 1,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "蓬莱遗珍-无底葫芦",
+   "quest_norm": "蓬莱遗珍-无底葫芦",
+   "occurrences": 1,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 36,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "main_no": 35,
+    "close_before": 36
+   }
+  },
+  {
+   "quest": "镖局客卿",
+   "quest_norm": "镖局客卿",
+   "occurrences": 3,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ],
+    [
+     10,
+     "关外风云"
+    ],
+    [
+     10,
+     "关外风云"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 40,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "main_no": 39,
+    "close_before": 40
+   }
+  },
+  {
+   "quest": "筹备药材",
+   "quest_norm": "筹备药材",
+   "occurrences": 1,
+   "chapters": [
+    [
+     10,
+     "关外风云"
+    ]
+   ],
+   "open_after": 39,
+   "close_before": 40,
+   "first": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "after_main": 39
+   },
+   "last": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "main_no": 39,
+    "close_before": 40
+   }
+  },
+  {
+   "quest": "筹备军资",
+   "quest_norm": "筹备军资",
+   "occurrences": 1,
+   "chapters": [
+    [
+     10,
+     "关外风云"
+    ]
+   ],
+   "open_after": 39,
+   "close_before": 40,
+   "first": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "after_main": 39
+   },
+   "last": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "main_no": 39,
+    "close_before": 40
+   }
+  },
+  {
+   "quest": "排查奸细",
+   "quest_norm": "排查奸细",
+   "occurrences": 1,
+   "chapters": [
+    [
+     10,
+     "关外风云"
+    ]
+   ],
+   "open_after": 39,
+   "close_before": 40,
+   "first": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "after_main": 39
+   },
+   "last": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "main_no": 39,
+    "close_before": 40
+   }
+  },
+  {
+   "quest": "赵二磊的家书",
+   "quest_norm": "赵二磊的家书",
+   "occurrences": 1,
+   "chapters": [
+    [
+     10,
+     "关外风云"
+    ]
+   ],
+   "open_after": 39,
+   "close_before": 40,
+   "first": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "after_main": 39
+   },
+   "last": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "main_no": 39,
+    "close_before": 40
+   }
+  },
+  {
+   "quest": "遗书",
+   "quest_norm": "遗书",
+   "occurrences": 1,
+   "chapters": [
+    [
+     10,
+     "关外风云"
+    ]
+   ],
+   "open_after": 45,
+   "close_before": 46,
+   "first": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "after_main": 45
+   },
+   "last": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "main_no": 45,
+    "close_before": 46
+   }
+  },
+  {
+   "quest": "传家之宝",
+   "quest_norm": "传家之宝",
+   "occurrences": 1,
+   "chapters": [
+    [
+     10,
+     "关外风云"
+    ]
+   ],
+   "open_after": 45,
+   "close_before": 46,
+   "first": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "after_main": 45
+   },
+   "last": {
+    "sec_id": 10,
+    "sec_title": "关外风云",
+    "main_no": 45,
+    "close_before": 46
+   }
+  },
+  {
+   "quest": "灭门之案-说客",
+   "quest_norm": "灭门之案-说客",
+   "occurrences": 2,
+   "chapters": [
+    [
+     2,
+     "洛村剿匪"
+    ],
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 11,
+   "close_before": 47,
+   "first": {
+    "sec_id": 2,
+    "sec_title": "洛村剿匪",
+    "after_main": 11
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "歪僧慧达(三)",
+   "quest_norm": "歪僧慧达(三)",
+   "occurrences": 2,
+   "chapters": [
+    [
+     5,
+     "初入武当"
+    ],
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 47,
+   "first": {
+    "sec_id": 5,
+    "sec_title": "初入武当",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "谋生之道",
+   "quest_norm": "谋生之道",
+   "occurrences": 2,
+   "chapters": [
+    [
+     7,
+     "晋升资深"
+    ],
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 20,
+   "close_before": 47,
+   "first": {
+    "sec_id": 7,
+    "sec_title": "晋升资深",
+    "after_main": 20
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "小倩",
+   "quest_norm": "小倩",
+   "occurrences": 2,
+   "chapters": [
+    [
+     8,
+     "品剑大会"
+    ],
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 23,
+   "close_before": 47,
+   "first": {
+    "sec_id": 8,
+    "sec_title": "品剑大会",
+    "after_main": 23
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "塞外风光",
+   "quest_norm": "塞外风光",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 46,
+   "close_before": 47,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 46
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "再遇无情",
+   "quest_norm": "再遇无情",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 46,
+   "close_before": 47,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 46
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "海寇内应",
+   "quest_norm": "海寇内应",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 46,
+   "close_before": 47,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 46
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "灭门之案-线索",
+   "quest_norm": "灭门之案-线索",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 46,
+   "close_before": 47,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 46
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "灭门之案-真凶",
+   "quest_norm": "灭门之案-真凶",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 46,
+   "close_before": 47,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 46
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "歪僧慧达(四)",
+   "quest_norm": "歪僧慧达(四)",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 46,
+   "close_before": 47,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 46
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "民以食为天*4",
+   "quest_norm": "民以食为天*4",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 46,
+   "close_before": 47,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 46
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 46,
+    "close_before": 47
+   }
+  },
+  {
+   "quest": "东海仙踪",
+   "quest_norm": "东海仙踪",
+   "occurrences": 2,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ],
+    [
+     13,
+     "碧海仙踪"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 49,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 13,
+    "sec_title": "碧海仙踪",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "灵龟岛",
+   "quest_norm": "灵龟岛",
+   "occurrences": 2,
+   "chapters": [
+    [
+     6,
+     "碧海仙踪&武家旧事"
+    ],
+    [
+     13,
+     "碧海仙踪"
+    ]
+   ],
+   "open_after": 13,
+   "close_before": 49,
+   "first": {
+    "sec_id": 6,
+    "sec_title": "碧海仙踪&武家旧事",
+    "after_main": 13
+   },
+   "last": {
+    "sec_id": 13,
+    "sec_title": "碧海仙踪",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "飞蝎使",
+   "quest_norm": "飞蝎使",
+   "occurrences": 3,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 49,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "人面鬼蛛(商人线)",
+   "quest_norm": "人面鬼蛛(商人线)",
+   "occurrences": 2,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 49,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "人面鬼蛛(药圣线)",
+   "quest_norm": "人面鬼蛛(药圣线)",
+   "occurrences": 2,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 49,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "故人",
+   "quest_norm": "故人",
+   "occurrences": 1,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "伤魂调·序曲",
+   "quest_norm": "伤魂调·序曲",
+   "occurrences": 1,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "镇派棒法",
+   "quest_norm": "镇派棒法",
+   "occurrences": 1,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "净衣派",
+   "quest_norm": "净衣派",
+   "occurrences": 3,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ],
+    [
+     12,
+     "伤魂鸟"
+    ],
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "丐帮之法",
+   "quest_norm": "丐帮之法",
+   "occurrences": 2,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ],
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "玉容皓皓",
+   "quest_norm": "玉容皓皓",
+   "occurrences": 2,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ],
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "拨云见日",
+   "quest_norm": "拨云见日",
+   "occurrences": 1,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "丐帮大战",
+   "quest_norm": "丐帮大战",
+   "occurrences": 1,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "幽云泽遇伏",
+   "quest_norm": "幽云泽遇伏",
+   "occurrences": 1,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "出笼之鸟",
+   "quest_norm": "出笼之鸟",
+   "occurrences": 1,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "伤魂何处？",
+   "quest_norm": "伤魂何处？",
+   "occurrences": 1,
+   "chapters": [
+    [
+     12,
+     "伤魂鸟"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 12,
+    "sec_title": "伤魂鸟",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "百年传承",
+   "quest_norm": "百年传承",
+   "occurrences": 1,
+   "chapters": [
+    [
+     13,
+     "碧海仙踪"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 13,
+    "sec_title": "碧海仙踪",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 13,
+    "sec_title": "碧海仙踪",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "千机万发",
+   "quest_norm": "千机万发",
+   "occurrences": 3,
+   "chapters": [
+    [
+     14,
+     "霹雳门"
+    ],
+    [
+     14,
+     "霹雳门"
+    ],
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "人面鬼蛛",
+   "quest_norm": "人面鬼蛛",
+   "occurrences": 2,
+   "chapters": [
+    [
+     14,
+     "霹雳门"
+    ],
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "门内生变",
+   "quest_norm": "门内生变",
+   "occurrences": 1,
+   "chapters": [
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "接触厂卫",
+   "quest_norm": "接触厂卫",
+   "occurrences": 1,
+   "chapters": [
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "大宦童安",
+   "quest_norm": "大宦童安",
+   "occurrences": 1,
+   "chapters": [
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "霹雳门余波",
+   "quest_norm": "霹雳门余波",
+   "occurrences": 1,
+   "chapters": [
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "古卷帛书",
+   "quest_norm": "古卷帛书",
+   "occurrences": 1,
+   "chapters": [
+    [
+     14,
+     "霹雳门"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 49,
+   "first": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 14,
+    "sec_title": "霹雳门",
+    "main_no": 48,
+    "close_before": 49
+   }
+  },
+  {
+   "quest": "参茸虫草汤",
+   "quest_norm": "参茸虫草汤",
+   "occurrences": 1,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 51,
+   "close_before": 52,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 51
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 51,
+    "close_before": 52
+   }
+  },
+  {
+   "quest": "同游西凉",
+   "quest_norm": "同游西凉",
+   "occurrences": 1,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 52,
+   "close_before": 53,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 52
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 52,
+    "close_before": 53
+   }
+  },
+  {
+   "quest": "铸剑之争",
+   "quest_norm": "铸剑之争",
+   "occurrences": 1,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 53,
+   "close_before": 54,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 53
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 53,
+    "close_before": 54
+   }
+  },
+  {
+   "quest": "四大武家",
+   "quest_norm": "四大武家",
+   "occurrences": 3,
+   "chapters": [
+    [
+     9,
+     "异种金蝎&武家旧事"
+    ],
+    [
+     15,
+     "晋升传功"
+    ],
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 35,
+   "close_before": 56,
+   "first": {
+    "sec_id": 9,
+    "sec_title": "异种金蝎&武家旧事",
+    "after_main": 35
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 55,
+    "close_before": 56
+   }
+  },
+  {
+   "quest": "西域胡商",
+   "quest_norm": "西域胡商",
+   "occurrences": 2,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ],
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 55,
+   "close_before": 56,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 55
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 55,
+    "close_before": 56
+   }
+  },
+  {
+   "quest": "天青台盏",
+   "quest_norm": "天青台盏",
+   "occurrences": 1,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 55,
+   "close_before": 56,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 55
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 55,
+    "close_before": 56
+   }
+  },
+  {
+   "quest": "女帅胆魄",
+   "quest_norm": "女帅胆魄",
+   "occurrences": 1,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 56,
+   "close_before": 57,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 56
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 56,
+    "close_before": 57
+   }
+  },
+  {
+   "quest": "平阳王家",
+   "quest_norm": "平阳王家",
+   "occurrences": 1,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 56,
+   "close_before": 57,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 56
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 56,
+    "close_before": 57
+   }
+  },
+  {
+   "quest": "绝响难求",
+   "quest_norm": "绝响难求",
+   "occurrences": 2,
+   "chapters": [
+    [
+     11,
+     "中原事宜"
+    ],
+    [
+     17,
+     "绮罗筵"
+    ]
+   ],
+   "open_after": 48,
+   "close_before": 61,
+   "first": {
+    "sec_id": 11,
+    "sec_title": "中原事宜",
+    "after_main": 48
+   },
+   "last": {
+    "sec_id": 17,
+    "sec_title": "绮罗筵",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "武家旧事",
+   "quest_norm": "武家旧事",
+   "occurrences": 2,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ],
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "程家二爷",
+   "quest_norm": "程家二爷",
+   "occurrences": 1,
+   "chapters": [
+    [
+     15,
+     "晋升传功"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 15,
+    "sec_title": "晋升传功",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "甘泉苦水",
+   "quest_norm": "甘泉苦水",
+   "occurrences": 2,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ],
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "诊治裴庆",
+   "quest_norm": "诊治裴庆",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "穷山据点",
+   "quest_norm": "穷山据点",
+   "occurrences": 2,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ],
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "再探苦水",
+   "quest_norm": "再探苦水",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "穷山矿脉",
+   "quest_norm": "穷山矿脉",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "鬼鹰现踪",
+   "quest_norm": "鬼鹰现踪",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "晦明朝夕",
+   "quest_norm": "晦明朝夕",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "拜谒神鹰门",
+   "quest_norm": "拜谒神鹰门",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "甘泉村庆功",
+   "quest_norm": "甘泉村庆功",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "重返平阳堡",
+   "quest_norm": "重返平阳堡",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "周家纠葛-复仇",
+   "quest_norm": "周家纠葛-复仇",
+   "occurrences": 1,
+   "chapters": [
+    [
+     16,
+     "甘泉苦水"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 16,
+    "sec_title": "甘泉苦水",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "绮罗筵",
+   "quest_norm": "绮罗筵",
+   "occurrences": 2,
+   "chapters": [
+    [
+     17,
+     "绮罗筵"
+    ],
+    [
+     17,
+     "绮罗筵"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 17,
+    "sec_title": "绮罗筵",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 17,
+    "sec_title": "绮罗筵",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "慕艾的考验",
+   "quest_norm": "慕艾的考验",
+   "occurrences": 1,
+   "chapters": [
+    [
+     17,
+     "绮罗筵"
+    ]
+   ],
+   "open_after": 60,
+   "close_before": 61,
+   "first": {
+    "sec_id": 17,
+    "sec_title": "绮罗筵",
+    "after_main": 60
+   },
+   "last": {
+    "sec_id": 17,
+    "sec_title": "绮罗筵",
+    "main_no": 60,
+    "close_before": 61
+   }
+  },
+  {
+   "quest": "火药生意",
+   "quest_norm": "火药生意",
+   "occurrences": 3,
+   "chapters": [
+    [
+     18,
+     "旧主线-全流程"
+    ],
+    [
+     18,
+     "旧主线-全流程"
+    ],
+    [
+     18,
+     "旧主线-全流程"
+    ]
+   ],
+   "open_after": 62,
+   "close_before": 66,
+   "first": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "after_main": 62
+   },
+   "last": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "main_no": 65,
+    "close_before": 66
+   }
+  },
+  {
+   "quest": "采集硫磺*4",
+   "quest_norm": "采集硫磺*4",
+   "occurrences": 1,
+   "chapters": [
+    [
+     18,
+     "旧主线-全流程"
+    ]
+   ],
+   "open_after": 65,
+   "close_before": 66,
+   "first": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "after_main": 65
+   },
+   "last": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "main_no": 65,
+    "close_before": 66
+   }
+  },
+  {
+   "quest": "暗中交易",
+   "quest_norm": "暗中交易",
+   "occurrences": 1,
+   "chapters": [
+    [
+     18,
+     "旧主线-全流程"
+    ]
+   ],
+   "open_after": 65,
+   "close_before": 66,
+   "first": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "after_main": 65
+   },
+   "last": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "main_no": 65,
+    "close_before": 66
+   }
+  },
+  {
+   "quest": "云相太极",
+   "quest_norm": "云相太极",
+   "occurrences": 2,
+   "chapters": [
+    [
+     18,
+     "旧主线-全流程"
+    ],
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 61,
+   "close_before": 77,
+   "first": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "after_main": 61
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 76,
+    "close_before": 77
+   }
+  },
+  {
+   "quest": "行凶者",
+   "quest_norm": "行凶者",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 77,
+   "close_before": 78,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 77
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 77,
+    "close_before": 78
+   }
+  },
+  {
+   "quest": "槐南一梦",
+   "quest_norm": "槐南一梦",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 80,
+   "close_before": 81,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 80
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 80,
+    "close_before": 81
+   }
+  },
+  {
+   "quest": "药谷取蜜",
+   "quest_norm": "药谷取蜜",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 80,
+   "close_before": 81,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 80
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 80,
+    "close_before": 81
+   }
+  },
+  {
+   "quest": "睹物思乡",
+   "quest_norm": "睹物思乡",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 80,
+   "close_before": 81,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 80
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 80,
+    "close_before": 81
+   }
+  },
+  {
+   "quest": "购置石料",
+   "quest_norm": "购置石料",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 80,
+   "close_before": 81,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 80
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 80,
+    "close_before": 81
+   }
+  },
+  {
+   "quest": "报恩",
+   "quest_norm": "报恩",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 80,
+   "close_before": 81,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 80
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 80,
+    "close_before": 81
+   }
+  },
+  {
+   "quest": "重返霹雳门",
+   "quest_norm": "重返霹雳门",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 80,
+   "close_before": 81,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 80
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 80,
+    "close_before": 81
+   }
+  },
+  {
+   "quest": "禁忌之术",
+   "quest_norm": "禁忌之术",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 85,
+   "close_before": 86,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 85
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 85,
+    "close_before": 86
+   }
+  },
+  {
+   "quest": "兵祸之乱",
+   "quest_norm": "兵祸之乱",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 85,
+   "close_before": 86,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 85
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 85,
+    "close_before": 86
+   }
+  },
+  {
+   "quest": "石赫遇刺",
+   "quest_norm": "石赫遇刺",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 85,
+   "close_before": 86,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 85
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 85,
+    "close_before": 86
+   }
+  },
+  {
+   "quest": "乘黄试炼",
+   "quest_norm": "乘黄试炼",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 99,
+   "close_before": 100,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 99
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 99,
+    "close_before": 100
+   }
+  },
+  {
+   "quest": "辞别",
+   "quest_norm": "辞别",
+   "occurrences": 1,
+   "chapters": [
+    [
+     20,
+     "南疆风云"
+    ]
+   ],
+   "open_after": 99,
+   "close_before": 100,
+   "first": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "after_main": 99
+   },
+   "last": {
+    "sec_id": 20,
+    "sec_title": "南疆风云",
+    "main_no": 99,
+    "close_before": 100
+   }
+  },
+  {
+   "quest": "寻找元启",
+   "quest_norm": "寻找元启",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "劝阻肖寒光",
+   "quest_norm": "劝阻肖寒光",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "赔礼道歉",
+   "quest_norm": "赔礼道歉",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "肖寒光拜庄",
+   "quest_norm": "肖寒光拜庄",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "厂卫动作",
+   "quest_norm": "厂卫动作",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "玄火神丹",
+   "quest_norm": "玄火神丹",
+   "occurrences": 2,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ],
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "瑶姬邀约",
+   "quest_norm": "瑶姬邀约",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "回天剑宗",
+   "quest_norm": "回天剑宗",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "莲芯的委托",
+   "quest_norm": "莲芯的委托",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 102,
+   "close_before": 103,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 102
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 102,
+    "close_before": 103
+   }
+  },
+  {
+   "quest": "剑决之前",
+   "quest_norm": "剑决之前",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 103,
+   "close_before": 104,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 103
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 103,
+    "close_before": 104
+   }
+  },
+  {
+   "quest": "鱼龙混杂",
+   "quest_norm": "鱼龙混杂",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 103,
+   "close_before": 104,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 103
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 103,
+    "close_before": 104
+   }
+  },
+  {
+   "quest": "拜访殷无矜",
+   "quest_norm": "拜访殷无矜",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 103,
+   "close_before": 104,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 103
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 103,
+    "close_before": 104
+   }
+  },
+  {
+   "quest": "阎浮镇凶案",
+   "quest_norm": "阎浮镇凶案",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 103,
+   "close_before": 104,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 103
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 103,
+    "close_before": 104
+   }
+  },
+  {
+   "quest": "剑上少林",
+   "quest_norm": "剑上少林",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 103,
+   "close_before": 104,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 103
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 103,
+    "close_before": 104
+   }
+  },
+  {
+   "quest": "调查赤鹰",
+   "quest_norm": "调查赤鹰",
+   "occurrences": 2,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ],
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 103,
+   "close_before": 105,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 103
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 104,
+    "close_before": 105
+   }
+  },
+  {
+   "quest": "冰潭雪莲",
+   "quest_norm": "冰潭雪莲",
+   "occurrences": 2,
+   "chapters": [
+    [
+     18,
+     "旧主线-全流程"
+    ],
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 73,
+   "close_before": 108,
+   "first": {
+    "sec_id": 18,
+    "sec_title": "旧主线-全流程",
+    "after_main": 73
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 107,
+    "close_before": 108
+   }
+  },
+  {
+   "quest": "五逆浊世",
+   "quest_norm": "五逆浊世",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 107,
+   "close_before": 108,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 107
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 107,
+    "close_before": 108
+   }
+  },
+  {
+   "quest": "佛生诸想",
+   "quest_norm": "佛生诸想",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 107,
+   "close_before": 108,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 107
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 107,
+    "close_before": 108
+   }
+  },
+  {
+   "quest": "天机玄剑",
+   "quest_norm": "天机玄剑",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 107,
+   "close_before": 108,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 107
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 107,
+    "close_before": 108
+   }
+  },
+  {
+   "quest": "五仙圣女",
+   "quest_norm": "五仙圣女",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 107,
+   "close_before": 108,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 107
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 107,
+    "close_before": 108
+   }
+  },
+  {
+   "quest": "真武",
+   "quest_norm": "真武",
+   "occurrences": 1,
+   "chapters": [
+    [
+     21,
+     "少林剑诀"
+    ]
+   ],
+   "open_after": 107,
+   "close_before": 108,
+   "first": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "after_main": 107
+   },
+   "last": {
+    "sec_id": 21,
+    "sec_title": "少林剑诀",
+    "main_no": 107,
+    "close_before": 108
+   }
+  },
+  {
+   "quest": "剑名斩鲸",
+   "quest_norm": "剑名斩鲸",
+   "occurrences": 2,
+   "chapters": [
+    [
+     23,
+     "决战玉龙"
+    ],
+    [
+     23,
+     "决战玉龙"
+    ]
+   ],
+   "open_after": 118,
+   "close_before": 120,
+   "first": {
+    "sec_id": 23,
+    "sec_title": "决战玉龙",
+    "after_main": 118
+   },
+   "last": {
+    "sec_id": 23,
+    "sec_title": "决战玉龙",
+    "main_no": 119,
+    "close_before": 120
+   }
+  }
+ ]
+}

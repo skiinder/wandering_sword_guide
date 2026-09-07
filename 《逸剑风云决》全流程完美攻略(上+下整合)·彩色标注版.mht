@@ -1,0 +1,1285 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&webview_progress_bar=1&x-expires=1789921237&push_animated=1&lk3s=8e244e95&show_loading=0&rcl=20260906000704A31E545609781353DBD2&rrcfp=f512b60b&theme=light
+Subject: =?utf-8?Q?=E3=80=8A=E9=80=B8=E5=89=91=E9=A3=8E=E4=BA=91=E5=86=B3=E3=80=8B?=
+ =?utf-8?Q?=E5=85=A8=E6=B5=81=E7=A8=8B=E5=AE=8C=E7=BE=8E=E6=94=BB=E7=95=A5?=
+ =?utf-8?Q?(=E4=B8=8A+=E4=B8=8B=E6=95=B4=E5=90=88)=C2=B7=E5=BD=A9=E8=89=B2?=
+ =?utf-8?Q?=E6=A0=87=E6=B3=A8=E7=89=88?=
+Date: Sun, 6 Sep 2026 22:49:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--mNNVPEw2dihxkljbUDCIzax1RUc5jcz1Vkwmy4wmeS----"
+
+
+------MultipartBoundary--mNNVPEw2dihxkljbUDCIzax1RUc5jcz1Vkwmy4wmeS----
+Content-Type: text/html
+Content-ID: <frame-B1BC4A93DDD413D5EF6084570A99DC34@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&webview_progress_bar=1&x-expires=1789921237&push_animated=1&lk3s=8e244e95&show_loading=0&rcl=20260906000704A31E545609781353DBD2&rrcfp=f512b60b&theme=light
+
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-6e8c2a9d-f491-4af5-8ec9-489084a3521d@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>《逸剑风云决》全流程完美攻略(上+下整合)·彩色标注版</title>
+
+</head>
+<body>
+<div class="wrap">
+
+<div class="hero">
+  <div class="tagline">小黑盒 · 游戏攻略 · 墨羽ing</div>
+  <h1>《逸剑风云决》全流程完美攻略（上+下 全篇整合）<br>彩色标注版</h1>
+  <div class="meta"><span class="score">9.6</span> 逸剑风云决 · PC游戏 · 全主线+支线+成就+图鉴+收集100%<br>攻略基于 ver.1.24.32 版 + 碧海仙踪DLC + 武家旧事DLC 撰写 · 整合自原帖（上）+（下）两篇</div>
+</div>
+
+<div class="note-strip">说明：正文内容与小黑盒原帖（上篇+下篇）逐字一致，未作任何删改，仅在原文基础上用颜色区分任务类型，并对「<span class="save"><span class="save">存档</span></span>点 / <span class="imp"><span class="imp">必选</span></span>分支 / 掉落 / 关键提醒」做了高亮标注。文首的图例、路线图与章节导航为额外添加的阅读辅助。</div>
+
+<div class="legend">
+  <div class="lg-title">颜色标注图例</div>
+  <div class="lg-grid">
+    <div class="lg"><span class="dot" style="background:#e53935"></span><span><b>主线任务</b><em>推动主线剧情的必经流程</em></span></div>
+    <div class="lg"><span class="dot" style="background:#1e88e5"></span><span><b>支线任务</b><em>支线剧情 / 收集 / 队友入队</em></span></div>
+    <div class="lg"><span class="dot" style="background:#8e24aa"></span><span><b>成就</b><em>成就解锁条件</em></span></div>
+    <div class="lg"><span class="dot" style="background:#43a047"></span><span><b>备注 · 技巧</b><em>玩法提示、资源规划、注意事项</em></span></div>
+    <div class="lg"><span class="dot" style="background:#fb8c00"></span><span><b>小剧情</b><em>可触发的小剧情 / 彩蛋</em></span></div>
+    <div class="lg"><span class="dot" style="background:#00897b"></span><span><b>门派任务</b><em>门派贡献任务</em></span></div>
+    <div class="lg"><span class="dot" style="background:#fff2b8;border:1px solid #e0c260"></span><span><b>黄色高亮</b><em><span class="save">存档</span>点 / 关键节点</em></span></div>
+    <div class="lg"><span class="dot" style="background:#fbeadd;border:1px solid #c88a4a"></span><span><b>褐色高亮</b><em>掉落奖励</em></span></div>
+    <div class="lg"><span class="dot" style="background:#fdeaf0;border:1px solid #f0bcd0"></span><span><b>粉色卡片</b><em>准备篇（继承点规划）</em></span></div>
+  </div>
+</div>
+
+<div class="roadmap">
+  <div class="lg-title">章节路线图（全篇 准备 → 23）</div>
+  <div class="rm-scroll">
+    <div class="rm">
+      <div class="rm-node prep"><span class="no">准备</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#prep">前言 · 继承建议</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">1</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s1">初出茅庐</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">2</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s2">洛村剿匪</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">3</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s3">旧主线速通</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">4</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s4">江湖游侠</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">5</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s5">初入武当</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">6</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s6">碧海仙踪&amp;武家旧事</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">7</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s7">晋升资深</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">8</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s8">品剑大会</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">9</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s9">异种金蝎&amp;武家旧事</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">10</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s10">关外风云</a></div>
+    </div>
+  </div>
+  <div class="rm-scroll" style="margin-top:6px;">
+    <div class="rm">
+      <div class="rm-node"><span class="no">11</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s11">中原事宜</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">12</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s12">伤魂鸟</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">13</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s13">碧海仙踪</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">14</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s14">霹雳门</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">15</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s15">晋升传功</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">16</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s16">甘泉苦水</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">17</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s17">绮罗筵</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">18</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s18">旧主线全流程</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">19</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s19">新主线速通</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">20</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s20">南疆风云</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">21</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s21">少林剑诀</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">22</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s22">天佛大战</a></div>
+      <div class="rm-arrow">→</div>
+      <div class="rm-node"><span class="no">23</span><a href="https://p26-flow-sign.byteimg.com/tos-cn-i-ik7evvg4ik/rc/pc/super_tool/80e154066ade4024897792f358fe6680.html?x-signature=5m5seuh0NrHVb%2BuFzAtJOVM00SY%3D&amp;webview_progress_bar=1&amp;x-expires=1789921237&amp;push_animated=1&amp;lk3s=8e244e95&amp;show_loading=0&amp;rcl=20260906000704A31E545609781353DBD2&amp;rrcfp=f512b60b&amp;theme=light#s23">决战玉龙</a></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== 准备篇 ===== -->
+<div class="prep-sec" id="prep">
+  <div class="ph">0. 前言 <small>本攻略内容是以ver.1.24.32版+碧海仙踪dlc+武家旧事dlc进行撰写</small></div>
+  <div class="prep-item">大地图</div>
+  <div class="prep-item">初始可刷主角基础的武器精通值，上限为50(扣除自身招式提供的武器精通值后)。</div>
+  <div class="prep-item">想体验全剧情需要游玩多周目，全成就需要游玩极难模式，最好在二周目有继承的情况下体验极难模式。</div>
+  <div class="prep-item">继承点最多314700点，一周目结束差不多在12-20万点左右</div>
+</div>
+
+<div class="prep-sec">
+  <div class="ph">二周目继承建议 <small>多余的继承点可自行分配</small></div>
+  <div class="prep-item"><span class="cat">传承</span>传承(任意)=达摩/天剑/天山(40000)、乘君/天魔/天机(50000)、青云/玉龙(60000)</div>
+  <div class="prep-item"><span class="cat">棍法</span>技能-棍法=浑天梨花枪(4000、旧主线才能习得)</div>
+  <div class="prep-item"><span class="cat">心法</span>技能-心法=药圣医典(4000、没用科技且异种金蝎不准备走药圣线)</div>
+  <div class="prep-item"><span class="cat">拳法</span>技能书-拳法=火云神掌(8000)、化功绵掌(4000、初始秘籍三选二)、截脉三式(500、没用科技且异种金蝎不准备走商人线)</div>
+  <div class="prep-item"><span class="cat">暗器</span>技能书-暗器=漫天花雨(8000、孔亮不入队获取)</div>
+  <div class="prep-item"><span class="cat">剑法</span>技能书-剑法=真武剑气(8000、旧主线获取)、玄阳六合剑(8000、叶飞死亡获取)、惊雷剑法(4000、初始秘籍三选二)、虺蛇吐信(500、霹雳门降低童安好感度获取)、彩云剑法(500、没用科技且异种金蝎不准备走娜乌线)、八风剑法+岐黄剑术(500+100、没用科技且异种金蝎不准备走药圣线)</div>
+  <div class="prep-item"><span class="cat">刀法</span>技能书-刀法=娑婆破狱势(12000、旧主线获取)、霹雳霸刀(4000、初始秘籍三选二)</div>
+  <div class="prep-item"><span class="cat">心法</span>技能书-心法=四关十二原经(4000、没用科技且异种金蝎不准备走药圣线)</div>
+  <div class="prep-item"><span class="cat">服饰</span>宇文逸服饰(第二套)=300(大后期获取)</div>
+  <div class="prep-item"><span class="cat">经脉</span>经脉点拉满=39000</div>
+  <div class="prep-item"><span class="cat">食谱</span>图纸-食谱(三品)=7700(<span class="warn"><span class="warn">强迫症必备</span></span>，游戏里无法获取鹿茸粥/双荷汤/莲子羹菜谱)</div>
+  <div class="prep-item"><span class="cat">衣装</span>图纸-衣服(九品)=100(<span class="warn"><span class="warn">强迫症必备</span></span>，游戏里无法获取鱼鳞甲精良图纸)</div>
+  <div class="prep-item"><span class="cat">武器</span>道具-初始武器剑(四品)=1720(<span class="warn"><span class="warn">强迫症必备</span></span>，用于拉满梧桐村江吟风/吕轻祈/岳九的好感度；已经全图鉴则不需要)</div>
+</div>
+
+<div class="prep-sec">
+  <div class="ph">提高游戏前期体验的继承点推荐 <small>基本都是中后期才能获取，优先拿队友通用的</small></div>
+  <div class="prep-item"><span class="cat">拳法</span>技能书-拳法=无相劫指(4000、后期获取)、密宗七轮印(4000、中后期获取)</div>
+  <div class="prep-item"><span class="cat">剑法</span>技能书-剑法=达摩剑法(8000、后期获取)、降魔剑法(4000、后期获取)</div>
+  <div class="prep-item"><span class="cat">刀法</span>技能书-刀法=四无量禅刀(8000、后期获取)、菩提刀法(4000、后期获取)、明镜刀法(4000、后期获取)</div>
+  <div class="prep-item"><span class="cat">枪棍</span>技能书-枪棍=擎天架海式(8000、后期获取)、贪狼枪法(8000、后期获取)、破阵枪法(4000、前中期获取)</div>
+  <div class="prep-item"><span class="cat">轻功</span>技能书-轻功=鬼影幽冥大法(8000、中后期获取)、狐形步(500、后期获取)</div>
+  <div class="prep-item"><span class="cat">心法</span>技能书-心法=玄阳离火功(12000、红色开源心法)、光明心法(4000、搭配玄阳离火功)、睡梦罗汉功(8000、中后期获取)</div>
+  <div class="prep-item"><span class="cat">鞋子</span>图纸-鞋子(二品)=12700(中期获取、提高跑图速度)</div>
+  <div class="prep-item"><span class="cat">饰品</span>图纸-饰品(二品)=12700(中期获取、提高成长速度)</div>
+  <div class="prep-item"><span class="cat">帽子</span>图纸-帽子(二品)=12700(前中期获取、省去S/L时间)</div>
+</div>
+
+<!-- ===== 1. 初出茅庐 ===== -->
+<div class="sec" id="s1">
+  <div class="sec-head"><span class="sec-num">1</span><h2>初出茅庐</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">剧情后来到葬龙谷→和三人交谈→靠近马车触发剧情进入战斗→剧情后来到梧桐村(江小彤好感度+30)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">多余的装备可以留着分解；光点浮动的物品为可采集的材料；江吟风宅的床可免费休息恢复状态。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天赋异禀：开局携带4个红色心法(二周目任选4个红色心法进入游戏即可)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往下走。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">名字旁有抱拳标识的是可观察的NPC，赠送其喜好的物品可增加好感度(最低需要比其低一档的战力才能送礼)，好感度达到20可进行切磋，切磋获胜可获得其背包里的1-3件道具；除了可入队的队友和可请教武学/生活技能的NPC，正常只要送礼到好感度20，能清空其背包即可(养成随时清空NPC背包的好习惯)，满好感度没额外的剧情，非重要NPC的好感度增加不会特地备注。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">从右边走可先绕过主线探索村庄，和张樵夫/铁匠大锤/杂货赵氏/李村长/裁缝薛氏有额外对话；靠近钓鱼翁有额外对话，获得钓鱼经验+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">北望</span>：和赵启智交谈触发剧情选择“肯定能...”；和杂货赵氏交谈，获得钱*500。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">铁匠的烦心事</span>：和铁匠大锤交谈接受任务；和李寡妇交谈；返回和铁匠大锤交谈，获得虎头佩*1、钱*800。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">百晓生-无妄之灾</span>：和百晓生交谈选择“如何化解”并给他50钱即可。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往左侧的江小彤处(江小彤好感度+30)→往左走触发剧情进入战斗(获得基础心法)→和郎中孙老交谈→采集半边莲*5→返回和郎中孙老交谈。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">日常可准备3-4套9品白装防具+武器用来换掉临时队友的装备；临时入队的队友离队前记得抄书。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">经脉优先点满每条的前两个(消耗低，收益最大化)再点每条的第三个；永久增加属性的物品除了增加经脉点的，其余全给男主使用。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">枯藤老树昏鸦</span>：和郎中孙老交谈选择“趁着还硬朗”，获得辛金丸/乙木丹/武学笔记*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">樵夫的斧子</span>：和张樵夫交谈接受任务；和铁匠大锤交谈；返回和张樵夫交谈选择“重新锻造”接受任务(剧情多点)；和铁匠大锤交谈给他铁矿石*4；返回和张樵夫交谈，获得亮银甲*1、叫化鸡/碧凝酒*2、钱*2000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">村民的困惑</span>：和铁匠大锤交谈接受任务；和李村长或张樵夫交谈；和郎中孙老交谈；前往左侧猴群处；返回和郎中孙老交谈，获得水煮肉片菜谱/武学笔记*1、卤牛肉/清虚酒*2、钱*1000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">慈母手中线</span>：和裁缝薛氏交谈接受任务。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">无妄蛇灾</span>：和李村长交谈接受任务。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往江吟风处→前往客栈→和卫霍交谈→送礼到好感度20后和卫霍切磋。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">已经入队的队友尽量好感度拉满(特殊情况会说明)并且不要手动让他离队，游戏里大量主线/支线都有各个队友参与的剧情；需要手动离队的时候会备注。这里把可入队的队友分为主力/辅助/抄书(临时)三个级别，主力=全程上阵，需全力培养；辅助=有个人战(主角不参战)，可适当/全力培养；抄书(临时)=入队后无任何战斗、有战斗但胜负无任何剧情影响/奖励、临时入队，完全不需要培养，在队伍里抄书来加快主力/辅助的成长。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">卫霍的承诺</span>：邀请卫霍(辅助)入队并提升卫霍的好感度即可。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">山猪为患</span>：完成卫霍的承诺后自动获取任务。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募卫霍：招募卫霍。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">返回江吟风处→调查桌上药酒。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(初始秘籍)，下个主线选择的武器影响碗子山Boss宝箱里的秘籍。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往后山山洞前→装备武器后靠近木桩触发剧情进入战斗→进入后山山洞。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">无妄蛇灾</span>：击杀蛇怪*3。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往右上方触发剧情进入战斗*2。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">可将江吟风身上除武器外的装备全换下来自用。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往山洞中段触发剧情进入战斗<span class="drop"><span class="drop">(掉落基础轻功/碧水剑法/五虎断门刀/幻阴掌)</span></span>→剧情后来到江吟风宅。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">无妄蛇灾</span>：和李村长交谈，获得小炒肉菜谱*1、武学笔记*2、钱*1500。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往后山山洞前→离开梧桐村。</span></div>
+</div>
+
+<!-- ===== 2. 洛村剿匪 ===== -->
+<div class="sec" id="s2">
+  <div class="sec-head"><span class="sec-num">2</span><h2>洛村剿匪</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往下走进入洛村→和客栈掌柜交谈。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">客栈二楼的王石头有卖武功秘籍，把没有的买下来；客栈二楼撸猫有成就。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">养生秘术</span>：和郎中魏老交谈接受任务。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">农忙</span>：和杨婶交谈接受任务；采集麦子*5；返回和杨婶交谈，获得清蒸大河蟹菜谱/破甲锥/武学笔记*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">野猪进村</span>：往下方农田走触发剧情；和柳氏交谈接受任务；击败旁边的野猪；返回和柳氏交谈，获得武学笔记*1、二转血气丹*2、钱*800。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">百晓生-桃花劫</span>：和百晓生交谈选择“信他”并给他50钱即可。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">百晓生-命中贵人</span>：完成百晓生-桃花劫后立即前往平康城和百晓生交谈给他50钱即可(中间穿插其他任务的话，该支线有概率无法触发)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">大橘为重：洛村客栈撸猫。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">宝箱达人：开启10个以上不同宝箱。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">从右侧离开洛村前往碗子山触发剧情进入战斗(选1额外多场战斗；牢房有个宝箱<span class="warn"><span class="warn">别错过</span></span>)→离开牢房触发剧情进入战斗(胜利掉落心火丹/一转洗髓丹；战后红衣女子(临时)加入队伍)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这时可以先去各地做支线、开宝箱(B站_河图与洛书_大佬有具体的宝箱位置视频)、采集(没有等级限制，意味着1级就能采集到最高级的材料)、钓鱼(没有等级限制，先把没有钓到过的鱼钓到一次即可)、开图鉴(明雷可走位避战；打不过遇敌后逃跑也能解锁图鉴)，同时熟悉一下地图。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">前往平康城靠近铁匠张海触发剧情，获得矿石精炼/九品武器图册、锻造经验+10，装备可分解；靠近裁缝金氏触发剧情，获得九品防具图册、制衣经验+10；铁匠有卖八品武器图册，裁缝有卖八品防具图册。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">化缘</span>：前往平康城和空闻交谈选择“给他水囊”再任意选一项，获得一转洗髓丹/武学笔记*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">同情心</span>：钱≥1000的情况下，前往平康城和小雨交谈选择帮忙；前往药铺柜台前走动触发剧情；返回小雨处触发剧情选择“找她算账”，钱-500；前往左下方和小雨交谈选择“哄哄她”，获得武学心得*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">千金难求</span>：前往平康城和成生交谈选择“买”触发任务；前往当铺和钱掌柜交谈选择“以理服人”；返回和成生交谈选择“听她解释”触发剧情进入战斗，战胜后获得长生心法/进贤冠/武学心得*1、一转洗髓丹*2、钱*2000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">灭门之案-说客</span>：和张捕快交谈接受任务；和宋仵作交谈选择“劝说”；和铁匠交谈；前往碗子山采集精石*5；返回和铁匠交谈；返回和宋仵作交谈，宋仵作(临时)加入队伍(任务先做到这；抄书员不能上阵但在战后可获得60%的武学点，可以全用来撰写心得；未上阵的队友所获取的武学点不受装备影响，所以不用特地准备装备)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">千金蟾衣</span>：和王员外交谈选择“听听看”接受任务；和客栈的幻青交谈有小剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">拦路打劫</span>：进入碧幽林触发剧情选择“迎战”，胜利后获得龙舟鳜鱼菜谱/武学笔记*1、卤牛肉/青凤髓*3、钱*2000。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">在碧幽林打蜘蛛和蜈蚣获取蜘蛛/蜈蚣*10用于支线。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">千金蟾衣</span>：前往碧幽林的左侧触发剧情进入战斗<span class="drop"><span class="drop">(掉落毒龙舌/中品灵血丹/中品清灵丹/极品纯阳丹)</span></span>；返回平康城的王员外处触发剧情进入战斗，获得白虎剑精良图纸/丧乱帖*1、玉髓矿*5、上官虹好感度+20。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">在野猪林采集地黄*2、补骨脂*1；打野猪获取兽皮*5。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">山猪为患</span>：前往野猪林靠近野猪王触发剧情进入战斗*2；前往莲心湖往下走触发剧情进入战斗<span class="drop"><span class="drop">(掉落黑风刀法/紫铜刀精良图纸)</span></span>，获得中品混元丹/中品凝元丹*1、李元兴好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">莲湖会晤</span>：前往莲心湖中央触发剧情，冷无情好感度+5。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">莲湖会晤：莲心湖初遇双智。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">养生秘术</span>：前往洛村和郎中魏老交谈给他地黄+补骨脂*1，获得养心秘术。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">慈母手中线</span>：前往梧桐村和裁缝薛氏交谈给他地黄*1，获得武学笔记*1、香煎烧饼/清虚酒*3、钱*1500。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">山猪为患</span>：前往梧桐村和李村长交谈，卫霍离队，获得镇山心法、卫霍力道+5/根骨+15/身法+10/内功+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">砥砺精进</span>：前往卫霍处触发剧情，卫霍归队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">酒酿鱼脍</span>：前往清河村和李凡交谈接受任务；给他猴儿酒(洛村-小二)+草鱼*5(清河村-张渔夫)，获得四鳃鲈鱼脍菜谱/武学心得*1、酥骨鱼*5。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">夺回布料</span>：前往千陵渡和刘妙女交谈接受任务；给她绸布*10，获得范阳笠*1、武学心得*2、钱*5000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">海上丝绸</span>：前往仙人渡靠近胡员外触发剧情接受任务；给他绸布*5，获得乌金矿/寒铁矿/陨铁矿*2。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">仙人渡客栈有卖蚬子面/黄金蟹斗菜谱；布商有卖七品防具图册；在香料商人处购买乳香/沉香/麝香*1，获得龙涎香囊*1；在仙人渡的瀛洲商人处购买鲈鱼/鲶鱼/鲟鱼/金色鲤鱼*1用于支线。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">周家纠葛</span>：前往城隍庙往里走触发剧情选择“出面阻止”进入战斗<span class="drop"><span class="drop">(掉落嗜血寒蝠)</span></span>；战后选择“说来听听”，获得武学感悟*1、钱*2000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">昏鸦</span>：前往青萝山左上方触发剧情，荀杳杳好感度+5。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">靠近谭城入口的戏台触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">防身灵符</span>：前往谭城和姜鹰交谈可选择花费钱*5000买翡翠观音*1(或者直接不要)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">拳镇三山</span>：前往谭城和镇三山刘信交谈接受任务；和谭城的晋庸交谈；给他虎骨*3(饿虎坡宝箱)；返回和镇三山刘信交谈，获得虎头錾金靴*1、武学感悟*2、钱*5000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">丐帮豪富</span>：前往谭城和安员外交谈接受任务；给他兽皮*5，获得武学心得*1、钱*5000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">谭城旧事</span>：前往谭城和张判龙交谈接受任务；前往平康城和当铺掌柜交谈，获得青凤髓*1；返回谭城和张判龙交谈，获得武学笔记*2、钱*3000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">净衣礼</span>：前往谭城和洪掌柜交谈接受任务；前往幽云泽渡口和商人交谈；返回谭城和洪掌柜交谈，获得龙舟鳜鱼菜谱、武学笔记*2、钱*2000。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">在天鸣村的赵元可以无限用紫竹*10换取钱*1800。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">丢失的旺福</span>：前往南渝村和洛员外交谈接受任务；前往落英林的旺福处触发剧情进入战斗；剧情后来到南渝村，获得南渝村采矿凭证(可在南渝村矿洞无限采矿(品质随机))。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">叫花鸡</span>：身上有叫花鸡*1的情况下，前往津鲤村和老乞丐交谈给他叫花鸡*1(梧桐村-小二)，获得参竹鸡丝汤菜谱/盘龙棍*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">小蝶之心</span>(和司马相之心冲突)：前往津鲤村和小蝶交谈接受任务；拾取附近的宝箱获得精美的古钱；返回和小蝶交谈，获得纹龙佩/武学心得*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">司马相之心</span>(和小蝶之心冲突)：前往津鲤村和司马相交谈接受任务；拾取附近的宝箱获得精美的古钱；返回和司马相交谈，获得陶瓷塑像*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">钓鱼翁</span>：前往津鲤村和钓叟交谈接受任务；给他鲈鱼+鲶鱼+鲟鱼*1，获得水煮鱼/糖醋鱼菜谱*1、神秘宝箱(金)*2、神秘宝箱(蓝)*3、钱*3000；再次和他交谈给他金色鲤鱼*1，获得鱼龙舞菜谱、钱*5000、钓鱼经验+300。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">套路</span>：前往程家村和周婶交谈选择“想听”后可选择花费钱*2000获得家传翡翠*1(或者直接不要)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">猪倌的生意</span>：前往程家村和猪倌交谈接受任务；前往平康城和客栈掌柜交谈；返回程家村和猪倌交谈，获得藕断丝连/东坡肉菜谱*1、火腿*2、钱*2500。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">哭泣的小胖</span>：前往程家村靠近小胖触发剧情接受任务；前往断天崖往里走触发剧情进入战斗，获得黄龙刀法*1、钱*1500。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">草寇为祸</span>：前往北山村和杨开交谈接受任务；前往断天崖击杀草寇*5；返回北山村和杨开交谈，获得双龙斗菜谱/翡翠观音*1、武学心得*2、钱*2000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">饥民</span>：完成草寇为祸后，身上有生肉*10的情况下，前往北山村和孙二狗交谈接受任务；给他生肉*10，获得范阳笠*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蜃楼幻境</span>：前往断天崖悬崖处(<span class="save"><span class="save">先存档</span></span>)；跳崖摔死触发结局再读回之前的档；之后靠近任意驿站即可触发剧情获取任务(幻林地图开启，在仙人渡下方)；前往幻林(有4个宝箱记得先捡，到下一个场景后就幻林会关闭)；往右下方走来到蜃楼岛；走到尽头完成任务；蜃楼岛可挑战蜃楼幻境(后期)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">完成以上支线、搜刮完全图后可去升级装备和武学，升级完后可再切磋一圈拿道具。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">画舫轻歌</span>：完成千金蟾衣任务后，上官虹现身平康城；把她的好感度提升到40获取任务；前往青木舫往里走触发剧情进入战斗，战后司马铃好感度+10(青木舫后段地图开放)；前往竹海采集青竹*5；返回青木舫和慕海棠交谈，上官虹力道+15/根骨+20/身法+20/内功+15/习得青木漫舞；和上官虹交谈进入战斗，战后上官虹(主力)加入队伍，获得碧波心经/天仙洞衣精良图纸*1、武学心得*2、上官虹好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">白帝剑器</span>：将上官虹的好感度提升到70获取任务。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">砥砺精进</span>：前往阎浮镇和龙鼎天交谈(交任务前先搬空他的背包)；给他铁木*3触发剧情进入战斗<span class="drop"><span class="drop">(掉落蟠龙绕柱/盘龙棍精良图纸)</span></span>；前往檀林的瀑布处触发剧情，卫霍力道+15/根骨+15/身法+10/内功+20/习得慈航普渡杖/吐纳法。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">镖局客卿</span>：前往威远镖局和副总镖头交谈接受任务；再次交谈进入战斗；前往平康城和汪镖头交谈；前往樊城和蒋镖头交谈；返回威远镖局和副总镖头交谈，获得威远标局名刺、武学感悟*2、避神香/二品宁神丹*3。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">威远镖局悬赏</span>：前往威远镖局和总镖头李泰交谈接受任务；前往饿虎坡击杀贼寇*5；返回威远镖局和总镖头李泰交谈，获得神行散/三品宁神丹*3、武学感悟*2、兰陵酒/金疮药*5、钱*5000；再次接受任务前往饿虎坡山洞击败王猛(打完后拾取旁边宝箱)；返回威远镖局和总镖头李泰交谈，获得灵宝刀*1、大师注解*2、钱*10000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">插翅虎的来历</span>：拾取王猛的宝箱后，前往清河村的村长处触发剧情，获得白玉老虎牌/武学心得*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">跛足老道</span>：前往北山村和跛足老道交谈选择“我还非好奇不可”进入战斗，获得宇文逸武学点+500。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募上官虹：招募上官虹。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">白玉虎牌：解密白玉老虎牌任务。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">采集满级：江湖技艺采集达到满级(搜刮完全图后满级)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">巧夺天工：锻造出任意一品上武器(幻林有一品图纸)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">锻造满级：江湖技艺锻造达到满级(可留到后面慢慢刷)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">炼丹满级：江湖技艺炼丹达到满级(可留到后面慢慢刷)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">烹饪满级：江湖技艺烹饪达到满级(可留到后面慢慢刷)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">制衣满级：江湖技艺制衣达到满级(可留到后面慢慢刷)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">腰缠万贯：背包内金钱达到100W(可留到后面慢慢刷)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往碗子山右下方触发剧情进入战斗→前往右上方触发剧情进入战斗→继续往里走触发剧情进入战斗<span class="drop"><span class="drop">(掉落轻身术、红衣女子(瑶姬)</span></span>好感度+10)→前往右下方牢房(红衣女子离队，获得玄火刀法)→返回洛村。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">洛村客栈现在开始可免费恢复。</span></div>
+</div>
+
+<!-- ===== 3. 旧主线速通 ===== -->
+<div class="sec" id="s3">
+  <div class="sec-head"><span class="sec-num">3</span><h2>旧主线速通</h2></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">旧主线有很多图鉴可解锁，同时还有旧主线独有的秘籍/功法/装备；一周目可以过渡一遍旧主线(内容详见18.旧主线-全流程)，里面有不少内容是用来补全新主线的剧情：</span></div>
+  <div class="num-steps">
+    <div class="step"><span class="sn">1.</span>准备游玩多周目的话(只想玩一周目则跟着攻略把能体验的内容都体验一下)，非队友相关的支线可全程跳过(完成卫霍/白锦/上官虹的相关支线让他们入队)</div>
+    <div class="step"><span class="sn">2.</span>加入武当派后<span class="save"><span class="save">存档</span></span>(这个档是给只想玩一周目的玩家用的)</div>
+    <div class="step"><span class="sn">3.</span>离开武当后不要往清河村走，往平康城右侧直奔姑苏城内右侧的戏台，接取旧版吕仙儿的比武招亲支线并去梧桐村找吕仙儿入队；顺道做一下孔亮的韶华轻掷支线并选择“不帮他”，之后在品剑大会期间记得完成冷鹰好感度的小剧情</div>
+    <div class="step"><span class="sn">4.</span>此后按正常主线流程走(不要去做司马铃的入队任务；期间完美完成叶飞/冷无情的相关支线让他们入队)，三个女主和莫问好感度的选择按照攻略提示选，直到最终好感度抉择的地点(万劫窟慈石)<span class="save"><span class="save">存个档</span></span>(旧主线第一个<span class="save"><span class="save">存档</span></span>点，建议先走瑶姬结局)</div>
+    <div class="step"><span class="sn">5.</span>完美完成大型支线伤魂鸟(李元兴入队)</div>
+    <div class="step"><span class="sn">6.</span>跳过大型支线霹雳门(进入旧主线的唯一条件)</div>
+    <div class="step"><span class="sn">7.</span>继续做主线到西域大地图，期间完成吕仙儿所有的相关支线(解锁枪棍-浑天梨花枪)</div>
+    <div class="step"><span class="sn">8.</span>击杀苍鹰返回天水城后<span class="save"><span class="save">存档</span></span>再继续主线剧情(旧主线第二个<span class="save"><span class="save">存档</span></span>点，关乎到宇文逸当不当掌门)</div>
+    <div class="step"><span class="sn">9.</span>完美完成大型支线甘泉苦水(冷鹰/涤罪僧入队)</div>
+    <div class="step"><span class="sn">10.</span>继续主线直到第一次通关(期间获得秘籍-真武剑气/娑婆破狱势；决战胜利解锁队友的结局图鉴、瑶姬的结局图鉴之一；战败解锁莫问的血洗武林图鉴)</div>
+    <div class="step"><span class="sn">11.</span>读回第二个<span class="save"><span class="save">存档</span></span>点选择另一项(接下来前往青木舫完成和司马铃相关的任务(司马铃入队)，其他队友的支线完全不需要做，全程直奔主线)</div>
+    <div class="step"><span class="sn">12.</span>第二次通关(决战胜利解锁瑶姬的另一个结局图鉴、司马铃的结局图鉴)</div>
+    <div class="step"><span class="sn">13.</span>读回第一个<span class="save"><span class="save">存档</span></span>点(万劫窟不找瑶姬，完成莫问的故人支线)</div>
+    <div class="step"><span class="sn">14.</span>全程只走主线到击杀苍鹰返回天水城后<span class="save"><span class="save">存档</span></span>(旧主线第三个<span class="save"><span class="save">存档</span></span>点，跟之前一样关乎到宇文逸当不当掌门)</div>
+    <div class="step"><span class="sn">15.</span>晋升执法弟子前完成欧阳雪的绝响难求支线</div>
+    <div class="step"><span class="sn">16.</span>第三次通关(全程只走主线，决战胜利解锁欧阳雪的结局图鉴之一；战败解锁莫问的一年之约图鉴)</div>
+    <div class="step"><span class="sn">17.</span>读回第三个<span class="save"><span class="save">存档</span></span>点选择另一项，晋升执法弟子前完成欧阳雪的绝响难求支线</div>
+    <div class="step"><span class="sn">18.</span>第四次通关(全程只走主线，决战胜利解锁欧阳雪的另一个结局图鉴)</div>
+    <div class="step"><span class="sn">19.</span>读回第三个<span class="save"><span class="save">存档</span></span>点继续主线剧情(这里选不留下程钰让宇文逸当掌门，不做欧阳雪的绝响难求支线)</div>
+    <div class="step"><span class="sn">20.</span>继续主线直到成为真武殿首座后<span class="save"><span class="save">存个档</span></span>(旧主线第四个<span class="save"><span class="save">存档</span></span>点，关乎到小彤的结局图鉴)</div>
+    <div class="step"><span class="sn">21.</span>主线到英雄大会选不劝说小彤</div>
+    <div class="step"><span class="sn">22.</span>第五次通关(决战胜利解锁宇文逸的红尘逍遥图鉴)</div>
+    <div class="step"><span class="sn">23.</span>读回第四个<span class="save"><span class="save">存档</span></span>点在英雄大会劝说小彤</div>
+    <div class="step"><span class="sn">24.</span>前往天山决战前<span class="save"><span class="save">存个档</span></span>(旧主线第五个<span class="save"><span class="save">存档</span></span>点，关乎到小彤的结局图鉴)</div>
+    <div class="step"><span class="sn">25.</span>第六次通关(决战胜利解锁宇文逸的漠北孤狼图鉴)</div>
+    <div class="step"><span class="sn">26.</span>读回第五个<span class="save"><span class="save">存档</span></span>点，在天山决战前前往梧桐村拾取木剑并送给小彤</div>
+    <div class="step"><span class="sn">27.</span>第七次通关(决战胜利解锁江小彤的金蛇之诺图鉴)</div>
+    <div class="step"><span class="sn">28.</span>读回第三个<span class="save"><span class="save">存档</span></span>点(选择留下程钰不当掌门，不做欧阳雪的绝响难求支线)</div>
+    <div class="step"><span class="sn">29.</span>继续主线到英雄大会劝说小彤；天山决战前，前往梧桐村拾取木剑并送给小彤</div>
+    <div class="step"><span class="sn">30.</span>第八次通关(决战胜利解锁江小彤的重回梧桐村图鉴；旧主线到此完美结束)</div>
+  </div>
+</div>
+
+<!-- ===== 4. 江湖游侠 ===== -->
+<div class="sec" id="s4">
+  <div class="sec-head"><span class="sec-num">4</span><h2>江湖游侠</h2></div>
+
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">重回碗子山</span>：剿灭碗子山后，白锦现身洛村；和他交谈触发剧情进入战斗，白锦好感度+10；战后选择“就依此计”接受任务；前往碗子山击杀山贼*5；返回和白锦交谈选择“告诉他”，白锦好感度+30；前往碗子山右上方触发剧情进入战斗<span class="drop"><span class="drop">(掉落双龙斩/天龙心法)</span></span>，战后选择兵刃=铁蒺藜、珠宝=碧玉扳指、金银=钱*10000；剧情后来到洛村，白锦好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">锦蛇青梅</span>：完成重回碗子山后自动获取任务；前往落英林和白锦交谈；前往谭城客栈买青梅酒*5；返回落英林和白锦交谈选择“相信白锦”(白锦好感度+5)触发剧情进入战斗<span class="drop"><span class="drop">(掉落醉八仙棍)</span></span>，获得一箭双雕、武学心得*2、白锦力道+10/根骨+5/身法+15/内功+5、白锦好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">断天绝景</span>：完成锦蛇青梅后，把白锦的好感度提升到60后邀请白锦(辅助)入队获取任务；前往断天崖往前走触发剧情；击杀断天崖的草寇*5；继续前行到断天崖崖顶触发剧情(随便选)，获得腹龙锥精良图纸/含沙射影*1、熊胆*3。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">五仙花酿</span>：前往平康城和客栈二楼的幻紫交谈选择“询问小彤的下落”接受任务；给她蜘蛛/蜈蚣*10后选择“喝”；喝掉桌上的酒，获得二转洗髓丹*1、武学心得*2、钱*1000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">武馆叛徒</span>：前往姑苏城和魏存续交谈接受任务；前往洛村的小二王宸处触发剧情；前往津鲤村和王石头交谈触发剧情进入战斗；返回姑苏城和魏存续交谈，获得鬼爪*1、武学心得*2、钱*2000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">白帝剑器</span>：前往白帝湖右侧触发剧情进入战斗(上官虹单挑，掉落鱼肠剑精良图纸/寒光剑法/太华十二剑)；获得翡翠观音精良图纸/鱼肠剑/武学感悟*1、上官虹习得白帝剑器·鸿。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">画舫旧事</span>：完成白帝剑器后，前往青木舫和司马铃交谈接受任务，司马铃(主力)加入队伍；离开青木舫来到竹海；采集特制青竹*1触发剧情进入战斗<span class="drop"><span class="drop">(掉落暴雨梨花针)</span></span>，司马铃好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">出师考验</span>：完成画舫旧事后，前往青木舫把司马铃的好感度提升到50再和她交谈接受任务；前往青木舫左上方，获得金石散/三品宁神丹*2；和楚楚交谈进入战斗，获得宫粉梅/朱砂梅/龙游梅/武学心得*1、司马铃好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">青木裁衣</span>：完成出师考验后，前往青木舫和蕊蕊交谈接受任务；前往姑苏城和裁缝张彩织交谈选择“出手相助”；给她被劫的布料*1(连鼓山宝箱)，获得紫霞衣*1；返回青木舫和蕊蕊交谈，获得参归鱼茸汤菜谱/虎头錾金靴精良图纸/一转洗髓丹/武学感悟*1、钱*3000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">津鲤锦鲤</span>：完成出师考验后，靠近青木舫的司马铃；邀请司马铃(主力)入队；前往津鲤村往前走；前往村中木桥中央触发剧情，司马铃力道+15/根骨+5/身法+20/内功+5/经脉点+150、司马铃好感度+5。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">姑苏曼舞</span>：完成津鲤锦鲤后，把司马铃的好感度提升到80获取任务；前往姑苏城客栈触发剧情进入战斗*2(第一场司马铃单挑；掉落龙渊剑/灵宝刀精良图纸/太华十二剑/追命三仙剑)，获得武学感悟/蜀锦百花袍*1、司马铃力道+15/根骨+5/身法+10/内功+5/经脉点+150/习得白帝剑器·灵。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">同情心-归宿</span>：完成同情心后，前往阎浮镇的民宅处触发剧情；进入民宅触发剧情进入战斗*2，获得辛金丸*1(之后去青木舫和小雨/慕海棠交谈有小剧情)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">如果此时身法≥50，气血≥3000的话，可以去断天崖顶部跳崖，崖底有3级鱼池，崖底山洞有宝箱可获得瑜伽经。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">雷山的Boss张破帆可掉落各种橙色礼物。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募白锦：招募白锦。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募司马铃：招募司马铃。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">瑜伽经：学会瑜伽经。</span></div>
+</div>
+
+<!-- ===== 5. 初入武当 ===== -->
+<div class="sec" id="s5">
+  <div class="sec-head"><span class="sec-num">5</span><h2>初入武当</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往武当山触发剧情进入战斗(莫问好感度+20)→前往前往三清殿→和道微交谈(获得武当轻功)→和道通交谈→和莫问交谈→和道妙交谈→和道玄交谈(获得避神香丹方)→和清霄道长交谈选“认同他”(莫问好感度+10)触发剧情进入战斗<span class="drop"><span class="drop">(掉落盘龙棍/银花镖精良图纸；战后莫问(临时)</span></span>加入队伍)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">元济处有卖各种丹方。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">离开武当前<span class="save"><span class="save">存个档</span></span>(浑天梨花枪/碧波掌门)，旧主线从此刻开始就需要规划路线。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">武道之始</span>：前往道妙处触发剧情，获得武当刀法/武当长拳/大师注解*1、门派贡献+15。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">清剿野猪</span>：和道微交谈接受任务；前往野猪林击杀野猪*5；返回武当派和道微交谈，获得红烧里脊*2、钱*1000、门派贡献+50。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">炼丹术</span>：和道玄交谈接受任务；给他茯苓+白芍*1，获得宁神散丹方/宁神散*1、门派贡献+25、炼丹经验*100。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">名门正派：成功拜入武当。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">加入武当派后，六扇门、少林寺、丐帮对外开放。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">九炼熊蛇丸</span>：前往平康城和郎中张老交谈接受任务；依次给他熊胆*3+蛇胆*5、首乌*3+灵芝*1；前往武当派和道玄交谈；返回平康城和郎中张老交谈；再次给他朱砂*5，获得九炼熊蛇丸丹方*1、九炼熊蛇丸*2；返回武当派和道玄交谈，获得百花丸丹方/百花丸*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">毒蝎夺命</span>：前往清河村靠近铁蛋触发剧情获取任务(铁蛋(抄书)加入队伍)；前往洛村和郎中魏老交谈(任务先做到这)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">玄火试炼</span>：前往阎浮镇和葛炎交谈接受任务触发战斗，获得玄火心法/武学心得*1、钱*2000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">小高手智武</span>：前往少林寺和智武交谈接受任务；再次和他交谈触发战斗，获得宇文逸武学点*500。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">贪吃的智文</span>：前往少林寺和智文交谈接受任务；给他糖葫芦*1，获得宇文逸经脉点*50。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">歪僧慧达(一)</span>：前往少林寺和慧达交谈接受任务；给他龙颈笛*1，获得钱*500。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">歪僧慧达(二)</span>：完成歪僧慧达(一)后，慧达好感度≥20；前往少林寺和慧达交谈接受任务；给他春雷琴*1，获得墨玉吟*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">歪僧慧达(三)</span>：完成歪僧慧达(二)后，前往少林寺和慧达交谈接受任务；前往平康城和张秀才交谈，张秀才(临时)加入队伍(任务先做到这)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">破庙老猿</span>：剑法精通≥100的情况下，前往城隍庙内触发剧情进入战斗；跟上老猿，获得油布包(使用可获得白猿归风剑)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">北山村的跛足老道处有额外对话。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">白猿授剑：完成白猿授剑。</span></div>
+</div>
+
+<!-- ===== 6. 碧海仙踪&amp;武家旧事 ===== -->
+<div class="sec" id="s6">
+  <div class="sec-head"><span class="sec-num">6</span><h2>碧海仙踪&amp;武家旧事</h2></div>
+
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">乞丐与宝书</span>：在武当派至清河村的道路中触发剧情获取任务；前往姑苏城触发剧情；前往城隍庙往里走触发剧情进入战斗*2，获得中平枪法、撼地锤(有给钱则额外获得钱*888)；前往姑苏城客栈；前往姑苏城铁匠附近。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">比武招亲</span>：前往右侧擂台处触发剧情进入战斗，吕仙儿好感度+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">乞丐与宝书</span>：前往梧桐村客栈附近触发剧情接受任务(吕仙儿(主力)加入队伍、叶云/叶银瓶(临时)加入队伍；任务先做到这)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">东海明珠</span>：离开武当派触发剧情；前往平康城中央触发剧情获取任务，步微月好感度+10；在背包中使用青云扇法；靠近杂货刘秀儿；靠近铁匠张海；购买铁骨扇图纸并打造；前往野猪林触发剧情进入战斗(胜利后掉落宗师手札)，宇文逸习得回天扇法/青冥欲雨/天柱南倾、青云扇法升至9级(输了8级)；前往平康城触发剧情进入战斗，获得铁羽扇精良图纸、玉髓矿/碧玉/红玉/刚玉/墨玉/田黄石/铁羽扇*1、钱*5050、步微月好感度+20；前往平康城客栈，获得东海明珠/雀翎扇*1、步微月好感度+10(之后在少林寺圆觉、武当派清虚道长处可了解更多剧情)；前往青木舫和慕海棠交谈，获得凌波仙子手札上册(使用可了解更多剧情)；前往仙人渡；和客栈老板交谈。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">黄金蟹斗</span>：和码头的柏二爷交谈；给他黄金蟹斗*1(购买/烹饪)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">东海明珠</span>：往回走触发剧情；跟随小白猴*3触发剧情进入战斗，获得青云心法*1、步微月好感度+20；前往渡口触发剧情，步微月(主力)加入队伍；和柏二爷交谈选择“是”来到海上(开启游仙群岛大地图)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">先别去暮霞岛；海上大地图的海盗旗舰可掉落三种红色花卉。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">东海仙踪</span>：完成东海明珠自动获取任务；分别点亮游仙村和无名岛驿站(海上和岛屿有宝箱可拿)；前往游仙村，获得雀翎扇精良图纸。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">和游仙村的路达交谈可以帮他操练岛民5次后，获得松茸鱼卷/四禧鱼跃*1、石斑四珍烩/金缕三鲜盏*2。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">和步婆婆交谈可以占卜获得增益buff(不满意可再次占卜，步微月好感度高的话会帮你重占一次)；在村里的钓鱼点钓黑鲷*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">明珠无瑕</span>：和游仙村的李当归交谈；和鲁凯交谈。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">钓鱼之王</span>：前往蟹岛靠近孤海钓叟触发任务；前往左侧钓鱼点钓海鲈鱼*1；返回和孤海钓叟交谈，获得海钓钓竿*1；再次和他交谈；给他黑鲷*1，获得海王钓竿*1；再次和他交谈；在他旁边的钓鱼点钓鱼获得神秘宝箱钥匙(开启蟹岛中央的宝箱)；前往霓光岛钓鱼点钓破旧的神秘宝箱(有剧情)，打开获得鲲骨钓竿*1；返回蟹岛和孤海钓叟，获得钓鱼简札/石斑鱼/鳕鱼*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">暮霞双锦</span>：离开游仙村往正下方直走触发剧情进入战斗；前往暮霞岛；往右走进入草庐开启宝箱，获得上官虹和司马铃的新造型。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">仙猿山</span>：抵达游仙村自动获取任务；前往游仙村右侧的仙猿山；往前走*2触发剧情进入猿舞小游戏(可让司马铃独自猿舞跳过小游戏)；继续往上走再完成2次猿舞小游戏后触发剧情进入战斗，胜利后获得石制钥匙之一、东海之卷、宇文逸习得猿舞/仙猿归风剑/白猿归风剑、步微月获得经脉点+200/四维+20/习得猿舞、司马铃获得经脉点350/四维+35/习得猿舞/灵猿飒风刀、上官虹获得经脉点200/四维+20/习得猿舞/仙猿归风剑/白猿归风剑。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">灵龟岛</span>：抵达游仙村自动获取任务；前往灵龟岛触发剧情进入战斗(任务先做到这)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募吕仙儿：招募吕仙儿。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募步微月：步微月入队。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">灵剑仙猿：通过仙猿山考验。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">前往无名岛可开启家园系统；家园有矿场/鱼塘/药园每过30分钟可收获一次材料，任意驿站都能使用收获功能；离开无名岛会触发剧情，码头出现船工阿三(卖各类材料)；岛上还有各队友的小剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">卫霍-猎猪</span>：靠近擂台的卫霍触发剧情，获得优质生肉*5。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">上官虹-照料药田</span>：靠近药田触发剧情，获得生姜*2、山药*3。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">司马铃-救海龟</span>：靠近宇文逸屋外触发剧情，获得乌角巾*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">莫问-请教瑜伽经</span>：获得瑜伽经后，和莫问交谈触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">莫问-传剑</span>：宇文逸已习得流云剑法后，靠近宇文逸屋外触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">上官虹&amp;司马铃&amp;步微月-剑舞</span>：完成暮霞双锦&amp;仙猿山后，靠近上官虹屋外触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">碧海仙踪的支线先做到这里。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">乞丐与宝书</span>：前往六扇门触发剧情；前往平康城和朱五哥右侧的小吃商人购买烤栗子*1；从武当派往右下走触发剧情进入战斗(胜负皆可)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">和璞山庄</span>：完成乞丐与宝书后自动获取任务。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">靠近伙房的伙房师傅可回满状态并获取免费的药食buff，食用20次后可在此处料理食材获得药食。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">校场的慕勇可挑战三色大阵，成功可获得：简单=二转洗髓丹*1、普通=三转洗髓丹*1、困难=四转洗髓丹*1；三色大阵可反复刷，是获取武学点的主要来源。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和校场右下方的慕容弟子切磋触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">靠近右侧的慕信触发剧情；和慕仁交谈开始答题选择“221313”，获得战国策*1；和慕信交谈开始答题选择“233321”，获得孙子兵法*1；靠近右上侧的慕智触发剧情；和慕智交谈开始答题选择“222122”，获得史记*1。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">右下方的慕严处可用低品玉石换高品玉石；琢玉楼管事可打造玉制武器，打造任意武器5次后，即可打造更加高品的珠光宝气武器(可快速刷取武学点，本身也算是毕业装备)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">武家旧事的支线先做到这里；异种金蝎支线也先暂时不做。</span></div>
+</div>
+
+<!-- ===== 7. 晋升资深 ===== -->
+<div class="sec" id="s7">
+  <div class="sec-head"><span class="sec-num">7</span><h2>晋升资深</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往清河村和村长交谈→和兰儿交谈→前往猴儿林往里走→来到尽头触发剧情进入战斗(莫问好感度+10)→返回清河村和村长交谈→返回武当(莫问离队)→返回弟子房。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">收集药材</span>：和元风交谈接受任务；给他地黄*1，获得金疮药*2、钱*1000、门派贡献+20。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">寻找供品</span>：和元风交谈接受任务；给他碧玉兰*1，获得钱*1500、门派贡献+30。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">垂钓之乐</span>：和元风交谈接受任务；给他鳙鱼*1，获得糖醋鱼*1、钱*500、门派贡献+30。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">协助演武</span>：和元风交谈接受任务；和元启交谈触发剧情进入战斗，获得武学笔记/一品宁神丹*2、门派贡献+50。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">千陵凶案</span>：前往武当山门和樵夫交谈接受任务；和道通交谈接受任务；和试剑台的莫弃交谈，获得猴儿酒*1、莫弃(临时)加入队伍；前往武当山门；前往千陵渡往里走；和巴迁/陈小二/孔茹交谈；调查尸体；前往客栈选择“再等等”；调查右侧的酒坛；再次调查尸体，冷无情好感度+10；前往猴儿林尽头触发剧情进入战斗<span class="drop"><span class="drop">(掉落恶鬼刀法/狂风刀法)</span></span>，门派贡献+150、莫弃离队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">海商赵伦</span>：完成千陵凶案后，前往姑苏城和海商赵伦交谈接受任务；前往威远镖局和总镖头李泰交谈选择帮忙；前往连鼓山击杀海寇*5；前往连鼓山入口触发剧情进入战斗<span class="drop"><span class="drop">(掉落进贤冠精良图纸)</span></span>，获得乌皮六合靴精良图纸/如意盅/犀角碧檀子*1、冷无情好感度+10。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">挑战武当派的道通晋升资深弟子→前往三清殿门口→进入三清殿。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">清剿狼群</span>：和道微交谈接受任务；前往青萝山击杀狼*5；返回和道微交谈，获得优质兽皮*2、钱*2000、门派贡献+80。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">武林挑战</span>：和元启交谈接受任务；和武当山门的少年侠客/年轻女侠/樵三斧交谈进入战斗，获得门派贡献+45；返回和元启交谈接受任务；和弟子房旁的武大力/洪金交谈进入战斗，获得门派贡献+35；返回和元启交谈，获得门派贡献+50、宇文逸武学点*500。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">资深弟子：晋级资深弟子。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往平康城触发剧情选择“帮他还钱”触发剧情进入战斗*2。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">铁匠有额外对话。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">冲突</span>：离开平康城再返回触发剧情选择“插手”。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">公子相邀</span>：支线冲突选择“插手”后触发；前往平康城武馆和陈麟熙交谈；和武馆师弟交谈*2触发战斗*2；和武馆师兄交谈*2触发战斗*2；和陈麟熙交谈*2触发战斗*3，获得鬼爪精良图纸/玄冰神掌/十七帖*1、精美的古钱*2、武学心得*3。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">北山寒尸</span>：完成公子相邀后，把陈麟熙的好感度提升到70(不要送超过79，陈麟熙最后的好感度≥70必死)获取任务，陈麟熙加入队伍；前往北山村靠近左上方捕快(这里<span class="save"><span class="save">存个档</span></span>(陈麟熙图鉴))；靠近尸体触发选择“义正言辞”，陈麟熙好感度-10；前往樊城往里走；前往中下方，陈麟熙离队；前往左上方触发剧情进入战斗<span class="drop"><span class="drop">(掉落摔碑手)</span></span>，斩无刑临时加入队伍；往右直走触发剧情选择“相信斩无刑”，斩无刑离队，斩无刑好感度+5。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">平康麟子</span>：前往平康城和陈麟熙交谈触发任务；和客栈老板交谈；返回武馆触发剧情，获得寒冰真气、通臂拳、武学感悟*2；之后可邀请陈麟熙(抄书)入队。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">陈麟熙-作画</span>：前往无名岛擂台右侧触发剧情，获得水墨溪山*1。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">仗义疏财：平康城帮王钧还债。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募陈麟熙：招募陈麟熙。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往药铺→前往客栈购买张记烧鸡/琼华泉*1→返回和乞丐交谈*2→在药铺购买跌打药*1→前往王钧家触发剧情进入战斗→剧情后来到晚上→前往博坊→剧情后来到地窖。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">一次性地图，<span class="warn"><span class="warn">记得拿完</span></span>宝箱。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往密室触发剧情进入战斗→离开地窖→前往武当派的三清殿前→进入三清殿→和莫问交谈(莫问归队)→和莫弃交谈(莫弃归队)→前往平康城往里走。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">裁缝金氏/朱五哥/赛金花/恶汉有额外对话。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">分别和王有财/郎中张老/郭老交谈→前往北街触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落烧火棍法)</span></span>→战后选择“杀了他”→前往武当派的三清殿(莫问/莫弃离队)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">夜间的武当有个宝箱可拿(试剑台左上方)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往弟子房走(莫问好感度+20)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">莫问的喜好</span>：主线后自动获取任务；分别和元辰/元启/莫弃交谈后选择“棋盘”；前往程家村和陆博枭交谈触发剧情进入战斗，莫问好感度+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">天龙暗桩</span>：前往武当派的道通处触发任务；前往三清殿；和道玄交谈，获得二品宁神丹/金疮药*2；前往武当山门(任务先做到这)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">谋生之道</span>：前往洛村和王钧交谈接受任务；和王氏交谈；分别和铁匠老陈/郎中魏老/杨婶交谈；返回和王氏交谈；吃桌上的面，王钧(临时)加入队伍(任务先做到这)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">酒鬼乞丐</span>：前往谭城和小狗儿交谈接受任务；和城内的龚进交谈给他青凤髓*1，获得莲花棒法/武学感悟*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">天龙暗桩</span>：前往双河村；分别“迂回询问”胡大旺/村长/鱼贩子/老渔夫；分别调查鱼贩子的摊位/鸡窝/渔夫上方渔网/渡口；前往茶摊选择“联络、鱼贩子”；和村长交谈触发剧情进入战斗，获得门派贡献+680、冷无情好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">雷家村</span>：完成天龙暗桩后自动获取任务；前往雷家村靠近冷无情；和冷无情交谈选择“前来相助”；和村里所有人交谈；返回和冷无情交谈选择“准备好了”来到连鼓山，冷无情加入队伍、张文/赵武(临时)加入队伍；前往中央触发剧情进入战斗，战后冷无情/张文/赵武离队；返回雷家村触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落天龙斩)</span></span>，冷无情好感度+5。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">反攻前奏</span>：完成雷家村后，和桃花林的冷无情交谈接受任务；前往雷家村；返回桃花林和冷无情交谈；前往双河村和简希/郝任/陆虢交谈并战斗；前往连鼓山；前往左侧战场触发剧情进入战斗<span class="drop"><span class="drop">(掉落寂灭爪精良图纸)</span></span>；前往右侧战场触发剧情进入战斗<span class="drop"><span class="drop">(掉落兽面吞云甲精良图纸)</span></span>；前往中央战场触发剧情进入战斗<span class="drop"><span class="drop">(掉落乌角巾精良图纸)</span></span>，战后冷无情归队，获得火龙镖精良图纸*1、武学心得*2；前往山顶触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落玄鸟剑势/极品混元丹/极品烈阳丹/三转洗髓丹)</span></span>，战后冷无情离队；前往雷家村。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">娄赴召的归宿</span>：完成反攻前奏后，前往莲心湖中央触发剧情进入战斗(战胜获得玄火掌法/刀山火海式)，叶飞好感度+60，可邀请叶飞(辅助)入队。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">叶飞-钓鱼</span>：前往无名岛左上方触发剧情，获得带鱼/海鲈鱼/鳕鱼*1。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募叶飞：招募叶飞。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">寻找药材</span>：和武当派的元风交谈接受任务；给他茯苓+川芎*1，获得中品血灵丹*1、钱*1500、门派贡献+50。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">宴席准备</span>：和武当派的元风交谈接受任务；给他鲈鱼*1，获得松鼠鱼*2、钱*1000、门派贡献+50。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">演武试艺</span>：和武当派的元风交谈接受任务；和元启交谈触发战斗，获得八卦刀法、钱*1000、门派贡献+80。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">代送信笺</span>：和武当派的元风交谈接受任务；前往六扇门和刘雄交谈；返回武当派和元风交谈，获得神行散*1、钱*1000、门派贡献+30。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">武当元启</span>：完成演武试艺后，元启好感度≥80的情况下，和元启交谈触发剧情进入战斗；战后选择“去问道妙”获取任务；和道妙交谈。</span></div>
+</div>
+
+<!-- ===== 8. 品剑大会 ===== -->
+<div class="sec" id="s8">
+  <div class="sec-head"><span class="sec-num">8</span><h2>品剑大会</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">挑战武当派的道通晋升精英弟子。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">精英弟子：晋级精英弟子。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往三清殿(获得流云剑法)→前往元启处触发剧情进入战斗。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(泯然众人)，下一个主线点如果首战就输了的话，可触发一个泯然众人的结局。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往弟子房休息触发剧情进入战斗*3(莫问/莫弃归队、元鸣(临时)加入队伍)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里可以给元鸣送礼清空他的背包。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">技压同门：门派大比获得第一。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">小倩</span>：前往平康城王钧家门口触发剧情选择“拔刀相助”；进入王钧家往里走触发剧情进入战斗；战后选择“这是为什么、尽管说吧”；前往王有财处和王庆交谈，王庆(临时)加入队伍；往外走触发剧情进入战斗(任务先做到这)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往幽云泽渡口左上方触发剧情选择“不救”，神秘少女(江小彤)好感度+20。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往梧桐村→前往江吟风墓前触发剧情进入战斗→前往姑苏城触发剧情进入战斗。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(孔亮分支)；此处是支线-韶华轻掷最后的触发时机；后续分支可拿到奖励的流程跨度非常大，多周目建议先选不帮拿秘籍(单周目的话需要把主线推到西域大地图，期间要完成武家旧事的支线(到和璞山庄暂时关闭)，并且完成和冷鹰相关的好感度剧情，最后在进行大型支线甘泉苦水期间获得秘籍-漫天花雨后即可读回这个档)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">韶华轻掷</span>：前往阎浮镇和孔亮交谈接受任务，孔亮好感度+10；离开阎浮镇；前往少林寺往上走；和寺内的圆觉交谈；和涤罪僧交谈；离开少林寺来到阎浮镇；和涤罪僧交谈触发剧情选择</span></div>
+  <div class="choice"><b>“帮忙”</b>进入战斗<span class="drop"><span class="drop">(掉落神鹰指法/血河神鉴)</span></span>，获得虎爪靴精良图纸/黄龙刀法/龙游梅*1、武学心得*3、涤罪僧好感度+10、孔亮好感度+90；之后可以去谭城右上方邀请孔亮(抄书)入队。</div>
+  <div class="choice"><b>“不帮”</b>，获得黑风刀法/范阳笠精良图纸/朱砂梅*1、冷鹰好感度+10、孔亮好感度+40，</div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">孔亮-集贝</span>：前往无名岛靠近擂台下方触发剧情，获牡蛎*3、蛏子/皮皮虾*2。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">卫霍&amp;孔亮-烤猪</span>：触发卫霍-猎猪后，前往无名岛回宇文逸屋休息触发剧情，获得优质生肉/青梅酒*5。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募孔亮：招募孔亮。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往姑苏渡口→前往客栈选择“立即进入”触发剧情进入战斗(战后莫问/莫弃/元鸣离队)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">一次性地图，<span class="warn"><span class="warn">记得拿完</span></span>3个宝箱。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往右走*3触发剧情进入战斗(10回合内获胜掉落恶鬼心法)→剧情后来到名剑山庄→往右下走。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">欧阳雄处有卖精良图纸。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">慧空/慧平/侯九/绝无心/斩无情/欧阳剑英有额外对话；靠近洗剑池左侧有额外剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和莫问/莫弃/元鸣交谈触发剧情进入战斗*3<span class="drop"><span class="drop">(掉落武岳枪法/玄炎身法)</span></span>。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">旁边的欧阳小桃有额外对话；黄昏时分有2个宝箱可拾取。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往右侧→前往右上方触发剧情选择：</span></div>
+  <div class="choice"><b>1.特别好听</b>欧阳雪好感+0 <b class="imp">(旧主线<span class="imp"><span class="imp">必选</span></span>)</b></div>
+  <div class="choice"><b>2.有点压抑</b>欧阳雪好感+10<b class="imp">(新主线<span class="imp"><span class="imp">必选</span></span>)</b></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">剧情后欧阳雪(主力)加入队伍。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">夜晚时分有3个宝箱可拾取。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往入口处剧情后来到姑苏夜市。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">一次性地图，<span class="warn"><span class="warn">记得拿完</span></span>3个宝箱。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">猜灯谜</span>：和花灯小贩交谈开始猜谜，选择“华、灯、映、雪”，欧阳雪好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">霓裳羽衣</span>：和穷书生交谈选择“帮忙”，获得幽冥手精良图纸。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">茶摊说书</span>：和说书的交谈选择“听”听他说书。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">街头卖艺</span>：和江飞鱼交谈选择“比”；吞天虎=吃三盆后认输，获得东坡肉*1；铁臂猿=直接认输，获得赤铜锭*3；江飞鱼=战斗，获得四品宁神丹/大师注解*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">百味馄饨</span>：和萧大爷交谈选择“买”，吃掉桌上的馄饨触发剧情选择“安慰”，获得萧家食录(<span class="warn"><span class="warn">不要用掉</span></span>)/二十四气馄饨*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">姑苏灯会</span>：完成以上支线后自动完成任务。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">完成以上支线后触发剧情后来到名剑山庄(欧阳雪好感+20、欧阳雪离队)→往客房走*2。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">客房的莫问/莫弃有额外对话。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往客房休息→前往剑坪触发剧情进入战斗*5<span class="drop"><span class="drop">(掉落血鹰喙/醉八仙棍/韦陀掌/玄火心法、瑶姬好感度+20)</span></span>。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">和侯九/李元兴/慧空/慧平/莫弃/元鸣/绝无心/斩无情有额外对话。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往洗剑池右侧触发剧情，获得丧魂穿心钉/武学感悟*1、冷鹰好感度+10。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往前往泰阿堂→和堂外的莫问交谈触发剧情选择：</span></div>
+  <div class="choice"><b>1.赞同</b>莫问好感+10<b class="imp">(新主线完美通关<span class="imp"><span class="imp">必选</span></span>)</b></div>
+  <div class="choice"><b>2.反驳</b>莫问好感+0<b class="imp">(新主线一周目<span class="imp"><span class="imp">必选</span></span>；旧主线<span class="imp"><span class="imp">必选</span></span>)</b></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和莫邪阁的欧阳雪交谈(获得天羽奇剑)→和右侧的瑶姬交谈触发剧情选择：</span></div>
+  <div class="choice"><b>1.叫名字</b>瑶姬好感+10<b class="imp">(新主线完美通关<span class="imp"><span class="imp">必选</span></span>)</b></div>
+  <div class="choice"><b>2.于理不合</b>瑶姬好感+0<b class="imp">(新主线一周目<span class="imp"><span class="imp">必选</span></span>；旧主线<span class="imp"><span class="imp">必选</span></span>)</b></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往客房休息(莫问归队)→前往山庄门口(瑶姬(临时)/欧阳雪归队)→往城外走触发剧情进入战斗。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">寒泉铸剑</span>：前往姑苏城和铁匠刘成交谈接受任务；前往名剑山庄(如果身上有寒泉则跳过这一阶段)和欧阳茂才交谈；给他陨铁矿*1，获得寒泉*1；给铁匠刘成寒泉*1；离开姑苏城再返回和铁匠刘成交谈，获得龙渊剑*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">烟霞剑客</span>：前往樊城客栈触发剧情进入战斗；战后选择“去”，霍长青好感度+20；前往程家村触发剧情进入战斗(战胜获得恶鬼杖法)，霍长青好感度+60；前往樊城靠近客栈附近的霍长青，获得烟霞剑法/参竹鸡丝汤菜谱*1、武学心得*3、霍长青好感度+20；可邀请霍长青(抄书)入队。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">前往雾岛的李清浊处可触发修复蓬莱八奇珍的剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-芭蕉扇</span>：给他降龙木*1，获得芭蕉扇。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-莲花裳</span>：给他锦缎*20，获得莲花裳。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-火龙剑</span>：给他寒泉*1/朱砂*5/陨铁锭*3，获得火龙剑。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-白玉圭</span>：给他祖母绿/紫水晶*3，获得白玉圭。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-凤凰衫</span>：给他麝香/乳香/沉香/龙涎香囊*1，获得凤凰衫。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-紫竹篮</span>：给他十八学士/魏紫/别角晚水*1，获得紫竹篮。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-玄铁拐杖</span>：给他乌金锭/寒铁锭/紫金锭/镔铁锭/陨铁锭*5，获得玄铁拐杖。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">瑶姬-入住</span>：前往无名岛中央的瑶姬屋前触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">欧阳雪-疗伤</span>：前往无名岛的宇文逸屋内触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">上官虹&amp;霍长青-指点剑法</span>：前往无名岛的上官虹屋前触发剧情进入战斗，宇文逸/上官虹/霍长青剑法精通+20。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募霍长青：招募霍长青。</span></div>
+</div>
+
+<!-- ===== 9. 异种金蝎&amp;武家旧事 ===== -->
+<div class="sec" id="s9">
+  <div class="sec-head"><span class="sec-num">9</span><h2>异种金蝎&amp;武家旧事</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">接下来的支线-异种金蝎一共有三条线可触发，只能触发其中一条，一周目建议走药圣路线(柳麻衣)；想要同时触发的话可以用修改器改出异种金蝎，具体方法为：完成支线毒蝎夺命→改出异种金蝎(ID-10498)→在幽云泽触发毒物商人支线后选择拒绝(可对话再拒绝一次)→返回姑苏城完成柳麻衣的异种金蝎支线→再改出异种金蝎→返回幽云泽和元疆交谈完成毒物商人支线→(这里可以提前改出人面蛛(ID-10488)来完成元疆的人面鬼蛛任务)→最后再去猴儿林打原本的异种金蝎赠送给娜乌即可。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">毒蝎夺命</span>：前往姑苏城和柳麻衣交谈，铁蛋离队；给他蝎子*3，获得虎头錾金靴*1、武学感悟*2、铁蛋好感度+60。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">异种金蝎</span>：完成毒蝎夺命后自动触发剧情接受任务；前往清河村和铁蛋交谈，获得水煮肉*2；前往猴儿林山洞尽头触发剧情进入战斗，获得异种金蝎*1。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">打完后在这里<span class="save"><span class="save">存个档</span></span>。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">飞蝎使</span>：前往洞口触发任务选择“赠与”，获得彩云剑法、娜乌好感度+20(拒绝则是走另外两条支线，不过还是能触发该支线的后续)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">前往清河村和铁蛋交谈选择“同意入队”，铁蛋(抄书)归队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">飞蝎使</span>：前往蔓阴林往下走触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落辛金丸/三转洗髓丹/瘟疱掌)</span></span>，娜乌好感度+20；离开蔓阴林来到北山村；和顾思归交谈选择“学习”，获得白鹤归*1、顾思归好感度+20、顾思归加入队伍。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里再<span class="save"><span class="save">存个档</span></span>。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">毒物商人</span>：前往幽云泽的元疆处触发剧情获取任务；靠近二人选择“出售金蝎”(拒绝就是药圣线)，获得截脉三式、钱*20000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">人面鬼蛛(商人线)</span>：完成毒物商人后，往幽云泽出口走触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">异种金蝎</span>：拒绝娜乌和商人后，前往姑苏城和柳麻衣交谈给他异种金蝎*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">药圣之约</span>：完成异种金蝎后自动获取任务；离开姑苏城再返回到柳麻衣处，获得岐黄剑术*1、药圣的信；阅读药圣的信；前往竹海右上方触发剧情，商葶苎好感度+15。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">人面鬼蛛(药圣线)</span>：完成药圣之约后自动获取任务。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">完成药圣之约后，前往竹海和商葶苎交谈触发剧情，获得四关十二原经、上官虹力道+5/根骨+5/身法+5/内功+10/习得四关十二原经/药圣医典。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">明珠无瑕</span>：前往游仙村和鲁凯交谈给他东海明珠/夜明珠(和璞山庄-慕迟背包里有)/祖母绿/紫水晶*1，获得明珠无暇*1、步微月好感度+20。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">铁蛋-洗马</span>：前往无名岛宇文逸屋的下方马匹处触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">顾思归-谈青云主人</span>：前往无名岛和右上方的顾思归交谈触发剧情，宇文逸武学点+1000。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募铁蛋：招募铁蛋。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">和璞山庄</span>：前往和璞山庄的玉阁；前往东厢房(吕仙儿/叶云/叶银瓶离队)；前往校场触发剧情进入战斗(单人战，胜负皆可)，慕迟好感度+10；往左走前往校场；前往玉阁；前往左上方触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">完成慕仁/慕信/慕智的答题后，和慕艾交谈开始答题选择“122”，获得武穆遗书*1。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">慕寒梅好感度≥80的情况下，在伙房料理食材时有几率触发慕寒梅亲自做菜剧情；慕寒梅特制的和慕家特制的药食可共存，意味着战前可吃上一遍所有药食来叠Buff应对高难战斗。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">沙盘演武</span>：完成和璞山庄后自动获取任务；和吕仙儿交谈开始沙盘演武(演武都可以跳过)；和慕艾交谈*2继续演武*2。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">协助叶家兄妹掌握玉枪</span>：前往校场触发剧情进入战斗。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">夤夜访客</span>：前往东厢房休息；前往校场；和慕寒梅交谈；前往东厢房休息。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">沙盘演武</span>：靠近吕仙儿开始沙盘演武，获得雷霆枪法/擂山锤*1；和慕艾交谈继续演武(坚持一回合即可)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">协助叶家兄妹掌握玉枪</span>：前往西厢房；前往左上方触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">夤夜访客</span>：前往山庄入口和慕寒梅交谈；前往平康城；在平康城内找到行脚菜贩购买所需物品；返回客栈和赛金花交谈，获得翡翠豆糕菜谱*1；离开平康城来到墓园(留意右上方NPC的位置)；前往刚刚右上方NPC所在的位置触发额外小剧情；离开墓园来到和璞山庄；离开房间。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">协助叶家兄妹掌握玉枪</span>：前往校场触发剧情进入战斗*2，获得十七路小擒拿/青玉劲/四转洗髓丹/叶家枪法/沥泉神枪精良图纸*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">沙盘演武</span>：靠近东厢房附近的吕仙儿触发剧情；前往校场触发剧情；靠近慕艾触发剧情开始沙盘演武，获得慕家兵略*1、吕仙儿归队。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">下个支线完成后，和璞山庄将会关闭一段时间。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">流转</span>：完成沙盘演武&amp;协助叶家兄妹掌握玉枪任务后自动获取任务；前往玉阁；往右走触发剧情，宇文逸四维+10/武学点+5000；前往山庄入口触发剧情，宇文逸/吕仙儿的血气/真气上限+600，获得五宝花秘酒*1(<span class="warn"><span class="warn">留着别用</span></span>)；剧情后进入战斗，胜利后获得青玉手*1、宇文逸习得流云太极；剧情后获得一心战衣/金刚锤/穆家兵法*1、吕仙儿四维+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">四大武家</span>：完成流转后自动获取任务。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">武家传承：协助叶家兄妹和吕仙儿完成课业。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">一代宗师：战力达到一代宗师。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">流云太极：创出流云太极。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">巾帼红妆：解锁吕仙儿新形象。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">蓬莱遗珍-无底葫芦</span>：给他五宝花蜜酒/波斯佳酿(仙人渡)/琼华泉(平康城)*1，获得无底葫芦；集齐八珍，获得锻造/制衣简札*2、天柱之卷。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">吕仙儿-练枪</span>：前往吕仙儿屋前触发剧情进入战斗，宇文逸/吕仙儿枪棍精通+20。</span></div>
+</div>
+
+<!-- ===== 10. 关外风云 ===== -->
+<div class="sec" id="s10">
+  <div class="sec-head"><span class="sec-num">10</span><h2>关外风云</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往幽云泽渡口的码头触发剧情进入战斗→前往峋谷关触发剧情进入战斗。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">峋谷关的铁匠有卖七品武器图册，裁缝有卖七品防具图册。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">镖局客卿</span>：和峋谷关的陈镖头交谈。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和峋谷关一个左右走动的峋谷关守卫(刀)交谈触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往城北将军府触发剧情选择“夜探将军府”→前往客栈靠近掌柜→再次前往将军府。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">前往将军府左上方的卧室会触发剧情，选择“放下兵器”会触发坐牢结局；选择“突出重围”也能达到直接去右上方的效果，不过需要打3场战斗。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往将军府右上方→离开将军府往下走→前往右下方触发剧情选择“上前阻止”进入战斗<span class="drop"><span class="drop">(掉落极品混元丹/极品烈阳丹*2，获得破阵枪法)</span></span>→前往将军府左上方(瑶姬离队)触发剧情选择“出言安慰”→离开将军府触发剧情选择：</span></div>
+  <div class="choice"><b>1.先找瑶姬</b>瑶姬好感度+20<b class="imp">(新主线一/二周目<span class="imp"><span class="imp">必选</span></span>；旧主线<span class="imp"><span class="imp">必选</span></span>)</b></div>
+  <div class="choice"><b>2.先回辽城</b>瑶姬好感度+0</div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往正下方(瑶姬归队)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">筹备药材</span>：和城内的朴世仁交谈接受任务；给他川芎/水仙/补骨脂/虎骨*5，获得钱*20000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">筹备军资</span>：和城内的主簿陈修交谈接受任务；给他生肉/铁矿石/铜矿石*5，获得武学感悟*1、钱*10000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">排查奸细</span>：和将军府卧房的黄宗政交谈接受任务；分别和城内的由归交/汪瑞交谈触发战斗*2；返回和黄宗政交谈，获得瑞彩祥云袍*1、武学感悟*2、钱*3000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">赵二磊的家书</span>：完成北望后，和城内的赵二磊交谈接受任务；前往梧桐村和赵氏交谈，获得双菌汤菜谱/一转洗髓丹/兽面吞云甲*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">镖局客卿</span>：前往威远镖局和副总镖头交谈，获得客卿腰牌、清心护符*1、武学感悟*2、兰陵酒/金疮药*3。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往姑苏城靠近右侧的萧大爷触发剧情选择“善意隐瞒”(奖励少一点，心里好受点)，获得二十四气馄饨/海参/松茸/*1、竹荪*2、竹笋*3。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">瑶姬-旧疾</span>：前往无名岛触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">从峋谷关左侧离开来到关内大地图。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">蜃楼海域的Boss林天寒(宇文逸单挑)掉落红色礼物、二转洗髓丹、锦镧袈裟精良图纸；可无限刷洗髓丹给队友都拉满经脉。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往辽城。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">小豆子/李大虎/包氏有额外对话。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往右侧宇文逸家(莫问/瑶姬/欧阳雪离队)→前往义庄→前往包氏处→找寻城里的四只羊→往城北走触发剧情进入战斗(获胜掉落奔雷掌/龙骨；莫问/瑶姬/欧阳雪归队)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">峋谷关右下方的兰儿有额外对话。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往葬龙谷(靠近第一场景的崖边有额外对话)→前往黎城(瑶姬离队)→往右走靠近清霄道长→前往客栈门口→进入客栈靠近掌柜→前往不风山触发剧情进入战斗→往右下走触发剧情选择“跟上去看看”→继续往下走到尽头触发剧情选择“饶他一命”(旁边有宝箱)→返回莫弃处再往右上方走→继续前行→清剿山顶的敌人。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">欧阳衡/欧阳剑英/左江龙有额外对话；元木左侧木箱/仇无道左侧的谷物/侯九右侧的杂草/慧空右侧的袋子/猛虎堂-右侧书架/右侧酒坛/右侧桌子/中间座椅都可以调查一下。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">进入猛虎堂靠近梅花图→前往门口→返回调查梅花图→剧情后来到暗道。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">一次性地图，<span class="warn"><span class="warn">记得拿完</span></span>6个宝箱。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往前走触发剧情进入战斗→通过火道机关往里走触发剧情进入战斗→前往尽头触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落八方藏刀式)</span></span>→剧情后来到黎城(莫问/欧阳雪离队)→往左走*2。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">先别回客栈；前往玄火教门口触发剧情选择“自报家门”进入战斗，瑶姬好感度+10(旧主线需要触发该剧情；新主线一周目不用触发该剧情；新主线二周目完美通关需要触发)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">遗书</span>：身上有不风山拾取的任务道具-遗书；和黎城的骆娴交谈，获得什锦鹿茸羹菜谱/武学感悟*1、钱*8000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">传家之宝</span>：身上有不风山拾取的任务道具-赤血珊瑚；和黎城的成老交谈选择“原物奉还”，获得钱*5000、犀角/沉香*1。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往黎城往右走→往下走→剧情后来到武当派。</span></div>
+  <div class="sec-foot">—— 上篇（准备篇 + 第1-10章）完 · 以下接续原帖下篇（第11-23章）——</div>
+</div>
+
+<!-- ===== 11. 中原事宜 ===== -->
+<div class="sec" id="s11">
+  <div class="sec-head"><span class="sec-num">11</span><h2>中原事宜</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">大地图</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">塞外风光</span>：白锦好感度≥80的情况下，离开武当派触发剧情获取任务；前往峋谷关往里走；前往将军府，白锦离队(这里<span class="save"><span class="save">存个档</span></span>，有两条分支，先走白锦死亡线拿秘籍和图鉴再读档回来)；前往临昌往中下方走触发剧情进入战斗，战后白锦归队，获得天罗地网钉*1、白锦力道+20/根骨+10/身法+30/内功+10/经脉点+250、白锦好感度+20(死亡线：不去临昌，前往葬龙谷击杀渊国传令兵；往葬龙谷左侧出口走；前往峋谷关将军府，获得霹雳雷火弹*1)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">再遇无情</span>：前往桃花林靠近冷无情触发剧情接受任务，上官虹力道+5/根骨+5/身法+15/内功+10、司马铃力道+15/根骨+5/身法+10/内功+5、上官虹/司马铃经脉点+100；前往姑苏客栈和冷无情交谈；和丘掌柜交谈触发剧情进入战斗<span class="drop"><span class="drop">(掉落素质刀精良图纸)</span></span>，获得五恒天经/金缕玉带精良图纸/兵锋六要*1、冷无情归队、冷无情力道+15/根骨+5/身法+5/内功+20、冷无情好感度+50。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">海寇内应</span>：完成再遇无情后，前往仙人渡的提举司触发剧情；进入提举司，获得波斯佳酿*2；和六扇门捕快交谈接受任务；分别和瓷器贩子/南洋商人/布商/东洋商人/瀛洲商人交谈；前往客栈休息；前往暗市(暗市商人可先买秘籍再触发后续剧情)；调查右上角触发剧情进入战斗；进入密道触发剧情进入战斗，获得蝎尾针*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">冷无情-对弈</span>：前往无名岛的冷无情房间触发剧情。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募冷无情：招募冷无情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">武学点自由后，和四大抄书员相关的任务在此时差不多就可以全做完。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">灭门之案-说客</span>：前往平康城和李捕快交谈，获得六扇门金令/二转洗髓丹*1、武学心得*2、钱*1000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">灭门之案-线索</span>：完成灭门之案-说客后，前往平康城和李捕快身后院子的宋仵作交谈接受任务；分别和城内的李捕快/陈麟熙(手动离队)/幻紫交谈；返回宋仵作处触发剧情进入战斗(选迎敌)；和李捕快交谈，获得虎爪靴*1、二转洗髓丹/武学感悟*2、钱*6000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">灭门之案-真凶</span>：完成灭门之案-线索后，前往平康城靠近李捕快触发剧情选择“去”；前往宋仵作家触发剧情进入战斗，获得癸水丹/犀角/虎骨/虎鞭/灵芝/人参*1、当归*4。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">歪僧慧达(三)</span>：前往少林寺和慧达交谈，张秀才离队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">歪僧慧达(四)</span>：完成歪僧慧达(三)后，慧达好感度≥ 80的情况下，前往少林寺和慧达交谈，获得春雷龙吟*1(使用获得吐纳法)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">谋生之道</span>：前往洛村客栈和掌柜交谈，王钧离队；返回和王氏交谈，获得雪花芙蓉/参茸二鲜汤菜谱、梅花汤饼/碧涧羹/武学心得*1、王钧/王氏好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">民以食为天*4</span>：完成谋生之道后，和王钧交谈接受任务(可无限用食材换药食)，奖励为：鲤鱼*3=酥骨鱼*3、茯苓*3=二陈汤*3、优质生肉*2=火腿*3、水芹*5=碧涧羹*2。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">小倩</span>：前往津鲤村和桥上的小倩交谈，王庆离队；前往平康城和铁匠旁的王家护院交谈；返回津鲤村和王庆交谈，获得参茸紫贝汤菜谱、流水丹/碧玉扳指*1、武学感悟*2、钱*3000。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往万劫窟→靠近慈石触发剧情进入战斗→战后选择“询问原委、同意”→前往穿山蠎/盘山蠎处→击败二人→返回朱九真处。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(旧女主好感度)，关乎到新旧主线的最终结局；返回洞窟深处(右侧入口)触发剧情(瑶姬好感度+20)进入战斗(旧主线返回洞窟深处找瑶姬=瑶姬结局、不找瑶姬=欧阳雪/江小彤/单身/花灯结局；新主线一周目不用触发该剧情、新主线二周目完美通关需要触发该剧情)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">返回武当派的道玄处→前往名剑山庄→前往左侧客房(欧阳雪好感度+20)→前往威远镖局→往里走触发剧情(选择“出手相助”多一场战斗)→前往饿虎坡深处触发剧情→返回武当三清殿→前往弟子房休息。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">炼丹术(二)</span>：和道玄交谈接受任务；和道妙交谈获得所需材料；返回和道玄交谈给他党参/红花/水银/虫草/首乌*1，获得上品清灵丹*1、上品清灵丹丹方、门派贡献+200、炼丹经验+300。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">搜集矿石</span>：和道微交谈接受任务；给他乌金矿*1，获得鱼肠剑/呜鸿刀/幽冥手/伏魔杖(4选1)*1、门派贡献+200。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">清剿饿虎坡</span>：完成搜集矿石后，和道微交谈接受任务(把他的好感度提升到≥70)；前往恶虎坡击杀贼寇*10；返回武当派和道微交谈，获得翡翠观音*1、钱*2000、门派贡献+280。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">归元刀法</span>：完成清剿饿虎坡，道微好感度≥80的情况下自动触发剧情，获得归元刀法*1。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">搜集药材</span>：和元风交谈接受任务；给他熊胆*3，获得上品纯阳丹*2、钱*2000、门派声望*220。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">垂钓精通</span>：和元风交谈接受任务；给他七鳃鳗*1，获得双龙斗*2、武学感悟*1、钱*1500、门派声望*180。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">搜集猴儿酒</span>：和元风交谈接受任务；身上有猴儿酒*3的情况下再次和他交谈；和莫弃交谈；返回和元风交谈，获得人参/首乌*1、钱*1500、门派声望*150。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">送信少林</span>：和元风交谈接受任务；前往少林寺和圆觉交谈；返回和元风交谈，获得避神香*2、钱*1000、门派声望*150。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往武当派往山顶走触发剧情选择“去”。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(莫问图鉴)；支线-故人关乎新旧主线的莫问结局；在旧主线的瑶姬结局，莫问结局固定是血洗武林、而旧主线其他结局莫问好感度≥90则是一年之约；新主线莫问好感度≥90的话解锁完美结局图鉴、莫问好感度≤80的话解锁另一张结局图鉴；一周目新主线建议先不做该支线压好感度≤80拿另一张结局图鉴。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">故人</span>：前往武当派的三清殿和清虚道长交谈；离开三清殿触发剧情获取任务；前往谭城触发剧情，莫问好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">绝响难求</span>：前往名剑山庄的莫邪阁前触发剧情选择“找到琴谱”；前往姑苏城客栈和掌柜交谈；前往花灯小贩处(任务先做到这，关乎最终女主结局)。</span></div>
+</div>
+
+<!-- ===== 12. 伤魂鸟 ===== -->
+<div class="sec" id="s12">
+  <div class="sec-head"><span class="sec-num">12</span><h2>伤魂鸟</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">接下来是大型支线伤魂鸟。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">伤魂调·序曲</span>：前往谭城往里走触发剧情获取任务；前往丐帮触发剧情选择“质问乌天瘤”，荀杳杳好感度+5；和李元兴交谈。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">镇派棒法</span>：和侯九交谈接受任务进入战斗。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">净衣派</span>：和乌天瘤交谈接受任务。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">丐帮之法</span>：和左江龙交谈接受任务；前往谭城和龚进交谈了解剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">玉容皓皓</span>：触发伤魂调·序曲后，往丐帮走触发剧情；从丐帮离开触发剧情获取任务；前往客栈门口。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">净衣派</span>：前往名剑山庄和欧阳献公交谈。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">玉容皓皓</span>：前往南渝村和玉伯交谈；前往蔓阴林左下侧触发剧情，获得莲花掌*1；返回南渝村和玉伯交谈；前往紫竹林右下方触发剧情进入战斗；返回南渝村和玉伯交谈，荀杳杳好感度+20；阅读背包里的信；和玉伯交谈；离开南渝村。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">丐帮之法</span>：前往天鸣村和刘玄交谈；前往紫竹林中上方的案发现场；返回和刘玄交谈；离开天鸣村；返回谭城往里走触发剧情进入战斗<span class="drop"><span class="drop">(掉落缠丝擒拿手)</span></span>；和龚进交谈；返回丐帮和左江龙交谈，获得武学感悟*2、钱*5000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">净衣派</span>：返回丐帮乌天瘤交谈，获得二转洗髓丹/武学心得*1、钱*5000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">拨云见日</span>：完成丐帮之法&amp;玉容皓皓后，往下走触发剧情获取任务；和李元兴交谈；前往谭城客栈；前往青萝山初遇荀杳杳处触发剧情；和燕未还&amp;荀杳杳交谈了解剧情，荀杳杳好感度+10；和李元兴交谈选择“做出决定”；离开青萝山；前往丐帮和李元兴交谈选择“做好准备”触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落神龙掌法/五罗轻烟)</span></span>，获得擒龙功*1、武学感悟*2。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">丐帮大战</span>：完成拨云见日后自动获取任务；往天鸣村下方河边触发剧情，荀杳杳好感度+10；和天鸣村的燕未还交谈选择“已准备好”触发剧情进入战斗，获得哭丧棒*2、李元兴好感度+10、燕未还好感度+5。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成丐帮大战后，前往丐帮和李元兴交谈，获得睡梦罗汉棍/青玉令*1、武学感悟*2、李元兴好感度+10，可邀请李元兴(辅助)加入队伍；离开丐帮触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往谭城的戏台触发剧情，获得三转洗髓丹/骸骨钉/腐尸毒*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">幽云泽遇伏</span>：前往幽云泽触发剧情选择“出手相助”进入战斗，获得蛇形剑*1、钱*10000、莲芯好感度+10；往左移动，获得恶鬼令牌。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">出笼之鸟</span>：完成丐帮大战后，前往幽云泽西岸往左走触发剧情进入战斗<span class="drop"><span class="drop">(掉落疯魔杖法/七星拳套精良图纸)</span></span>，燕未还/荀杳杳好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">伤魂何处？</span>：完成出笼之鸟后，前往蔓阴林右下方触发剧情，获得昏鸦尽/飞龙在天*1、武学感悟*2、燕未还好感度+20、燕未还(辅助)加入队伍。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">给燕未还送礼到好感度≥70后让他离队，前往梧桐村左侧触发剧情，燕未还好感度+10。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">李元兴-醉酒</span>：前往无名岛往李元兴屋走触发剧情，获得兰陵酒*5。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">白锦&amp;李元兴-偷茶</span>：前往无名岛的白锦屋外触发剧情，获得龙凤团饼*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往竹海和商葶苧交谈触发剧情；再次和她交谈选择“欧阳雪”触发剧情。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募李元兴：招募李元兴。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募燕未还：招募燕未还。</span></div>
+</div>
+
+<!-- ===== 13. 碧海仙踪 ===== -->
+<div class="sec" id="s13">
+  <div class="sec-head"><span class="sec-num">13</span><h2>碧海仙踪</h2></div>
+
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">灵龟岛</span>：前往灵龟岛往左上走触发剧情；破解河图机关(退出可让李元兴破解；外环顺时针转5次、中环顺时针3次)；破解洛书机关(退出可让李元兴破解；先固定四角，再调整其他：左上→下右→右下→左下→下右→左上→ 左→上→上→左→下)，获得北塞之卷、石制钥匙之二、四鳃鲈鱼脍/冰鲤脍菜谱、步微月好感度+10；前往灵龟岛出口；离开灵龟岛。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">东海仙踪</span>：完成灵龟岛和仙猿山任务后，返回游仙村，步微月离队；前往左侧客房休息；往上方走触发剧情，步微月归队；解开谪仙瀑的机关(转动被光线折射到的石头1/1/3/1/1次)，步微月离队；和步微月交谈了解剧情；继续破解机关(2/1/2/0/2次)；进入石洞，获得青云宝扇/青云面具*1；靠近上方石台(石台背后有江东之卷)，获得青云梯*1；靠近右侧石台，获得寒天之卷、阴阳司实录；和步微月交谈选择“是”触发剧情进入战斗，宇文逸/步微月习得烟涛微茫/云霞明灭/列缺霹雳/青云扇法·谪仙一现、步微月好感度+20；再次和步微月交谈选择“是”触发剧情进入战斗，宇文逸/步微月习得宿曜神宫天法、步微月好感度+10；再次和步微月交谈选择“是”触发剧情进入战斗，步微月归队，宇文逸/步微月/上官虹/司马铃领悟青云主人和凌波仙子传承(宇文逸习得湖月照影(剑)/湖月照影(扇)/霓衣风马/须臾心经、步微月习得镜湖映月/霓衣风马/须臾心经、上官虹习得白帝剑阵(剑)、司马铃习得白帝剑阵(刀))；返回游仙村。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">集齐九州之卷后，在背包中使用天柱之卷触发剧情，获得九州诀。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(碧海仙踪图鉴)，有两个图鉴可解锁，分为上官虹/司马铃/吕仙儿/冷无情/李元兴/燕未还/叶飞全在队、任意一人不在队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">百年传承</span>：完成东海仙踪后自动获取任务；前往客房休息；跟随地上卦象触发剧情选择“愿意”，获得山有泽*1；剧情后进入碧海仙踪的最终战斗*4<span class="drop"><span class="drop">(掉落火妒针/心宿大火/荧惑恶心)</span></span>，步微月四维+10。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">步微月-批小白</span>：完成百年传承后，身上有紫竹的情况下，前往无名岛的步微月屋前触发剧情，获得莲香蜜酿菜谱。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">河图洛书：通过灵龟岛考验。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">青云宝扇：取得装备青云宝扇。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">东海谪仙：取得青云主人的传承。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">山有泽：取得装备山有泽。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">海阔天空：挫败阴阳司的阴谋。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">唯快不破：集气值达到1000点上限。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">开箱圣手：开启200个以上不同宝箱(可多个<span class="save"><span class="save">存档</span></span>完成)。</span></div>
+</div>
+
+<!-- ===== 14. 霹雳门 ===== -->
+<div class="sec" id="s14">
+  <div class="sec-head"><span class="sec-num">14</span><h2>霹雳门</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">要游玩旧主线的话，就别做大型支线霹雳门。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">飞蝎使</span>：前往幽云泽和霹雳门弟子交谈选择“参加”，剧情后来到霹雳门，冷无情/叶飞离队。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(霹雳门开端)，此时跟随支线千机万发直到离开霹雳门，不要做其他任何支线，之后只做主线直至南疆主线可获取一个图鉴。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">千机万发</span>：完成飞蝎使后自动获取任务；在霹雳门往里走；往左走。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">人面鬼蛛</span>：和霹雳门的汤统交谈触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">门内生变</span>：靠近三和触发剧情获取任务；前往库房；和祝由交谈；阅读出入名单；依次和祝由/张庆/典航交谈；调查中间的箱子；调查地上的油布；二次调查中间的箱子选择“检查内部*3”；二次调查地上的油布；三次调查中间的箱子；离开库房选择“联系冷无情”；前往大门外左侧；返回和三和交谈；前往宝库触发剧情进入战斗<span class="drop"><span class="drop">(掉落霜风刀法)</span></span>；之后和三和交谈可了解剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">人面鬼蛛</span>：完成门内生变后，和汤统交谈，获得人面蛛/霹雳心法*1、宇文逸/卫霍习得惔神秘鉴、卫霍力道+30/根骨+30/身法+30/内功+20。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成门内生变后，前往客房和欧阳海交谈触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">千机万发</span>：前往娜乌所在的客房，娜乌好感度+5；和汤统交谈选择“打探”触发剧情；返回和娜乌交谈*3，娜乌好感度+20；离开娜乌客房(客房左侧有只小蝎子，靠近触发额外对话)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">接触厂卫</span>：离开娜乌客房自动获取任务；前往童安所在客房外；和厂卫弟子交谈选择“强闯入内”进入战斗*2(第二场需在15回合内击败敌人，战败有特殊剧情可看；完美线需要战胜)，童安好感度+25；进入客房。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">大宦童安</span>：完成接触厂卫自动获取任务；返回和娜乌交谈(完美线这里<span class="save"><span class="save">存个档</span></span>，之后先拿秘籍再回档)；返回和莲芯交谈触发剧情选择：秘籍=虺蛇吐信、金银珍宝=祖母绿/紫水晶*2+夜明珠/一叠银票*1、回绝(完美霹雳门<span class="imp"><span class="imp">必选</span></span>)=童安好感度+10。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">千机万发</span>：返回和娜乌交谈；返回自己的客房；返回和娜乌交谈，获得百花茗/蜂王浆*5；返回客房休息触发剧情进入战斗*3<span class="drop"><span class="drop">(掉落晦朔心法/三转洗髓丹/辛金丸/无生一极/癸水丹)</span></span>，获得惔神秘鉴*1、冷无情/叶飞归队、顾思归好感度+15。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成千机万发后，和欧阳海交谈触发剧情，获得锻造心得*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">霹雳门余波</span>：完成千机万发后自动获取任务；前往厂卫客房，莲芯好感度+10、童安好感度+15；返回和娜乌交谈；前往客房休息，娜乌(辅助)加入队伍、娜乌好感度+10；剧情后来到幽云泽。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">接下来要拿南疆主线的一个图鉴，之后要回档到<span class="save"><span class="save">存档</span></span>(霹雳门完美)，所以支线都不用做直奔主线到南疆。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">人面鬼蛛(药圣线)</span>：前往竹海的商葶苧处，获得八风剑法/丹学摘要/百花丸/九炼熊蛇丸*1、商葶苧好感度+35。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">人面鬼蛛(商人线)</span>：前往幽云泽的元疆处给他人面蛛*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">古卷帛书</span>：完成人面鬼蛛后选择“有兴趣”触发剧情获取任务；给他夜明珠*1+钱*100000，获得帛书/羊脂净瓶精良图纸*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">娜乌-抓鱼</span>：前往无名岛的娜乌屋子右侧的沙滩边触发剧情，获得虎头錾金靴*1。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">前往龙门峡和骆驼岭击败Boss，获得锻骨法上/下篇；在背包中使用锻骨法上篇，获得惔神秘鉴。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">惔神秘鉴：合成完整的惔神秘鉴。</span></div>
+</div>
+
+<!-- ===== 15. 晋升传功 ===== -->
+<div class="sec" id="s15">
+  <div class="sec-head"><span class="sec-num">15</span><h2>晋升传功</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">挑战武当派的道通晋升传功弟子。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">传功弟子：晋级传功弟子。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和道妙交谈选择“药材”。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">惩奸除恶</span>：和元启交谈接受任务；前往万劫窟深处击杀Boss震山龙；返回和元启交谈，获得鱼肠剑/武学感悟*1、钱*5000、门派贡献+600。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往天鸣村和村长交谈→前往紫竹林击杀玄火力士*10→返回和天鸣村村长交谈→返回武当派和道妙交谈→前往三清殿门口和莫问交谈(莫问归队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">莫问-观棋/冷无情&amp;李元兴-下棋</span>：前往无名岛的李元兴屋前触发剧情，选择“上前招呼”(无尘剑升级后无法触发)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">莫问-夜间练剑</span>：前往无名岛的宇文逸屋休息触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">此时可以去蜃楼岛挑战第一层；奖励-天山冰髓给无尘剑升级；奖励-蜃珠·刀给司马铃使用。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">参茸虫草汤</span>：前往樊城和客栈老板交谈接受任务；给他虫草*3，获得参茸虫草汤菜谱/参茸虫草汤*1、钱*1500。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">从樊城左侧出口离开来到西域大地图。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往苍岚村/苦水村触发剧情；和苦水村村长交谈触发剧情(重要)；在前往神鹰门的栈道上触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">同游西凉</span>：李元兴/燕未还好感度≥80的情况下，前往卧秋山左侧的篝火处触发剧情获取任务；击杀大角羊*3触发剧情进入战斗，获得睡梦罗汉功*1、大师注解*2、宇文逸习得亢龙有悔/打狗棍法、燕未还习得亢龙有悔/睡梦罗汉功、李元兴习得打狗棍法/睡梦罗汉功、李元兴/燕未还好感度+20(李元兴的打狗棍法先不要学到满级，关乎到李元兴的结局)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">亢龙有悔：学会亢龙有悔。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">垂钓高手：成功钓起所有鱼类(前面如果有关注钓鱼的话，这里去一线天钓只四鳃鲈鱼即可解锁)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">钓鱼满级：江湖技艺钓鱼达到满级。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">平阳堡有个支线“平阳堡”和整个武家旧事的支线有冲突，奖励是王天聪好感度+10，没有任何做的必要。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">四大武家</span>：前往平阳堡触发剧情进入战斗<span class="drop"><span class="drop">(掉落韦陀棍法)</span></span>，吕仙儿好感度+20。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往天水城。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">铸剑之争</span>：和铁匠李胜交谈接受任务；给欧阳驹乌金矿*1，获得鱼肠剑/白虎剑精良图纸*1。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往城门口→剧情后来到晚上(小院角落有个宝箱)→往右走*2。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和斩无刑/欧阳剑英/慧平/方阔海交谈触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">入席(娜乌离队)→前往下一个场景→登上城墙触发剧情进入战斗。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">四大武家</span>：前往天水城客栈，吕仙儿好感度+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">西域胡商</span>：和胡商安东尼交谈；再次和他交谈接受任务；确保身上没有天青台盏的情况下，再次和他交谈给他锦缎*10，获得任意橙色矿石*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">天青台盏</span>：完成西域胡商自动获取任务；前往苍岚村和李胡子交谈；前往鹰愁谷右下方触发剧情进入战斗，获得天青台盏/田黄石/芙蓉石/碧玺/翡翠/碧玉*1、熊胆*2。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">西域胡商</span>：返回天水城和安东尼交谈，获得任意红色矿石*1；之后可以在他这进行同品质矿石的互换。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往一线天→往深处走触发剧情进入战斗。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">女帅胆魄</span>：前往一线天山谷的穆婆婆处触发剧情获取任务；前往龙门峡击杀渊军*10触发剧情进入战斗<span class="drop"><span class="drop">(掉落铁浮屠具装精良图纸)</span></span>；剧情后来到一线天，吕仙儿力道+60/根骨+60/身法+60/内功+40/习得浑天梨花枪·极/枪棍精通+30/经脉点+350、吕仙儿好感度+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">平阳王家</span>：前往平阳堡和王道明交谈接受任务；给他寒铁矿*3；和王天聪交谈，王天聪好感度+10；之后和王道明交谈可了解剧情。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天衣无缝：锻造出任意一品上防具。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往天水城城门处。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">在前往下一个主线点前<span class="save"><span class="save">存个档</span></span>，关乎到旧主线结局宇文逸能不能当武当掌门。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往程家堡→离开程家堡触发剧情选择：</span></div>
+  <div class="choice"><b>1.赞成留下程钰</b> <b class="imp">(旧主线-非掌门结局；新主线可直接选留下)</b></div>
+  <div class="choice"><b>2.同意把人送走</b> <b class="imp">(旧主线-掌门结局)</b></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">剧情后来到武当派(莫问离队；娜乌归队)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">祖师殿右侧有个宝箱。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往伙房喝粥(留下)/前往清霄处再前往山顶(送走)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">往道玄处走触发的剧情。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">道微请托</span>：前往试剑台触发剧情获取任务。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">搜集寒铁</span>：和元风交谈接受任务；给他寒铁矿*2，获得兽面吞云甲*1、钱*1500、门派贡献+400。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">协助演武</span>：和元风交谈接受任务；和元启交谈触发剧情进入战斗，获得清风剑法*1、钱*2000、门派贡献+600。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">比武交流</span>：和元风交谈接受任务；前往少林寺和圆觉交谈；前往少林寺后院触发剧情进入战斗*2(场掉落般若金刚掌)；返回武当派和元风交谈，获得武学感悟*2、钱*1500、门派贡献+840。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">武家旧事</span>：离开武当前触发剧情获取任务。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">留下程钰的话他会出现在试剑台；靠近试剑台的程钰触发剧情，获得一气纯阳指*1；再次和程钰交谈选择“同意”，程钰力道+15/根骨+15/身法+10/内功+20/习得瑜伽经(不教他武功的话，后续在南疆有额外剧情)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">触发过救治莫离的剧情后；前往竹海和商葶苧交谈选择“莫离师兄”，商葶苧(抄书)加入队伍。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">武家旧事</span>：前往姑苏城戏台，获得飞将戟法/女帅留书*1。</span></div>
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">道微请托</span>：前往威远镖局和李泰交谈；返回武当派和道微交谈，获得门派贡献+400(任务先做到这)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">商葶苧-指导炼丹</span>：前往无名岛的商葶苧处触发剧情，获得炼丹简扎*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">商葶苧-赠送丹方</span>：前往无名岛和商葶苧交谈，获得龙虎固神丹丹方/沉香/麝香/鹿茸/灵芝/牛大力*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">商葶苧-摇椅</span>：前往无名岛的商葶苧处触发剧情选择“忙里偷闲”，解锁商葶苧屋前的摇椅互动功能。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往谭城靠近右上方的栾琼触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往辽城的李大虎家触发剧情，获得壬水丹/松茸*1、锦鳞蛇肉*3、水盆羊肉/蜂蜜*5；再次返回李大虎家和李大虎/陈老头交谈；辽城的包婶/小豆子有额外对话。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">程家二爷</span>：前往天水城靠近客栈前的齐老汉触发剧情获取任务；调查地上纸包；和杨大夫交谈；往左走；分别和城内的钱六婶/张老三/小红杏交谈。</span></div>
+</div>
+<!-- ===== 16. 甘泉苦水 ===== -->
+<div class="sec" id="s16">
+  <div class="sec-head"><span class="sec-num">16</span><h2>甘泉苦水</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">接下来是大型支线甘泉苦水，这里先<span class="save"><span class="save">存个档</span></span>；可自行体验完美和非完美流程。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">甘泉苦水</span>：前往甘泉村触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落伏魔杖/飞天夜叉面具/瑞彩祥云袍精良图纸)</span></span>。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和裴庆/吴文华/魏必来/万彪交谈触发剧情；和牢房的兆成交谈触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">诊治裴庆</span>：和甘泉村的小娥交谈接受任务；和裴庆交谈；返回和小娥交谈，获得瑞彩祥云袍/大师注解*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">甘泉苦水</span>：和甘泉村村长交谈；和万彪交谈(重要)；前往牢房触发剧情进入战斗<span class="drop"><span class="drop">(掉落鹰爪功)</span></span>，冷鹰好感度+10；和甘泉村村长交谈(如果支线-韶华轻掷任务中没有选择帮孔亮，则这里是找冷鹰交谈，会获得神鹰门令牌、漫天花雨/大师注解*1)；前往平阳堡的王道明处；前往程家堡触发剧情进入战斗；前往城门处；前往苍岚村的杨六图处；通过鹰愁谷来到神鹰门；往里走触发剧情进入战斗；前往大厅；返回甘泉村。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和裴庆/欧阳海/杨六图交谈触发剧情；和万彪交谈触发剧情(重要)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和殷无矜交谈触发剧情，获得神鹰心法/武学感悟*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">穷山据点</span>：完成甘泉苦水后自动获取任务；和冷鹰交谈*2，冷鹰(辅助)加入队伍；前往穷山据点往里走；继续往里走*4触发剧情进入战斗；离开穷山据点。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">再探苦水</span>：前往苦水村触发剧情获取任务；往右走；离开苦水村；前往苍岚村；前往左上方触发剧情进入战斗，获得密宗七轮印/七星拳套/犀皮兽纹甲*1、涤罪僧好感度+10；前往天水城城墙上的涤罪僧处，涤罪僧(辅助)加入队伍(先不要动涤罪僧的装备)、涤罪僧好感度+10；前往程家堡触发剧情进入战斗*2，获得降龙木/紫水晶*2、十八学士/夜明珠*1、涤罪僧好感度+10。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">完成再探苦水后，前往程家堡和程管家交谈可了解剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">穷山据点</span>：返回甘泉村，冷鹰好感度+10；和冷鹰交谈。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">穷山矿脉</span>：返回甘泉村后自动获取；和欧阳海交谈。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(甘泉庆功图鉴)，支线-鬼鹰现踪有没有做影响到两个图鉴的获取(先不做拿到图鉴后再读档回来做)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">鬼鹰现踪</span>：完成穷山据点后，往甘泉村牢房走触发剧情；进入牢房；离开甘泉村；前往卧秋山左侧；和冷鹰交谈；和兆成交谈。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">晦明朝夕</span>：完成穷山据点后自动获取；前往一线天往里走，涤罪僧离队；继续往里走；依次和冷鹰/涤罪僧/殷无矜交谈；前往涤罪僧处，李元兴/燕未还/冷无情离队；离开一线天触发剧情进入战斗*3<span class="drop"><span class="drop">(掉落光明心法/野火燎原式/不动明王枪/弹指神通、伏魔杖/飞天夜叉面具/瑞彩祥云袍/八宝亮银铲/乌云朝天靴精良图纸)</span></span>，李元兴/燕未还归队、商葶苧好感度+10；前往苦水村触发剧情进入战斗<span class="drop"><span class="drop">(掉落大日如来棍/大金刚拳/瑜伽奥义)</span></span>，冷无情归队、涤罪僧好感度+10；和涤罪僧交谈，获得修罗刀法/慈悲刀法*1、武学感悟*2；返回一线天往里走，冷鹰离队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">拜谒神鹰门</span>：完成晦明朝夕后，前往神鹰门往里走触发剧情；继续往里走触发剧情进入战斗<span class="drop"><span class="drop">(掉落血河神鉴)</span></span>，获得鬼影幽冥大法/凝血神爪*1、大师注解*2、冷鹰力道+10/根骨+5/身法+20/内功+5/经脉点+200、冷鹰归队、冷鹰好感度+50。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往苍岚村触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">甘泉村庆功</span>：前往甘泉村触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和甘泉村的欧阳海交谈触发剧情；和裴庆交谈触发剧情，获得清蒸赤鳞鱼菜谱*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">重返平阳堡</span>：前往平阳堡触发剧情，获得百鸟朝凤枪*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">将吕仙儿的浑天梨花枪/百鸟朝凤枪/飞将戟法升到满级后，使用背包里的女帅留书触发剧情进入战斗*2，吕仙儿四维+25/经脉点+500/习得万里平戎策。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">万里平戎：吕仙儿领悟万里平戎策。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">没有留下程钰的情况下，前往天水城触发剧情(旧主线由于娜乌没有入队所以无法触发)；和程管家交谈触发剧情；再次和他交谈可了解剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">留下程钰的情况下，前往武当派的程钰处触发剧情，获得八卦游龙掌*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往少林寺和涤罪僧交谈触发剧情，获得燃木刀法/禅宗伏魔功/大师注解*1、涤罪僧好感度+10、可邀请涤罪僧归队(先不要动他的装备)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">周家纠葛-复仇</span>：完成周家纠葛后，前往临昌城触发剧情选择“拒绝”，获得紫水晶/芙蓉石/刚玉*1(帮忙额外获得清蒸赤鳞鱼菜谱、钱*800)；前往姑苏城往右直走触发剧情，获得凉拌海蜇/犀角/沉香/熊胆/蟾衣/人参*1(如果之前选择帮忙的话，这里获得清蒸赤鳞鱼/祖母绿/鸡血石/翡翠/孔雀石/红玉*1)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">冷鹰&amp;步微月-喂猫</span>：前往无名岛的冷鹰屋外触发剧情选择“上前看看”。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">冷鹰-椰糕与茶</span>：前往无名岛和冷鹰交谈触发剧情，获得双井茶*3。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">涤罪僧-诵经</span>：前往无名岛的涤罪僧屋外触发剧情，获得楞伽经。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">此时可以去蜃楼岛挑战第二层；奖励-天外飞仙剑残章给上官虹使用；奖励-玄阳龙骨可前去甘泉村找欧阳海锻造兵器或自己锻造兵器；二周目极难8扩可<span class="save"><span class="save">存档</span></span>后锻造沥泉神枪(博双倍)再分解，这样可产出无限的玄阳龙骨。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往武当派的清霄道长处触发剧情，商葶苧离队、清霄道长好感度+20。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募冷鹰：招募冷鹰。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募涤罪僧：招募涤罪僧。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">风云奕：成功锻造任意一件风云奕。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">真相将显：成功救治莫离。</span></div>
+</div>
+
+<!-- ===== 17. 绮罗筵 ===== -->
+<div class="sec" id="s17">
+  <div class="sec-head"><span class="sec-num">17</span><h2>绮罗筵</h2></div>
+
+  <div class="line l-sect"><span class="tag t-sect">门派</span><span class="txt"><span class="name n-sect">道微请托</span>：前往武当派和道微交谈给他芙蓉金瓶/凤凰金瓶*1，获得钱*10000、门派贡献+400；剧情后选择“参加”开启绮罗筵。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">绮罗筵</span>：和道微交谈选择“现在启程”触发剧情进入战斗；和顾思归交谈选择“准备好了”触发剧情进入战斗，娜乌四维+15；往左走；返回山洞入口；进入山洞和惊雷暗使交谈；前往和璞山庄(和璞山庄永久开放)；前往玉阁；和旁边客房的道微交谈；前往西厢房，瑶姬好感度+10；前往校场触发剧情进入战斗*2；往外走，获得羽毛。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里可以<span class="save"><span class="save">存个档</span></span>，接下来的剧情走向有三条线，按照苦老线(白锦&amp;冷鹰离队，和苦老交谈，拿秘籍)→瑶姬线(白锦&amp;冷鹰离队，和瑶姬交谈，看剧情)→完美线做即可(这里走的是完美线流程)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">慕艾的考验</span>：和慕艾交谈*4开始沙盘演武*3，获得平戎佩*1、吕仙儿四维+20/经脉点+500；再次靠近慕艾获得翼卫情报。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往玉阁触发剧情；往下走靠近扫地老人触发剧情；前往伙房触发剧情，获得翼卫情报。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">绮罗筵</span>：前往西厢房外；再次前往西厢房，获得玄阳离火功(必须让宇文逸学满；剧情后可找苦老切磋/学技能)；返回东厢房；上床休息；前往西厢房触发剧情进入战斗*2，获得暗雷惊雷/混沌武典残章*1、步微月/吕仙儿/冷鹰/瑶姬四维+20/经脉点+750、瑶姬好感度+10；剧情后触发选择(旧主线无绮罗筵剧情；新主线<span class="imp"><span class="imp">必选</span></span>爱情)：爱情=瑶姬好感度+10、友情=瑶姬好感度+0；剧情后瑶姬习得混沌武典、门派贡献+500。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt"><span class="save">存个档</span>后在背包里使用暗雷惊雷，先选择“不给”获得两把红色武器开图鉴，再读档回来选择“给”获得惊雷双刀(司马铃专武)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">初代玄女：知悉初代玄女的过往。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">雷止雨歇：挫败惊雷使。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">抄书人：成功抄录50本感悟心得。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">之前没有实现武学点自由的，现在可以继续刷三色大阵了。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(女主结局分支)，支线-绝响难求关乎到新旧主线的最终结局；旧主线的欧阳雪结局<span class="imp"><span class="imp">必做</span></span>该支线；新主线一周目该支线用来决定走瑶姬还是走欧阳雪的结局，走瑶姬结局不用做，走欧阳雪结局<span class="imp"><span class="imp">必做</span></span>，建议一周目先走一遍瑶姬结局；新主线二周目完美通关<span class="imp"><span class="imp">必做</span></span>。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">绝响难求</span>：前往素节林右下方触发剧情，获得龙泣剑法*1、欧阳雪好感度+20。</span></div>
+</div>
+
+<!-- ===== 18. 旧主线-全流程 ===== -->
+<div class="sec" id="s18">
+  <div class="sec-head"><span class="sec-num">18</span><h2>旧主线-全流程</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">旧主线主要是为了解锁真武剑气/娑婆破狱势秘籍、枪棍-浑天梨花枪、剧情图鉴、装备-恶鬼面具图鉴、成就；顺带体验一下旧主线剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">挑战武当派的道通晋升执法弟子。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt"><span class="imp">必做</span>支线-云相太极，不做的话之后晋级真武殿首座需要做相对繁琐的任务。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">云相太极</span>：前往武当派山门触发剧情；确保武当心法/归元心法/太极神功/四象无极功/太极拳/太极剑升到满级后，前往武当禁地靠近太极图触发剧情进入战斗<span class="drop"><span class="drop">(掉落万寿道藏)</span></span>，宇文逸习得云相太极/流云太极拳/流云太极剑；靠近左侧石壁，获得玄武道衣*1；靠近中间的太极图，获得云纹太极图*1；离开武当禁地触发剧情进入战斗，燕未还经脉点+200/习得太极拳/太极神功；离开药谷，获得真武剑*1、武当派全员(除莫问外)好感度+30。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往名剑山庄(欧阳雪归队、欧阳剑英(临时)加入队伍)→通过幽云泽/蔓阴林来到南疆大地图。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">火药生意</span>：前往霹雳门和汤统交谈接受任务。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往景陇→往下走到竹桥处→从左下方离开景陇。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">新主线南疆的支线在旧主线一样可以触发，除了槐南一梦由于娜乌没有入队不能完美完成，其余参考新主线南疆即可；宝箱和采集物也是不变的。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往凤凰洞→往里走触发剧情进入战斗。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">火药生意</span>：在凤凰洞采集硫磺*5(多获取3或12个，后续任务需要)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往尽头触发剧情进入战斗→离开凤凰洞。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">火药生意</span>：前往霹雳门和汤统交谈给他硫磺*5，获得武学感悟*2、钱*5000。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">采集硫磺*4</span>：完成火药生意后，和汤统交谈接受任务；给他硫磺*3，获得武学感悟*2、钱*3000(完成1次也行，只要汤统好感度达到30就可以接到下个支线任务)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">暗中交易</span>：完成采集硫磺*4(或汤统好感度达到30)后，和汤统交谈接受任务；前往幽云泽；和东岸的元僵交谈；返回霹雳门和汤统交谈，获得蝮龙锥*1、大师注解*3、钱*3000。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往愁雾林的右上方触发剧情进入战斗→前往百药谷的左上方触发剧情进入战斗→前往十万大山的右上方触发剧情进入战斗→通过五仙岭来到五仙教→进入五神殿(欧阳剑英离队)→前往五仙教禁地尽头触发剧情进入战斗(欧阳雪好感度+20)→离开禁地往五神殿走触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落万蛊穿心尘；欧阳雪/顾思归离队)</span></span>→前往武当派(莫问归队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往平康城/樊城触发剧情；前往姑苏城触发剧情进入战斗；前往丐帮触发剧情选择“出手救人”进入战斗，之后离开丐帮触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往阎浮镇右下方触发剧情进入战斗→前往檀林→往右走触发剧情进入战斗<span class="drop"><span class="drop">(掉落同归棍法/天罗地网钉；莫问离队)</span></span>→剧情后来到少林寺(夜)(风云诀境界提升)→进入右边禅房。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>，下个剧情后选择“进入方丈室”并且战败的话，可触发玉石俱焚结局；战胜的话继续后续主线任务后会触发武当双杰结局。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往方丈室选择“追上两人”→剧情后来到白龟洞→前往老龟处→离开白龟洞→前往少林寺→前往武当派的三清殿→和道通交谈晋升首座。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">如果之前没有做云相太极任务则需要额外做一些任务；和道微交谈，获得木簪；和道妙交谈给他赤鳞鱼*1，获得鹤羽；和道玄交谈，获得极品血灵丹丹方/人参/麝香*1、熊胆/蜂蜜/虫草*2；炼制极品血灵丹后和道玄交谈，获得葫芦；和清霄道长交谈；前往雷山击杀海盗；返回武当派和清霄道长交谈，获得扳指/阮师刀精良图纸*1；返回和道通交谈。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">真武殿首座：晋级真武殿首座。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>，下个剧情的选择影响宇文逸的最终结局。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往武当派山门触发剧情选择：</span></div>
+  <div class="choice"><b>1.出手阻止</b> 江小彤好感度+0<b class="imp">(瑶姬/欧阳雪/花灯线)</b></div>
+  <div class="choice"><b>2.继续劝说</b> 江小彤好感度+10<b class="imp">(小彤/单身线)</b></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">剧情后进入战斗*2(风云诀大成；江小彤好感度+20)→前往下方禅房触发剧情进入战斗(欧阳雪/瑶姬归队)→沿路走到尽头触发剧情进入战斗(宇文逸单挑；胜利掉落真武剑气/泰阿剑精良图纸)→剧情后来到阎浮镇(江小彤好感度+20)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往威远镖局的李泰处触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往峋谷关往里走触发剧情进入战斗→前往葬龙谷触发剧情进入战斗(宇文逸单挑)→往右走→往上绕路走到尽头触发剧情进入战斗*7<span class="drop"><span class="drop">(掉落武岳枪法；第六场打赢掉落七杀拳套/羊脂净瓶精良图纸、龙骨*2；瑶姬离队；江小彤加入队伍)</span></span>。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">葬龙：葬龙谷击败无名。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往玄火教(江小彤好感度+10)→进入圣火厅往左走到头→往右走到地牢前→进入地牢往右走到尽头触发剧情进入战斗*2(瑶姬好感度+10；瑶姬归队)→离开地牢前往中央的玄火殿前→进入玄火殿触发剧情进入战斗<span class="drop"><span class="drop">(掉落娑婆破狱势、攒心钉/黄金狮蛮靴精良图纸；瑶姬离队)</span></span>→前往武当派(江小彤/欧阳雪(好感度没有瑶姬/江小彤高的情况下)离队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和莫弃交谈触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">离开武当派。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往少林寺和圆悟交谈触发剧情，获得羊脂净瓶/四转洗髓丹/壬水丹*1、蜂王浆*10。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往丐帮和左江龙交谈触发剧情，获得三山飞凤帽/宗师手札/甲木丹*1、参竹鸡丝汤*5。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">欧阳雪好感度＜80的情况下，走的是江小彤结局，则可以前往梧桐村江宅的床边走动拿到小彤的木剑，离开往外走会触发归还木剑的剧情，江小彤好感度+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">冰潭雪莲</span>：前往豫村和隆村长交谈接受任务；离开豫村往右走触发剧情进入战斗；剧情后来到豫村选择“好奇追问”，获得冰鲤脍/冰鲤/雪蛤/灵芝*1、党参/川芎*5；和苗婆婆交谈可了解剧情；之后前往大地图-冰潭所在处可获得雪莲*1。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往天山往山上走→到第二个场景往里走(获得恶鬼面具)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往天山派触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>，决战的胜负影响宇文逸/莫问的最终结局(先输拿莫问结局、再赢拿宇文逸结局)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">继续前行到天山山顶触发剧情进入最终战斗*2(第一场胜负皆可；掉落剑穗)。</span></div>
+</div>
+<!-- ===== 19. 新主线速通 ===== -->
+<div class="sec" id="s19">
+  <div class="sec-head"><span class="sec-num">19</span><h2>新主线速通</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">新主线大量的图鉴解锁分支点在成为执法弟子后，前往名剑山庄前(默认莫问好感度≤80、李元兴打狗棍法没满级)：</span></div>
+  <div class="num-steps">
+    <div class="step"><span class="sn">1.</span>在成为执法弟子后前往名剑山庄前<span class="save"><span class="save">存个档</span></span>(新主线第二个<span class="save"><span class="save">存档</span></span>点，第一个<span class="save"><span class="save">存档</span></span>点是女主结局分支<span class="save"><span class="save">存档</span></span>点)</div>
+    <div class="step"><span class="sn">2.</span>让上官虹/叶飞/涤罪僧离队，期间只做支线直到前往凤凰洞选择“顾思归”</div>
+    <div class="step"><span class="sn">3.</span>继续做主线到救治顾思归，在支线-石赫遇刺中只完成前面阶段并且不去地牢救人</div>
+    <div class="step"><span class="sn">4.</span>继续做主线(期间燕未还断后的第二战让他战败)到南疆决战，选择“多人战斗”</div>
+    <div class="step"><span class="sn">5.</span>读回第二个<span class="save"><span class="save">存档</span></span>点，这回让冷无情/冷鹰/叶飞/燕未还/司马铃离队</div>
+    <div class="step"><span class="sn">6.</span>流程跟之前一样直到通过南疆剧情</div>
+    <div class="step"><span class="sn">7.</span>返回武当前<span class="save"><span class="save">存个档</span></span>(新主线第三个<span class="save"><span class="save">存档</span></span>点)</div>
+    <div class="step"><span class="sn">8.</span>让冷无情/李元兴/冷鹰/涤罪僧离队后进入武当</div>
+    <div class="step"><span class="sn">9.</span>期间不做任何支线，只做主线直到重建天机宫抉择前<span class="save"><span class="save">存档</span></span>(新主线第四个<span class="save"><span class="save">存档</span></span>点)</div>
+    <div class="step"><span class="sn">10.</span>选择不重建天机宫并且第一次通关游戏(解锁图鉴：六派共议/刀剑无暇/天下第一/天山孤冢/玉龙吟/五仙圣女/朝堂新星/有僧无名/归隐江湖/群龙之首/女主结局*2)</div>
+    <div class="step"><span class="sn">11.</span>读回第四个<span class="save"><span class="save">存档</span></span>点，选择重建天机宫并第二次通关游戏(解锁图鉴：天机宫主)</div>
+    <div class="step"><span class="sn">12.</span>读回第一个<span class="save"><span class="save">存档</span></span>点(女主结局分支)，走另一个女主线</div>
+    <div class="step"><span class="sn">13.</span>只做主线直到南疆并完美通关南疆主线(白唯一存活)</div>
+    <div class="step"><span class="sn">14.</span>返回武当前<span class="save"><span class="save">存个档</span></span>(新主线第五个<span class="save"><span class="save">存档</span></span>点)</div>
+    <div class="step"><span class="sn">15.</span>让商葶苧离队，之后跟着主线期间只完成支线(剑决之前-鱼龙混杂-调查赤鹰)后即可触发支线-佛生诸想(涤罪僧领悟达摩武经)</div>
+    <div class="step"><span class="sn">16.</span>只做主线，后续选择重建天机宫并第三次通关游戏(黄宗政死亡结局、解锁图鉴：天山孤冢/天机宫主/女主结局*2)</div>
+    <div class="step"><span class="sn">17.</span>读回第五个<span class="save"><span class="save">存档</span></span>点，让上官虹/叶飞离队</div>
+    <div class="step"><span class="sn">18.</span>推进主线到少林剑诀的等候阶段，完成支线(寻找元启-劝阻肖寒光-赔礼道歉)前往姑苏码头<span class="save"><span class="save">存个档</span></span>(新主线第六个<span class="save"><span class="save">存档</span></span>点)</div>
+    <div class="step"><span class="sn">19.</span>宇文逸不装备剑系武器，继续完成支线(肖寒光拜庄-厂卫动作-玄火神丹)后承接武当掌门，这里<span class="save"><span class="save">存个档</span></span>(新主线第七个<span class="save"><span class="save">存档</span></span>点)</div>
+    <div class="step"><span class="sn">20.</span>之后只做主线直到第四次通关游戏(解锁图鉴：武当掌门/武当宗师)</div>
+    <div class="step"><span class="sn">21.</span>读回第七个<span class="save"><span class="save">存档</span></span>点，跟随主线期间完成支线(剑决之前-鱼龙混杂-阎浮镇凶案-五仙圣女)</div>
+    <div class="step"><span class="sn">22.</span>第五次通关游戏(清霄道长结局、解锁图鉴：武当宗师)</div>
+    <div class="step"><span class="sn">23.</span>读回第六个<span class="save"><span class="save">存档</span></span>点，宇文逸装备剑系武器，继续完成支线(肖寒光拜庄-厂卫动作-玄火神丹-回天剑宗)后承接武当掌门</div>
+    <div class="step"><span class="sn">24.</span>跟随主线期间完成支线(剑决之前-鱼龙混杂-阎浮镇凶案-五仙圣女)</div>
+    <div class="step"><span class="sn">25.</span>第六次通关游戏(解锁图鉴：武当掌门/武当宗师)</div>
+    <div class="step"><span class="sn">26.</span>最后剩个武当宗师图鉴需要等二周目才能完成，具体流程为：接23→之后继续主线直到天佛窟决战伏龙子让燕未还/荀杳杳战败(一周目难度太低伏龙子不抗揍)，第七次通关游戏(解锁图鉴：武当宗师)</div>
+    <div class="step"><span class="sn">27.</span>最后重开二周目，完美通关游戏即可获得全图鉴全成就。</div>
+  </div>
+</div>
+
+<!-- ===== 20. 南疆风云 ===== -->
+<div class="sec" id="s20">
+  <div class="sec-head"><span class="sec-num">20</span><h2>南疆风云</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">挑战武当派的道通晋升执法弟子。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">莫问有额外对话。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">云相太极</span>：前往武当派山门触发剧情；确保武当心法/归元心法/太极神功/四象无极功/太极拳/太极剑升到满级后，前往武当禁地靠近太极图触发剧情进入战斗，宇文逸习得云相太极/流云太极拳/流云太极剑；靠近左侧石壁，获得玄武道衣*1；靠近中间的太极图，获得云纹太极图*1；离开武当禁地触发剧情进入战斗，燕未还经脉点+200/习得太极拳/太极神功；离开药谷，获得真武剑*1。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">执法弟子：晋级执法弟子。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">佛道兼修：学会武当和少林所有心法。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">太极之道：学会太极拳，太极剑，太极神功、云相太极。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">云相太极：完成云相太极试炼。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(南疆完美)，南疆主线有不少可解锁的图鉴，需要个别队友不在队，涉及到冷无情/冷鹰/叶飞/燕未还/上官虹/司马铃/涤罪僧；多周目玩家建议在一周目起码过两遍南疆(第一次让上官虹/叶飞/涤罪僧离队；第二次让冷无情/冷鹰/叶飞/燕未还/司马铃离队)拿不完美结局的图鉴，等二周目再完美通关即可。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往姑苏城的名剑山庄渡口→前往城门口→返回渡口处。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">行凶者</span>：主线后自动获取任务；离开姑苏城；前往竹海的右上方触发剧情进入战斗，莲芯(抄书)加入队伍、莲芯好感度+20。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成行凶者后，前往姑苏城的名剑山庄渡口触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">莲芯-侠尺</span>：前往无名岛和莲芯交谈触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">通过幽云泽/蔓阴林来到南疆大地图→前往景陇触发剧情进入战斗→往右走触发剧情进入战斗→前往防具商附近触发剧情进入战斗→前往右下方触发剧情进入战斗→前往左下方触发剧情进入战斗(娜乌好感度+10)→靠近附近的欧阳雪+顾思归/娜乌触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">靠近卫霍+涤罪僧触发剧情，卫霍力道+10/根骨+25/身法+10/内功+10；靠近莲芯/上官虹+司马铃触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往下走选择“前往”(所有人归队、获得五仙秘术)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">使用寒泉玉给欧阳雪升级一下武器。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">从西门离开景陇。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往洱郡靠近铁匠触发剧情，给他犀角*1，获得浪川剑/浪川剑精良图纸*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">槐南一梦</span>：前往石屏村和村长寨阿龙交谈接受任务；前往百药谷右侧的大槐树处；调查树下右侧的蝴蝶群触发剧情进入战斗，战后选择“拒绝解蛊”；和村长交谈，获得龙骨*1、蜂王浆*10、钱*10000；和雅姑交谈，获得武学感悟*3、没药*1；离开石屏村触发剧情；返回和雅姑交谈有剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">药谷取蜜</span>：前往石屏村和龙桑加交谈接受任务；给他蜂蜜*5，获得补骨脂*3、灵芝/秋海棠*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">睹物思乡</span>：完成枯藤老树昏鸦&amp;药谷取蜜后，前往梧桐村和孙老交谈，获得金疮药*5、二转洗髓丹/武学感悟*1、三品宁神丹*2。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">购置石料</span>：前往蝴蝶村和村长蒙蚩交谈接受任务；前往南渝村和洛员外交谈，获得钱*3000；前往谭城的晋大夫处买避障丹*10；返回南渝村和洛员外交谈；返回蝴蝶村和村长蒙蚩交谈，获得四转洗髓丹*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">报恩</span>：前往蝴蝶村和花美人交谈接受任务选择“带她去十万大山”；再次和她交谈选择“是”进入战斗；获得玉牌*1、二转洗髓丹*2、三品宁神丹*3、双菌汤*5、钱*5000；返回和阿蛊交谈，获得玉髓矿*20；离开十万大山触发剧情；前往蝴蝶村和花美人交谈，获得桃花香/兰陵酒/百花茗*5。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成古卷帛书后(非必要)，前往十万大山的瀑布前触发剧情(非必要)；从瀑布右边的岸上饶进瀑布内部(有个宝箱)再往左走进入藏宝洞；往前走触发剧情；破解八卦机关(↓↖→↗↙←↘↑)；进入内洞拾取4个宝箱触发剧情(有做古卷帛书的情况下)进入战斗<span class="drop"><span class="drop">(掉落天龙斩)</span></span>，宇文逸剑法精通+110、叶飞习得六爻无形剑气。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">重返霹雳门</span>：前往霹雳门往里走*2触发剧情获取任务，莲芯离队；和童安交谈了解剧情，获得无形罡气/相繇九现*1、莲芯好感度+10；靠近叶飞+燕未还触发剧情，叶飞/燕未还四维+10/经脉点+200；靠近冷无情+李元兴触发剧情；靠近欧阳雪触发剧情；和右侧的汤统交谈，获得霹雳宝甲*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和左下方的莲芯交谈触发剧情，获得一十三路幻形剑*1。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>，接下来的主线有两条分支，先选“顾思归”来解锁图鉴，第二次再选欧阳雪。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往凤凰洞触发剧情选择“欧阳雪”。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>，二周目如果是欧阳雪守门的话，有两个成就可以解锁，分为同意/拒绝涤罪僧一同守门。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往里走触发剧情进入战斗→剧情后拒绝涤罪僧守门→往里走到蛇首像处→继续往里走触发剧情进入战斗*2(获得狐形步、顾思归离队)→继续往里走到尽头→返回凤凰洞入口触发剧情进入战斗(欧阳雪力道+10/根骨+10/身法+20/内功+20、获得毒龙穿心剑)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">退路未失：极难模式凤凰洞欧阳雪、涤罪僧留防守获胜。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">地狱剧情：极难模式凤凰洞欧阳雪单人防守获胜。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往五仙岭。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往左上方顾思归所在的客房触发剧情；前往左上方欧阳雪所在的客房触发剧情。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">长江后浪推前浪：与全门派掌门切磋且获胜。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">离开五仙岭。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往景陇左上方的花娅处触发剧情，获得百花丸/九转熊蛇丹*1；再前往洱郡触发剧情，往右走再次触发剧情选择“不求助”，获得三转洗髓丹/蜂王浆/四品宁神丹*1、商葶苧好感度+5。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">接下来的主线只能拿一种毒物，Boss会掉落加属性的道具：十万大山=灵兕粉=力道+5、愁雾林=金翅粉=身法+5、百药谷=巨蜥囊=根骨5。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往十万大山右上方/愁雾林右上方/百药谷左上方(三选一)触发剧情进入战斗→返回五仙教和蓝孔雀交谈选择“救治欧阳雪、我自己(内功≥120)”(欧阳雪力道+5/根骨+5/身法+10/内功+10、欧阳雪归队)→再次和蓝孔雀交谈选择“救治顾思归”(顾思归好感度+5、顾思归归队)→前往五神殿。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">禁忌之术</span>：之前霹雳门速通的情况下(不知道龙桑杰是幕后之人)；前往凤凰洞尽头触发剧情进入战斗，解锁图鉴-无角之龙(到这里就可以直接回档到(霹雳门开端)的<span class="save"><span class="save">存档</span></span>继续剧情)；前往五仙教的石赫处。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">兵祸之乱</span>：和蓝孔雀交谈可了解剧情后获取任务，获得五仙教令牌；前往地牢；返回五神殿；前往左下方的石赫处；再次返回五神殿。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">石赫遇刺</span>：完成兵祸之乱后，前往石赫处触发剧情(一共3个图鉴可解锁)获取任务；前往五神殿(这里<span class="save"><span class="save">存个档</span></span>，该支线后续剧情有没有触发关乎到图鉴，建议先不触发跟主线走)；前往地牢触发剧情进入战斗*2。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往五神殿(娜乌离队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往五神殿触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往左上方客房(欧阳雪好感度+10)→前往左侧客房休息数日→前往山门触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落六爻无形剑气总纲)</span></span>→剧情后来到五仙教圣潭(娜乌归队)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">禁地里有只人面蛛，击杀可获得任务道具-人面蛛。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">六爻无形剑气：六爻无形剑气满级。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往五仙教禁地尽头触发剧情进入战斗*2(第二场顾思归离队、娜乌好感度+5)→离开五仙教圣潭触发剧情进入战斗→前往五仙岭入口。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>，第四场战斗燕未还胜败都有图鉴。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和娜乌交谈选择“已恢复”触发剧情进入战斗*4<span class="drop"><span class="drop">(掉落冥灵蛊诀；第三/四场燕未还离队单挑，战后燕未还四维+10/习得乘云御龙心诀)</span></span>。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">极限反杀：极难白惟一追击战第一场10回合内获胜。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">孤身断后：极难模式燕未还断后二连战全胜。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往入口处→前往药房→前往客房外→进入客房→前往凌波阁(获得云涛晓雾凌波舞)→离开碧波门。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往凤凰洞触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">欧阳雪-观海</span>：前往无名岛的欧阳雪屋外触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">返回五仙教(获得幻蛊心经)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">娜乌/罗妮刹有额外对话。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和蓝孔雀交谈选择“准备好了”来到通幽沼。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">往左下走到第一棵树下触发剧情，继续走到第二棵树下触发剧情进入战斗，获得通幽蜈*1。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往右下方触发剧情进入战斗。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">欧阳雪/娜乌/冷鹰有额外对话。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">调查帐篷休息→往右走触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落惊蛰指/小五衰刀法/无生七劫/大五衰刀法、红烩盘龙/清蒸赤鳞鱼菜谱；荀杳杳好感度+20)</span></span>→前往五神殿(获得五灵心经古谱/三山飞凤帽精良图纸；商葶苧好感度+20)→和蓝孔雀交谈*3给她任务道具→往禁地走触发剧情选择(一周目选“三人赴战”；二周目极难锁死“孤身赴战”)→前往禁地选择“准备好了”触发剧情进入战斗*3<span class="drop"><span class="drop">(掉落万蛊穿心尘/攒心钉精良图纸/壬水丹；上官虹/司马铃习得白帝剑心；欧阳雪离队)</span></span>→前往左上方第三客房(欧阳雪好感度+10)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">暗器大成：成功收集所有暗器秘籍。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>，不和商葶苧交谈了解剧情，主线直接去景陇可解锁一个图鉴之后再读档回来；和商葶苧交谈了解剧情(重要)选择前三项再选“全都了解了”触发剧情，商葶苧好感度+15(之后顾思归好感度+15)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">返回客房休息→前往五仙教入口(娜乌离队)→前往景陇(娜乌好感度+10)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往商葶苧处触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往左侧客房外→进入客房休息→往右走(燕未还归队、荀杳杳(辅助)加入队伍)→前往五仙教入口。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募荀杳杳：招募荀杳杳。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和欧阳雪交谈触发剧情，欧阳雪归队；和娜乌交谈触发剧情，娜乌归队(如果之前异种金蝎走的是娜乌线的话，这里额外获得灵蝎挂坠*1)；和商葶苧交谈触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(南疆决战)，下个主线战斗完后，根据选择有不同的图鉴和结局；非完美线这里先选“多人战斗”解锁图鉴；一周目建议选择“置之不理”后续有不少图鉴可解锁。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和蓝孔雀交谈选择“准备好了”触发剧情进入战斗*2<span class="drop"><span class="drop">(掉落乘黄御风/玄阳龙骨、锦镧袈裟/太极九宫履/羊脂净瓶精良图纸)</span></span>→战后触发剧情选择“出手相助”(段履霜/段朝晨好感度+50)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">开图鉴的话，进行到这里就可以读档回<span class="save"><span class="save">存档</span></span>点(南疆开端)继续剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往五仙教入口(获得天蚕大法、欧阳雪离队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往五神殿的蓝孔雀处触发剧情，获得五宝花蜜酒*2、五宝花蜜酒配方/烂柯谱*1；前往五仙教禁地靠近巫婆婆触发剧情。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募娜乌：招募娜乌。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">离开五仙岭。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">通过通幽沼来到长生殿；靠近商葶苧触发剧情，继续前往左下方的病殿触发剧情，商葶苧归队(药圣医典可升满级了)、商葶苧四维+30；前往神树崖触发剧情，继续和白唯一交谈了解剧情；前往长生殿触发剧情，获得芙蓉金冠精良图纸*1；靠近生殿的段履霜触发剧情；靠近老殿的高伏骥触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">乘黄试炼</span>：和白唯一了解到乘君情报、宇文逸/冷无情的五恒天经(黄)满级后；调查乘黄像触发剧情进入战斗，宇文逸习得椿龄无尽玄；剧情后选“是”进入战斗，宇文逸/冷无情的五恒天经变为红色功法、冷无情根骨/内功+30；返回和白唯一交谈，获得弦音无象诀/绝弦无音/凤首箜篌*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">辞别</span>：完成乘黄试炼后自动获取；和段履霜交谈，段履霜好感度+20，邀请段履霜(辅助)入队；和段朝晨交谈，段朝晨好感度+20，邀请段朝晨(辅助)入队。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">离开长生殿触发剧情，冷无情力道+5/根骨+5/身法+5/内功+20/经脉点+300。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募商葶苧：招募商葶苧。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">乘黄试炼：完成乘黄试炼。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">五恒天经：完成五恒天经试炼。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">心法大成：成功收集所有心法秘籍。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">六脉全通：主角经脉全满。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募段履霜：招募段履霜。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募段朝晨：招募段朝晨。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">全队友收集：成功招募所有队友。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往碧波门往里走触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">如果留下程钰并且没有教他功法，则在南疆大地图的蝴蝶村下方触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往青木坊和慕海棠往里走触发剧情，获得烟霞羽衣/绮罗香*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往南渝村靠近玉伯触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">燕未还-切磋</span>：前往无名岛和燕未还交谈选择“求之不得”触发剧情进入战斗，宇文逸拳掌精通+30/武学点+10000。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">荀杳杳-唱戏</span>：前往无名岛的荀杳杳屋前触发剧情，获得雾雨灵茶*5。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">荀杳杳-洗澡</span>：前往无名岛的荀杳杳屋后(屋右边有小路可走)触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">荀杳杳-喂鸦</span>：前往无名岛的荀杳杳屋前触发剧情，获得羊脂净瓶*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">荀杳杳&amp;商葶苧&amp;娜乌-观龙蟒</span>：前往无名岛的擂台右下侧触发剧情，龙蟒入驻无名岛。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">段履霜&amp;段朝晨-送花</span>：前往无名岛的段履霜屋前触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">段朝晨-马尾花</span>：前往无名岛和段朝晨交谈触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">玄阳龙骨可前去甘泉村赵欧阳海锻造兵器解锁5个图鉴后再自己锻造沥泉神枪；把没药和龙骨炼制成百花丸和九炼熊蛇丸(极难8扩记得熬一下双倍)；给步微月或吕仙儿吃经脉丹到23970经脉点解锁全经脉获得成就。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">宗师之友：任意队友经脉全满。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">此时可以去挑战蜃楼幻境；秘籍优先给四个主力队友用，队友先学了再让主角请教过来。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">蜃楼幻境：通关蜃楼幻境。</span></div>
+</div>
+<!-- ===== 21. 少林剑诀 ===== -->
+<div class="sec" id="s21">
+  <div class="sec-head"><span class="sec-num">21</span><h2>少林剑诀</h2></div>
+
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">返回武当前<span class="save"><span class="save">存个档</span></span>(南疆结束)，在这里有多个分支可解锁不少结局图鉴。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往武当派(莫问归队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往平康城/樊城触发剧情；前往姑苏城触发剧情进入战斗。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往阎浮镇右下方触发剧情进入战斗→前往檀林往右走触发剧情进入战斗*3<span class="drop"><span class="drop">(掉落同归棍法/天罗地网钉/龙骨)</span></span>→剧情后来到少林寺(夜)(李元兴/燕未还/荀杳杳/莫问离队)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">夜晚有4个宝箱。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往右侧的禅房(获得菩提念珠；此时可以给涤罪僧换装备了)→前往方丈室外(李元兴/燕未还/荀杳杳归队)→返回武当派→前往三清殿和清虚道长交谈。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(少林抉择)，在这里有多个分支可解锁不少结局图鉴。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">寻找元启</span>：返回武当派自动获取任务；和道妙交谈；前往弟子房靠近书桌触发剧情，获得剑术笔记/断剑*1；前往天剑宗触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">劝阻肖寒光</span>：主线后自动获取；前往天剑宗触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">赔礼道歉</span>：来到天剑宗后，靠近附近的天剑宗弟子触发任务，给他金疮药*2。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">肖寒光拜庄</span>：前往名剑山庄触发剧情进入战斗，获得十八学士*1；往里走；和欧阳衡/欧阳剑英/欧阳雪交谈；和山庄门口的肖寒光交谈选择“准备好了”。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">厂卫动作</span>：完成肖寒光拜庄后，前往姑苏客栈二楼房间触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">玄火神丹</span>：完成厂卫动作后，前往峋谷关触发剧情；前往将军府；前往将军卧房；前往驼铃丘击败Boss；离开驼铃丘；返回峋谷关将军府，获得武穆遗书*1。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">瑶姬邀约</span>：完成玄火神丹后自动获取任务；前往峋谷关客栈触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">玄火神丹</span>：前往武当派的三清殿触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(武当掌门)，完成支线-玄火神丹后，后续剧情是否承接武当掌门影响最终结局。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成云相太极&amp;玄火神丹后，返回三清殿和清虚道长交谈触发是否承接武当掌门的剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(元启心魔)，是否完成支线-回天剑宗关乎到元启是否解开心魔；同时关乎到清霄道长的生死。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">回天剑宗</span>：完成肖寒光拜庄后，前往天剑宗触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">莲芯的委托</span>：完成回天剑宗后自动获取任务；和天剑宗的肖寒光交谈；离开天剑宗；前往姑苏客栈和掌柜交谈触发剧情，莲芯归队。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往武当派和元启/莫弃交谈触发剧情；和道妙交谈触发剧情，获得鎏金护手*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">莲芯-摇椅</span>：前往无名岛和莲芯交谈触发剧情。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">招募莲芯：招募莲芯。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往少林寺往里走→继续往里走。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">剑决之前</span>：主线后自动获取任务；前往后殿的圆悟处；和圆难交谈。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">对话完圆难后，往外走几步再返回和圆难交谈触发剧情进入战斗(卫霍单挑)，卫霍四维+10、卫霍离队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">鱼龙混杂</span>：对话完圆难后自动获取任务；前往前殿靠近马飞/王钊帅；靠近三人组；靠近赤鹰；返回和圆难交谈，段朝晨离队。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">拜访殷无矜</span>：靠近赤鹰后自动获取任务；前往阎浮镇客栈触发剧情进入战斗(冷鹰单挑)，获得试翼/鹰击*1冷鹰四维+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">阎浮镇凶案</span>：靠近马飞/王钊帅后自动获取任务；前往阎浮镇和楚材交谈；和叶三娘交谈；返回和楚材交谈；前往右侧的佛塔处；前往白龟洞；和冷无情/绝无心交谈；前往地图左侧(这里<span class="save"><span class="save">存个档</span></span>，不调查的话后续冷无情会触发死亡结局)；调查尸体触发剧情选择“继续调查”；前往天剑宗的肖寒光处；前往佛塔处触发剧情进入战斗；剧情后来到野林地(有两个宝箱)；往右走到尽头触发剧情进入战斗*2(第二场娜乌单挑)；进入民宅；离开阎浮镇。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">剑上少林</span>：完成阎浮镇凶案后，前往少林寺触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">调查赤鹰</span>：完成鱼龙混杂后自动获取任务。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往少林寺和知客僧交谈选择“等候剑诀、厢房歇息”触发剧情进入战斗(段朝晨单挑，战后段朝晨归队)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">调查赤鹰</span>：前往左侧塔林触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往少林寺前殿触发剧情进入战斗→离开少林寺选择“是”(叶飞离队；涤罪僧归队、涤罪僧好感度+40)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往大地图-平康城/城隍庙触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往少林寺(叶飞好感度+40)→往里走(卫霍归队)→前往右侧禅房→前往后方禅房→上床休息触发剧情进入战斗。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">武冠群英：极难模式六派共议中击败各派年轻代表。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">靠近欧阳雪(欧阳雪归队)→前往少林寺山门(涤罪僧离队)。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">达摩洞有个宝箱，做不做支线都能拿。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">五逆浊世</span>：和圆悟交谈触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">佛生诸想</span>：主线后自动获取任务；和圆悟交谈；前往达摩洞口；进入达摩洞往里走；调查右侧石灯/中间刀架/达摩画像/洞口，涤罪僧归队；调查蒲团/左侧石壁/上方枷锁，涤罪僧离队(如果不想做佛生诸想，那该支线做到这里就可以)；和涤罪僧交谈选择“准备好了”触发剧情进入战斗*3<span class="drop"><span class="drop">(掉落降魔剑法、凤翅鎏金镗/青龙偃月刀精良图纸)</span></span>，获得达摩剑法/菩提刀法/明镜刀法/四无量禅刀*1、涤罪僧习得菩提刀法/明镜刀法/四无量禅刀/断业三式/达摩武经/四维+25。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成佛生诸想后，靠近慧平触发剧情。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">完成佛生诸想后，前往大地图-天佛窟触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">天机玄剑</span>：主线后自动获取任务；前往天剑宗往里走*2触发剧情。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">五仙圣女</span>：离开少林寺触发剧情获取任务；先去梧桐村江宅的床边走动拿到小彤的木剑；前往阎浮镇右上方的民宅，江小彤好感度+10(有拿木剑额外+10)。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">真武</span>：前往武当派往里走触发剧情获取任务；前往禁地调查真武剑石壁，宇文逸风云诀大成；离开禁地触发剧情进入战斗*2，宇文逸四维+20。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">冰潭雪莲</span>：前往豫村和隆村长交谈接受任务；离开豫村往右走触发剧情进入战斗；剧情后来到豫村选择“好奇追问”，获得冰鲤脍/冰鲤/雪蛤/灵芝*1、党参/川芎*5；和苗婆婆交谈可了解剧情；之后前往大地图-冰潭所在处可获得雪莲*1。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">欧阳雪&amp;段朝晨-枫桥流水</span>：前往无名岛的欧阳雪屋外触发剧情选择“好”。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">拳法大成：成功收集所有拳法秘籍。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">刀法大成：成功收集所有刀法秘籍。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">在世佛陀：协助涤罪僧修成《达摩武经》。</span></div>
+</div>
+
+<!-- ===== 22. 天佛大战 ===== -->
+<div class="sec" id="s22">
+  <div class="sec-head"><span class="sec-num">22</span><h2>天佛大战</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往武当派的三清殿→和清霄道长交谈选择“六派会师”→前往弟子房触发剧情选择“矢志于此”进入战斗(涤罪僧单挑)→前往练剑台触发剧情选择“是”(冷无情/李元兴/冷鹰/涤罪僧/娜乌/莲芯离队)→击败外部敌人(李元兴/冷鹰归队)→进入天佛窟(燕未还/荀杳杳离队)→往里走触发剧情进入战斗*2(涤罪僧归队)→往里走(李元兴/冷鹰离队)→往里走触发剧情进入战斗。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">江湖器量：使冷无情领悟江湖器量。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往上层触发剧情进入战斗(获得万法唯识/一苇渡江)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">万法唯识：取得万法唯识。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">五逆浊世：极难模式下击败法灭尽。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">调整一下队伍，下一场战斗会有两个战斗位置被顶掉。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往里走触发剧情进入战斗*3(获得紫微星图/曼陀罗花种；涤罪僧离队)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天魔迦摩：极难模式下击败天魔迦摩。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">调整一下队伍，二周目的话这里<span class="save"><span class="save">存个档</span></span>，接下来的第二场战斗的胜负关乎图鉴(一周目想输都难，战败有图鉴和成就)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往下层触发剧情进入战斗*3(获得恶鬼面具碎片；段履霜/段朝晨离队)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天下第一：极难模式下天佛窟之役击败伏龙子。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和众人交谈→靠近清霄道长选择“是”。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">好感度拉满的情况下，上官虹/司马铃/吕仙儿/步微月/欧阳雪/冷鹰/荀杳杳会出现在出口；分别和她们交谈触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">下个主线点第一场战斗建议直接战败，有额外战斗和剧情可看。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">离开天佛窟选择“是”触发剧情进入战斗*3(获得玄阳离火功；段履霜/段朝晨归队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">和李元兴交谈触发剧情；靠近右侧的段履霜/段朝晨触发剧情(之前战败的话有额外剧情)。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往下方的童安处触发剧情进入战斗(胜负皆可)→剧情后来到武当派(涤罪僧/冷鹰/李元兴/欧阳雪离队；获得蛇形锥、冷无情/娜乌归队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往梧桐村的江吟风墓前触发剧情；靠近江小彤；离开梧桐村再返回触发剧情选择“传功小彤”，江小彤(抄书)加入队伍。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt"><span class="name n-scene">江小彤-戏弄</span>：前往无名岛的主角屋休息触发剧情；离开主角屋触发剧情，获得莲子*5。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里是最后的自由活动时间，接下来的剧情南疆会关闭。</span></div>
+</div>
+
+<!-- ===== 23. 决战玉龙 ===== -->
+<div class="sec" id="s23">
+  <div class="sec-head"><span class="sec-num">23</span><h2>决战玉龙</h2></div>
+
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">前往武当派和道玄交谈(之前有承接武当是当掌门，没有则是副掌门；莲芯归队)→离开武当派触发剧情进入战斗(叶飞单挑；如果南疆白唯一死亡，则此时叶飞死亡，获得玄阳六合剑)→剧情后来到峋谷关进入战斗(获得乘黄之印/九霄环佩/擎天架海式；叶飞/涤罪僧归队)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">乘黄之君：取得乘黄之印。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">剑法大成：成功收集所有剑法秘籍。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">确保晦朔心法/冥灵蛊诀/春秋唯一鉴/椿龄无尽玄升到满级后，在背包中使用乘黄之印触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">这里<span class="save"><span class="save">存个档</span></span>(天机宫主)，接下来的剧情关乎宇文逸结局图鉴。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往外走触发剧情选择：</span></div>
+  <div class="choice"><b>1.重建天机宫</b><b class="imp">(获得贪狼枪法；天机宫主结局)</b></div>
+  <div class="choice"><b>2.回绝此事</b><b class="imp">(武当宗师/归隐江湖结局)</b></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天机再现：应允重新成立天机宫。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">棍法大成：成功收集所有棍法秘籍。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">冷鹰有额外对话。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">在背包中使用紫微星图触发剧情，宇文逸习得点星剑/星宿剑法/连星北斗剑/踏星步。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">往下走(燕未还/荀杳杳离队)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">步微月在队的情况下，前往峋谷关客栈前触发剧情；吕仙儿在队的情况下，前往峋谷关口触发剧情，吕仙儿离队。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">前往武当派往里走触发剧情，获得虎骨/人参/虎鞭/清虚酒*1、熊胆*2、蛇胆*5；继续往下走触发剧情。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">最后看一下宇文逸的武器精通面板，全武器精通总和超过1500，通关结算时的武器精通即可拿到满分；检查下队友好感度和生活技能等级，拉满即可拿到这两项的满分。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">通过白龟洞的暗道前往天山→往山上走。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">剑名斩鲸</span>：主线后自动获取任务。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">靠近墓群左侧的尸体触发剧情。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">继续往山上走→前往山巅触发剧情进入战斗<span class="drop"><span class="drop">(掉落剑穗)</span></span>。</span></div>
+  <div class="line l-side"><span class="tag t-side">支线</span><span class="txt"><span class="name n-side">剑名斩鲸</span>：完成主线后自动完成任务，获得斩鲸剑碎片/腾空剑精良图纸*1。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">离开天山→前往玄火教触发剧情进入战斗<span class="drop"><span class="drop">(掉落紫微星图解；瑶姬(辅助)</span></span>归队)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天机秘传：取得紫微星图及紫微星图·解。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">玄火教内部有2个宝箱；蜃楼幻境获取的道具可以给瑶姬的武器衣服升级，此时可以培养瑶姬了(马上结局)。</span></div>
+  <div class="line l-scene"><span class="tag t-scene">小剧情</span><span class="txt">在背包中使用紫微星图触发剧情，宇文逸/叶飞习得紫庭七元剑。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">离开玄火教→通过葬龙谷返回峋谷关触发剧情进入战斗*6。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">江小彤有额外对话。</span></div>
+  <div class="line l-main"><span class="tag t-main">主线</span><span class="txt">和瑶姬交谈选择“是”触发剧情进入最终战斗*3(获得玉龙枪尖)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">传世歌谣：达成荀杳杳隐藏结局。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">七年之约：达成上官虹隐藏结局。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">我名冷月：达成冷鹰隐藏结局。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天涯比邻：达成李元兴、燕未还、荀杳杳隐藏结局。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">天下智囊：达成冷无情、李元兴隐藏结局。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">融汇百家：解锁所有传承。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">玉龙诀：极难模式下击败赫连辅弼。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">挑战极限：通关时候难度评分为3.1(极难+8扩)。</span></div>
+  <div class="line l-ach"><span class="tag t-ach">成就</span><span class="txt">逸剑风云决：达成所有主线结局。</span></div>
+  <div class="line l-note"><span class="tag t-note">备注</span><span class="txt">解锁全图鉴后，可获得全图鉴礼包(五宝花蜜酒*2、五转洗髓丹*5、金元宝*3、避神香*10、阴阳无极丹*10、切磋宝典*10)，进入每个<span class="save"><span class="save">存档</span></span>后都会发放。</span></div>
+</div>
+
+<div class="footer">《逸剑风云决》全流程完美攻略(上+下 全篇整合)·彩色标注版<br>原文来源：小黑盒 · 作者「墨羽ing」· 彩色标注由 AI 排版整理，正文逐字未改</div>
+
+
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--mNNVPEw2dihxkljbUDCIzax1RUc5jcz1Vkwmy4wmeS----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-6e8c2a9d-f491-4af5-8ec9-489084a3521d@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; background: rgb(243, 239, 230); color: rgb(38, 34, 28); line-height: 1.8; font-size: 15px; text-size-adjust: 100%; }
+
+.wrap { max-width: 860px; margin: 0px auto; padding: 16px 13px 70px; }
+
+.hero { background: linear-gradient(135deg, rgb(74, 31, 43), rgb(124, 50, 38)); color: rgb(255, 255, 255); border-radius: 14px; padding: 20px 18px; margin-bottom: 14px; box-shadow: rgba(90, 40, 30, 0.25) 0px 4px 14px; }
+
+.hero .tagline { display: inline-block; background: rgba(255, 255, 255, 0.16); border-radius: 999px; padding: 2px 11px; font-size: 12px; margin-bottom: 9px; letter-spacing: 0.5px; }
+
+.hero h1 { font-size: 21px; line-height: 1.45; margin-bottom: 7px; font-weight: 800; }
+
+.hero .meta { font-size: 12.5px; opacity: 0.88; line-height: 1.7; }
+
+.hero .score { display: inline-block; background: rgb(255, 179, 0); color: rgb(74, 48, 0); font-weight: 800; border-radius: 8px; padding: 0px 8px; font-size: 13px; margin-right: 6px; }
+
+.note-strip { background: rgb(255, 248, 230); border: 1px solid rgb(234, 217, 168); border-radius: 10px; padding: 9px 13px; font-size: 12.5px; color: rgb(107, 90, 30); margin-bottom: 14px; line-height: 1.7; }
+
+.legend { background: rgb(255, 253, 247); border: 1px solid rgb(229, 220, 200); border-radius: 14px; padding: 14px 14px 10px; margin-bottom: 14px; }
+
+.lg-title { font-size: 15px; font-weight: 800; color: rgb(58, 49, 38); margin-bottom: 10px; padding-left: 8px; border-left: 4px solid rgb(138, 58, 47); }
+
+.lg-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+
+.lg { display: flex; align-items: flex-start; gap: 7px; flex: 1 1 44%; min-width: 0px; background: rgb(250, 246, 236); border-radius: 9px; padding: 7px 9px; font-size: 12.5px; line-height: 1.5; }
+
+.lg .dot { flex: 0 0 12px; width: 12px; height: 12px; border-radius: 4px; margin-top: 4px; }
+
+.lg b { display: block; font-size: 12.5px; color: rgb(44, 42, 37); }
+
+.lg em { display: block; font-style: normal; font-size: 11.5px; color: rgb(138, 131, 114); }
+
+.roadmap { background: rgb(255, 253, 247); border: 1px solid rgb(229, 220, 200); border-radius: 14px; padding: 14px; margin-bottom: 16px; }
+
+.rm-scroll { overflow-x: auto; padding: 6px 2px 8px; }
+
+.rm { display: flex; align-items: center; width: max-content; min-width: 100%; }
+
+.rm-node { flex: 0 0 auto; background: rgb(239, 233, 219); border: 1px solid rgb(217, 208, 186); color: rgb(74, 65, 52); border-radius: 9px; padding: 6px 9px; font-size: 12px; font-weight: 700; line-height: 1.35; text-align: center; }
+
+.rm-node a { color: inherit; text-decoration: none; }
+
+.rm-node .no { display: block; font-size: 10px; color: rgb(154, 143, 120); font-weight: 600; }
+
+.rm-node.prep { background: rgb(253, 234, 240); border-color: rgb(240, 188, 208); color: rgb(141, 47, 85); }
+
+.rm-node.prep .no { color: rgb(192, 122, 151); }
+
+.rm-arrow { flex: 0 0 auto; color: rgb(195, 185, 159); font-size: 13px; margin: 0px 4px; }
+
+.sec { background: rgb(255, 253, 247); border: 1px solid rgb(229, 220, 200); border-radius: 14px; padding: 16px 14px; margin-bottom: 16px; box-shadow: rgba(90, 60, 20, 0.05) 0px 1px 4px; }
+
+.sec-head { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; padding-bottom: 9px; border-bottom: 2px solid rgb(238, 228, 207); }
+
+.sec-num { flex: 0 0 auto; background: rgb(58, 49, 38); color: rgb(255, 255, 255); font-weight: 800; border-radius: 10px; min-width: 40px; text-align: center; padding: 5px 8px; font-size: 15px; }
+
+.sec-head h2 { font-size: 17px; font-weight: 800; color: rgb(44, 41, 36); line-height: 1.4; }
+
+.line { margin: 0px 0px 7px; padding: 5px 4px 5px 11px; border-left: 3px solid rgb(207, 198, 178); border-radius: 0px 6px 6px 0px; font-size: 14.5px; line-height: 1.85; }
+
+.line .txt { color: rgb(51, 48, 42); word-break: break-word; }
+
+.tag { display: inline-block; flex: 0 0 auto; border-radius: 999px; padding: 0px 9px; margin-right: 8px; color: rgb(255, 255, 255); font-size: 11.5px; font-weight: 800; line-height: 1.9; vertical-align: 1px; white-space: nowrap; }
+
+.line .name { font-weight: 700; }
+
+.l-main { border-left-color: rgb(229, 57, 53); background: rgb(253, 243, 241); }
+
+.l-side { border-left-color: rgb(30, 136, 229); background: rgb(242, 247, 253); }
+
+.l-ach { border-left-color: rgb(142, 36, 170); background: rgb(248, 241, 251); }
+
+.l-note { border-left-color: rgb(67, 160, 71); background: rgb(242, 249, 242); }
+
+.l-scene { border-left-color: rgb(251, 140, 0); background: rgb(253, 247, 239); }
+
+.l-sect { border-left-color: rgb(0, 137, 123); background: rgb(240, 249, 248); }
+
+.t-main { background: rgb(229, 57, 53); }
+
+.n-main { color: rgb(183, 28, 28); }
+
+.t-side { background: rgb(30, 136, 229); }
+
+.n-side { color: rgb(13, 71, 161); }
+
+.t-ach { background: rgb(142, 36, 170); }
+
+.n-ach { color: rgb(106, 27, 154); }
+
+.t-note { background: rgb(67, 160, 71); }
+
+.n-note { color: rgb(27, 94, 32); }
+
+.t-scene { background: rgb(251, 140, 0); }
+
+.n-scene { color: rgb(230, 81, 0); }
+
+.t-sect { background: rgb(0, 137, 123); }
+
+.n-sect { color: rgb(0, 77, 64); }
+
+.save { background: rgb(255, 242, 184); color: rgb(122, 88, 0); font-weight: 700; border-radius: 3px; padding: 0px 3px; }
+
+.imp { color: rgb(211, 47, 47); font-weight: 800; }
+
+.warn { background: rgb(255, 227, 194); color: rgb(154, 74, 0); font-weight: 700; border-radius: 3px; padding: 0px 3px; }
+
+.drop { color: rgb(163, 74, 18); font-weight: 700; background: rgb(251, 234, 221); border-radius: 3px; padding: 0px 3px; }
+
+.prep-sec { background: rgb(253, 244, 248); border: 1px solid rgb(240, 211, 224); border-radius: 14px; padding: 15px 14px; margin-bottom: 16px; }
+
+.prep-sec .ph { font-size: 16px; font-weight: 800; color: rgb(141, 47, 85); margin-bottom: 10px; padding-left: 9px; border-left: 4px solid rgb(214, 90, 140); }
+
+.prep-sec .ph small { display: block; font-size: 11.5px; color: rgb(176, 122, 146); font-weight: 600; margin-top: 2px; }
+
+.prep-item { font-size: 14px; line-height: 1.9; color: rgb(74, 53, 64); padding: 3px 2px 3px 9px; border-left: 2px solid rgb(239, 208, 221); margin-bottom: 4px; word-break: break-word; }
+
+.prep-item .cat { display: inline-block; background: rgb(243, 219, 230); color: rgb(141, 47, 85); font-weight: 800; border-radius: 6px; padding: 0px 7px; font-size: 12px; margin-right: 6px; }
+
+.num-steps { margin: 6px 0px; }
+
+.step { font-size: 14px; line-height: 1.9; padding: 5px 4px 5px 11px; border-left: 3px solid rgb(185, 169, 138); background: rgb(250, 246, 236); border-radius: 0px 6px 6px 0px; margin-bottom: 6px; word-break: break-word; }
+
+.step .sn { display: inline-block; background: rgb(91, 75, 58); color: rgb(255, 255, 255); font-weight: 800; border-radius: 50%; width: 20px; height: 20px; line-height: 20px; text-align: center; font-size: 11px; margin-right: 7px; vertical-align: 1px; }
+
+.choice { display: block; margin: 3px 0px 3px 6px; padding: 4px 10px; border-left: 3px solid rgb(229, 57, 53); background: rgb(253, 243, 241); border-radius: 0px 6px 6px 0px; font-size: 14px; line-height: 1.8; }
+
+.sec-foot { margin-top: 12px; padding-top: 9px; border-top: 1px dashed rgb(226, 214, 188); font-size: 12.5px; color: rgb(154, 143, 120); }
+
+.footer { text-align: center; font-size: 12px; color: rgb(162, 151, 126); padding: 8px 0px 4px; line-height: 1.8; }
+
+@media (min-width: 700px) {
+  .lg { flex: 1 1 31%; }
+}
+------MultipartBoundary--mNNVPEw2dihxkljbUDCIzax1RUc5jcz1Vkwmy4wmeS------

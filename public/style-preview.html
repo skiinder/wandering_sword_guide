@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>逸剑风云决 · 攻略风格预览（v2 基调）</title>
+<style>
+  :root{
+    --bg:#f4f1ea; --card:#fdfcf8; --line:#e5dfd1;
+    --ink:#2b2722; --ink-2:#6b6557; --dim:#948d7d;
+    --gold:#a9813c; --gold-bg:#f3ead6;
+    --cinnabar:#b0502f; --cinnabar-bg:#f8ece5;
+    --moss:#6e8653; --moss-bg:#eef1e3;
+    --azur:#4a6f9e; --azur-bg:#e9eef6;
+    --rose:#c24a3a; --tan:#98682a; --tan-bg:#f4ebd8;
+    --done:#5a8850; --pill:#efebe2; --note:#8b8578;
+  }
+  *{box-sizing:border-box; margin:0; padding:0}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:-apple-system,"PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif;
+    font-size:14.5px; line-height:1.7; padding-bottom:80px;
+  }
+  .serif{font-family:"Noto Serif SC","Songti SC","SimSun",serif}
+  .wrap{max-width:640px; margin:0 auto; padding:0 16px}
+
+  /* 顶栏 */
+  header{position:sticky; top:0; background:rgba(244,241,234,.92); backdrop-filter:blur(6px); border-bottom:1px solid var(--line); z-index:9}
+  .bar{display:flex; align-items:center; gap:10px; padding:12px 16px}
+  .logo{width:9px;height:9px;border-radius:50%;background:var(--gold); box-shadow:0 0 0 3px var(--gold-bg)}
+  .bar h1{font-size:16px; letter-spacing:.5px}
+  .chips{margin-left:auto; display:flex; gap:6px}
+  .chip{font-size:12px; color:var(--ink-2); background:var(--pill); border-radius:999px; padding:3px 10px}
+
+  main{padding-top:18px}
+  .h2{font-size:17px; margin:20px 0 4px; display:flex; align-items:center; gap:8px}
+  .h2 .no{font-size:12px; color:var(--dim)}
+  .h2 small{font-size:12px; color:var(--dim); font-weight:400}
+
+  .card{
+    background:var(--card); border:1px solid var(--line); border-radius:14px;
+    padding:14px 16px; margin:10px 0; box-shadow:0 1px 2px rgba(43,39,34,.03);
+    position:relative; transition:opacity .25s;
+  }
+  .card.done{opacity:.55}
+  .card.done .seqnum{color:var(--done)!important}
+  .card.done .seqnum::after{content:"✓"; font-size:12px; margin-left:2px}
+
+  /* 主线步骤卡 */
+  .main-card{display:flex; gap:14px}
+  .seqnum{
+    font-family:"Noto Serif SC","Songti SC",serif; font-size:26px; font-weight:700;
+    color:var(--gold); min-width:34px; text-align:center; line-height:1.1; margin-top:2px;
+  }
+  .m-title{font-size:15.5px; font-weight:600; margin-bottom:4px}
+  .m-body{font-size:14.5px; color:var(--ink-2)}
+  .m-body b{color:var(--ink); font-weight:600}
+  .fold{margin-top:8px; font-size:12.5px; color:var(--dim); cursor:pointer; user-select:none}
+  .fold:hover{color:var(--gold)}
+
+  /* 大支线步骤卡 */
+  .quest-card{border-left:4px solid var(--cinnabar)}
+  .q-title{font-size:15px; font-weight:600; color:var(--cinnabar); margin-bottom:4px}
+  .q-step{font-size:12px; color:var(--dim); margin-bottom:2px}
+
+  /* 窗口条 */
+  .window{
+    margin-top:9px; background:var(--cinnabar-bg); border-left:3px solid var(--cinnabar);
+    border-radius:8px; padding:7px 11px; font-size:13px; color:var(--ink-2);
+  }
+  .window b{color:var(--cinnabar)}
+
+  /* 小型支线内嵌块 */
+  .misc{background:var(--moss-bg); border:1px dashed #cdd6b8; border-radius:12px; padding:12px 14px; margin:10px 0}
+  .misc .t{font-size:13.5px; font-weight:600; color:var(--moss); margin-bottom:4px}
+  .misc .t::before{content:"●"; font-size:9px; margin-right:6px}
+  .misc p{font-size:13.5px; color:var(--ink-2)}
+
+  /* 备注 */
+  .note{font-size:12.5px; color:var(--note); font-style:italic; margin:6px 2px 12px}
+
+  /* 徽章 */
+  .badges{display:flex; gap:6px; flex-wrap:wrap; margin-top:8px}
+  .bd{font-size:12px; border-radius:999px; padding:2px 10px; line-height:1.6}
+  .bd-save{background:var(--azur-bg); color:var(--azur)}
+  .bd-imp{background:#fbeae7; color:var(--rose)}
+  .bd-drop{background:var(--tan-bg); color:var(--tan)}
+  .bd-ach{background:var(--gold-bg); color:var(--gold)}
+
+  /* 链接胶囊 */
+  .links{display:flex; gap:6px; flex-wrap:wrap; margin-top:9px}
+  .pill{
+    font-size:12.5px; background:var(--pill); color:var(--ink-2);
+    border-radius:999px; padding:3px 11px; cursor:pointer; transition:all .15s;
+  }
+  .pill:hover{background:var(--gold-bg); color:var(--gold)}
+  .pill.strong{background:var(--cinnabar-bg); color:var(--cinnabar)}
+  .pill.strong:hover{background:var(--cinnabar); color:#fff}
+
+  /* 回链区 */
+  .back{margin-top:9px; padding-top:8px; border-top:1px dashed var(--line); font-size:12.5px; color:var(--dim)}
+  .back a{color:var(--azur); text-decoration:none}
+  .back a:hover{text-decoration:underline}
+
+  .tag-note{font-size:12px; color:var(--dim); margin:2px 0 14px}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <span class="logo"></span>
+    <h1 class="serif">逸剑风云决 · 攻略</h1>
+    <div class="chips"><span class="chip">入门之前</span><span class="chip">入门弟子</span><span class="chip">晋升资深</span></div>
+  </div>
+</header>
+<main class="wrap">
+
+  <div class="h2 serif"><span class="no">01</span>初出茅庐 <small>主线流程</small></div>
+  <p class="tag-note">主线步骤：金色衬线序号 · 无"主线"字样</p>
+
+  <div class="card main-card">
+    <div class="seqnum">01</div>
+    <div>
+      <div class="m-title">葬龙谷初战</div>
+      <div class="m-body">主线剧情后来到<b>葬龙谷</b> → 和三人交谈 → 靠近马车触发剧情进入战斗 → 剧情后来到梧桐村（江小彤好感度+30）。</div>
+      <div class="fold">↗ 关联 1 处 · 碧海仙踪（步微月）</div>
+    </div>
+  </div>
+
+  <div class="card main-card">
+    <div class="seqnum">02</div>
+    <div>
+      <div class="m-title">江小彤初遇</div>
+      <div class="m-body">主线往下走。</div>
+      <div class="badges"><span class="bd bd-save">存 档</span></div>
+    </div>
+  </div>
+
+  <div class="card main-card">
+    <div class="seqnum">04</div>
+    <div>
+      <div class="m-title">卫霍切磋</div>
+      <div class="m-body">前往江吟风处 → 前往客栈 → 和卫霍交谈 → 送礼到好感度20后和卫霍切磋。</div>
+      <div class="badges"><span class="bd bd-ach">成就 · 初露锋芒</span><span class="bd bd-drop">掉落 · 基础心法</span></div>
+    </div>
+  </div>
+
+  <div class="card main-card done" onclick="this.classList.toggle('done')">
+    <div class="seqnum">08</div>
+    <div>
+      <div class="m-title">山洞中段</div>
+      <div class="m-body">前往山洞中段触发剧情进入战斗 → 剧情后来到江吟风宅。<span style="font-size:12px;color:var(--dim)">（点击卡片切换完成态）</span></div>
+    </div>
+  </div>
+
+  <div class="h2 serif"><span class="no">🔶</span>大型支线 · 碧海仙踪 <small>独立完整流程</small></div>
+  <p class="tag-note">大型支线卡：朱砂左边条 · 任务名即标题 · 窗口条承接主线锚点</p>
+
+  <div class="card quest-card">
+    <div class="q-step">第 1 步</div>
+    <div class="q-title">接取 · 东海明珠</div>
+    <div style="color:var(--ink-2)">离开武当派触发剧情 → 前往平康城中央触发剧情获取任务（步微月好感度+10）→ 背包中使用青云扇法 → 前往野猪林触发剧情进入战斗 → 前往平康城客栈 → 前往仙人渡。</div>
+    <div class="window">⚠ 窗口：主线 <b>[[main-13]] 之后</b> → [[main-49]] 前完成灵龟岛收尾</div>
+    <div class="badges"><span class="bd bd-drop">掉落 · 宗师手札</span><span class="bd bd-save">存 档</span></div>
+  </div>
+
+  <div class="card quest-card">
+    <div class="q-step">第 11 步</div>
+    <div class="q-title">明珠无瑕（续）</div>
+    <div style="color:var(--ink-2)">前往游仙村和鲁凯交谈，给他东海明珠/夜明珠/祖母绿/紫水晶*1，获得明珠无瑕*1、步微月好感度+20。</div>
+    <div class="links">
+      <span class="pill strong">↗ 武家旧事 · 和璞山庄（夜明珠来源）</span>
+      <span class="pill">↗ 主线 43 · 前往不风山</span>
+    </div>
+  </div>
+
+  <div class="h2 serif"><span class="no">◐</span>小型支线 · 内嵌展示 <small>不出卡片页</small></div>
+  <p class="tag-note">苔绿内嵌块：直接在主线流程中出现处展开完整步骤</p>
+
+  <div class="misc">
+    <div class="t">蜃楼幻境</div>
+    <p>断天崖跳崖 → 驿站触发 → 幻林探索。注意：<b>到下一个场景后幻林会关闭</b>，先清完幻林再继续。</p>
+  </div>
+
+  <div class="h2 serif"><span class="no">✎</span>备注与回链</div>
+
+  <div class="card main-card">
+    <div class="seqnum">13</div>
+    <div>
+      <div class="m-title">破庙老猿（前置）</div>
+      <div class="m-body">剑法精通≥100 时前往城隍庙内触发剧情进入战斗 → 跟上老猿，获得油布包（使用可获得白猿归风剑）。</div>
+      <div class="note">备注：白猿归风剑前期最值钱的剑之一，记得装备后再下山；多余的装备可分解。</div>
+      <div class="back">← 从这些步骤跳入：<a href="#">碧海仙踪 · 前置（链接）</a> · <a href="#">主线 03 · 治伤采药</a></div>
+    </div>
+  </div>
+
+  <p style="font-size:12.5px;color:var(--dim);margin-top:26px;text-align:center">基调预览 · 零文字标签 · 低饱和暖纸 · 古籍手记感 — 完整规范见 docs/风格基调.md</p>
+</main>
+</body>
+</html>

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "purpose": "大型支线/特殊支线的外部核查窗口（第一轮，2026-09-07），与模板线性推导(windows.json)合并后供索引卡片使用",
+    "base_version": "1.24.32",
+    "status_legend": "confirmed=有明确出处; pending=无硬关闭证据,待核(灰标)"
+  },
+  "entries": [
+    {
+      "id": "wujia",
+      "name": "武家旧事 DLC（大型支线）",
+      "open": "拜师武当后（main≈13，须未触发原版吕仙儿比武招亲）",
+      "open_anchor": 13,
+      "close": "主线进不风山前必须触发（main=43，关外风云·黎城段）",
+      "close_anchor": 43,
+      "status": "confirmed",
+      "evidence": "官方 DLC 说明/B站透明城墙DLC简易攻略v1.24.26",
+      "urls": ["https://m.bilibili.com/opus/1082718967093526531", "https://m.qieyou.com/content/132376", "https://a.9game.cn/yijianfengyunjue/11282181.html"],
+      "notes": "前置任务:乞丐与宝书(武当右下角路人)/霹雳门·千机万发(武当试剑台); 和璞山庄沙盘演武后'暂时关闭'; 瑶姬好感:天水祝寿后→晋升执法前; 模板显式提示在 s9(main=35 区域)"
+    },
+    {
+      "id": "bihai",
+      "name": "碧海仙踪 DLC（大型支线）",
+      "open": "拜师武当后（破庙老猿→步微月尽早入队，建议品剑大会前）",
+      "open_anchor": 13,
+      "close": "主线进南疆前必须触发（main=76，南疆风云首步前）",
+      "close_anchor": 76,
+      "status": "confirmed",
+      "evidence": "官方 DLC 说明/B站透明城墙DLC简易攻略v1.24.26",
+      "urls": ["https://m.bilibili.com/opus/1082718967093526531"],
+      "notes": "码头提举司需冷无情在队; 家园系统尽早开; 南疆洱郡铁匠浪川剑图鉴需步微月在队"
+    },
+    {
+      "id": "jinkie",
+      "name": "异种金蝎（大型支线）",
+      "open": "清河村铁蛋·毒蝎夺命（初入武当，main≈13）",
+      "open_anchor": 13,
+      "close": "三线互斥:飞蝎使(猴儿林无名岩洞洞口)选'赠予'=娜乌线,药圣线/商人线自动关闭; 选'交换'无法娜乌线",
+      "close_anchor": null,
+      "status": "confirmed",
+      "evidence": "700g/游民星空完美攻略",
+      "urls": ["https://www.700g.com/zixun07/242367.html", "https://gamersky.com/handbook/202608/2188490_21.shtml"],
+      "notes": "药圣线:莫离(天水祝寿后·百善未及一恶夜晚次日·武当炼丹房→竹海); 完美南疆后药圣入队; 甘泉苦水额外剧情(再探苦水/鬼鹰现踪); 模板主线步35区域(s9 异种金蝎&武家旧事)承接"
+    },
+    {
+      "id": "shang",
+      "name": "伤魂鸟（大型支线）",
+      "open": "主线'送丹药'段后(main≈36-46 关外风云居)→谭城(郯城)戏台接取",
+      "open_anchor": 46,
+      "close": "无硬关闭证据（待核·灰标）",
+      "close_anchor": null,
+      "status": "pending",
+      "evidence": "9game 伤魂鸟攻略",
+      "urls": ["https://www.9game.cn/yijianfengyunjue/11800392.html"],
+      "notes": "前置:镇派棒法(侯九切磋)/乌天瘤(名剑山庄欧阳献公); 流程:龚进→天鸣村→南渔村→紫竹林→青罗山决战(丐帮+黑白无常); 完成解锁燕未还; 模板 s12(main=48 区域)"
+    },
+    {
+      "id": "pili",
+      "name": "霹雳门（大型支线）",
+      "open": "精英弟子期（品剑大会后，main≈35；千机万发在武当试剑台）",
+      "open_anchor": 35,
+      "close": "跳过=进入旧主线唯一条件（s18 前）；无超时关闭证据（待核）",
+      "close_anchor": 60,
+      "status": "pending",
+      "evidence": "头条攻略",
+      "urls": ["https://www.toutiao.com/article/7348001635785835062"],
+      "notes": "流程:千机万发/门内生变/接触厂卫/大宦童安(切磋得夜明珠)/宝库保卫战(汤统人面蛛); 模板 s14(main=48 区域)"
+    },
+    {
+      "id": "ganquan",
+      "name": "甘泉苦水（大型支线）",
+      "open": "传功弟子期（晋升传功后，main≈61）",
+      "open_anchor": 61,
+      "close": "无硬关闭证据（待核·疑执法前）",
+      "close_anchor": 76,
+      "status": "pending",
+      "evidence": "B站 opus 853007984220962852",
+      "urls": ["https://m.bilibili.com/opus/853007984220962852"],
+      "notes": "流程:竹海/甘泉村/神鹰门/苦水村; 关联掌门结局(程钰留否)与存档点; 模板 s16(main=60 区域)"
+    },
+    {
+      "id": "qiluo",
+      "name": "绮罗筵（大型支线）",
+      "open": "传功弟子期（晋升传功后，main≈61；慕艾考验/程钰线/混沌宝典[白锦或冷鹰取得]）",
+      "open_anchor": 61,
+      "close": "绝响难求(欧阳雪曲谱):晋升传功后→晋升执法前必须完成(名剑山庄); 瑶姬重逢窗口同武家旧事; 掌门结局关联",
+      "close_anchor": 76,
+      "status": "confirmed",
+      "evidence": "9game 绮罗筵攻略",
+      "urls": ["https://a.9game.cn/yijianfengyunjue/11792247.html"],
+      "notes": "模板 s17(main=60 区域)"
+    },
+    {
+      "id": "jiuzhuxian",
+      "name": "旧主线（大型支线·全流程）",
+      "open": "跳过霹雳门进入（s18，main≈61）",
+      "open_anchor": 61,
+      "close": "执法弟子后→名剑山庄前=新主线图鉴分支点（main≈76-99 中段）",
+      "close_anchor": 99,
+      "status": "confirmed",
+      "evidence": "模板 s18 自述+旧主线速通 30 条编号步骤",
+      "urls": [],
+      "notes": "5存档点多周目轮转:加入武当后/万劫窟慈石(瑶姬结局)/天水城(掌门抉择)/晋升执法前(绝响难求)/真武殿首座(小彤)/天山决战前(木剑); 多次通关解锁图鉴; 二周目起"
+    },
+    {
+      "id": "shenlou",
+      "name": "蜃楼幻境/幻林（窗口显式小支线）",
+      "open": "洛村剿匪期·断天崖跳崖摔死触发结局再读档→靠近任意驿站触发（main≈11-12）",
+      "open_anchor": 11,
+      "close": "幻林进下一场景即关闭（模板显式提示）",
+      "close_anchor": 12,
+      "status": "confirmed",
+      "evidence": "模板显式",
+      "urls": [],
+      "notes": "仙人渡下方开启幻林地图"
+    }
+  ]
+}

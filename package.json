@@ -1,0 +1,26 @@
+{
+  "name": "wandering-sword-guide",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "description": "逸剑风云决 全流程攻略 PWA（纯前端离线）",
+  "scripts": {
+    "sync:data": "node tools/sync-data.mjs && node tools/build-content.mjs",
+    "gen:icons": "python3 tools/gen_icons.py",
+    "predev": "npm run sync:data",
+    "dev": "vite",
+    "prebuild": "npm run sync:data && npm run gen:icons",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "npm run build && vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "preact": "^10.24.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.9.0",
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0",
+    "vite-plugin-pwa": "^0.21.0"
+  }
+}
