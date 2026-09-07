@@ -242,7 +242,7 @@
      "text": "主线前往武当山触发剧情进入战斗(莫问好感度+20)→前往前往三清殿→和道微交谈(获得武当轻功)→和道通交谈→和莫问交谈→和道妙交谈→和道玄交谈(获得避神香丹方)→和清霄道长交谈选“认同他”(莫问好感度+10)触发剧情进入战斗加入队伍)。",
      "window": "⚠ 本步前完成小型支线：白帝剑器、重回碗子山、锦蛇青梅、断天绝景、五仙花酿、武馆叛徒、画舫旧事、出师考验、青木裁衣、津鲤锦鲤、姑苏曼舞、同情心-归宿",
      "links": [
-      "本步后开启：[[quest-碧海仙踪]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-异种金蝎]]、[[quest-碧海仙踪]]、[[quest-武家旧事]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]",
+      "本步后开启：[[quest-碧海仙踪]]、[[quest-武家旧事]]、[[quest-异种金蝎]]",
       "本步后开启小型支线：武道之始、九炼熊蛇丸、玄火试炼、小高手智武、贪吃的智文、歪僧慧达(一)、歪僧慧达(二)、歪僧慧达(三)"
      ],
      "tags": {
@@ -275,69 +275,9 @@
       },
       {
        "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
        "flow": "quest-异种金蝎",
        "title": "异种金蝎",
        "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
       }
      ],
      "back": [
@@ -448,7 +388,7 @@
      "seq": 1,
      "title": "主线 14｜前往清河村和村长交谈",
      "text": "主线前往清河村和村长交谈→和兰儿交谈→前往猴儿林往里走→来到尽头触发剧情进入战斗(莫问好感度+10)→返回清河村和村长交谈→返回武当(莫问离队)→返回弟子房。",
-     "window": "⚠ 本步前需完成（关闭窗口）：[[quest-碧海仙踪]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]",
+     "window": "⚠ 本步前需完成（关闭窗口）：[[quest-碧海仙踪]]、[[quest-武家旧事]]",
      "links": [
       "本步后开启：[[quest-碧海仙踪]]"
      ],
@@ -476,42 +416,6 @@
        "flow": "quest-武家旧事",
        "title": "武家旧事",
        "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
       },
       {
        "kind": "flow",
@@ -885,7 +789,7 @@
      "text": "主线前往客房休息(莫问归队)→前往山庄门口(瑶姬(临时)/欧阳雪归队)→往城外走触发剧情进入战斗。",
      "window": "",
      "links": [
-      "本步后开启：[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-碧海仙踪]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-武家旧事]]",
+      "本步后开启：[[quest-碧海仙踪]]、[[quest-异种金蝎]]、[[quest-武家旧事]]",
       "本步后开启小型支线：寒泉铸剑、烟霞剑客"
      ],
      "tags": {},
@@ -895,102 +799,6 @@
        "flow": "quest-碧海仙踪",
        "title": "碧海仙踪",
        "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
       },
       {
        "kind": "flow",
@@ -1168,7 +976,7 @@
      "seq": 1,
      "title": "主线 36｜前往幽云泽渡口的码头触发剧情进入",
      "text": "主线前往幽云泽渡口的码头触发剧情进入战斗→前往峋谷关触发剧情进入战斗。",
-     "window": "⚠ 本步前需完成（关闭窗口）：[[quest-异种金蝎]]、[[quest-碧海仙踪]]、[[quest-武家旧事]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-武家旧事]]、[[quest-碧海仙踪]]",
+     "window": "⚠ 本步前需完成（关闭窗口）：[[quest-异种金蝎]]、[[quest-碧海仙踪]]、[[quest-武家旧事]]",
      "links": [],
      "tags": {
       "team": [
@@ -1200,96 +1008,6 @@
        "flow": "quest-武家旧事",
        "title": "武家旧事",
        "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-武家旧事",
-       "title": "武家旧事",
-       "ref": "quest-武家旧事"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
       }
      ],
      "back": [
@@ -1655,7 +1373,7 @@
      "text": "主线返回武当派的道玄处→前往名剑山庄→前往左侧客房(欧阳雪好感度+20)→前往威远镖局→往里走触发剧情(选择“出手相助”多一场战斗)→前往饿虎坡深处触发剧情→返回武当三清殿→前往弟子房休息。",
      "window": "",
      "links": [
-      "本步后开启：[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-碧海仙踪]]、[[quest-霹雳门]]、[[quest-异种金蝎]]、[[quest-霹雳门]]、[[quest-霹雳门]]、[[quest-霹雳门]]、[[quest-霹雳门]]、[[quest-异种金蝎]]、[[quest-绮罗筵]]",
+      "本步后开启：[[quest-伤魂鸟]]、[[quest-碧海仙踪]]、[[quest-霹雳门]]、[[quest-异种金蝎]]、[[quest-绮罗筵]]",
       "本步后开启小型支线：故人、拨云见日"
      ],
      "tags": {
@@ -1680,87 +1398,9 @@
       },
       {
        "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
        "flow": "quest-碧海仙踪",
        "title": "碧海仙踪",
        "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
       },
       {
        "kind": "flow",
@@ -1914,7 +1554,7 @@
      "seq": 1,
      "title": "主线 49｜挑战武当派的道通晋升传功弟子",
      "text": "主线挑战武当派的道通晋升传功弟子。",
-     "window": "⚠ 本步前需完成（关闭窗口）：[[quest-碧海仙踪]]、[[quest-碧海仙踪]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-异种金蝎]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-伤魂鸟]]、[[quest-碧海仙踪]]、[[quest-霹雳门]]、[[quest-异种金蝎]]、[[quest-霹雳门]]、[[quest-霹雳门]]、[[quest-霹雳门]]、[[quest-霹雳门]]、[[quest-异种金蝎]]",
+     "window": "⚠ 本步前需完成（关闭窗口）：[[quest-碧海仙踪]]、[[quest-异种金蝎]]、[[quest-伤魂鸟]]、[[quest-霹雳门]]",
      "links": [],
      "tags": {},
      "out": [
@@ -1926,24 +1566,6 @@
       },
       {
        "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
        "flow": "quest-异种金蝎",
        "title": "异种金蝎",
        "ref": "quest-异种金蝎"
@@ -1956,99 +1578,9 @@
       },
       {
        "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-伤魂鸟",
-       "title": "伤魂鸟",
-       "ref": "quest-伤魂鸟"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-碧海仙踪",
-       "title": "碧海仙踪",
-       "ref": "quest-碧海仙踪"
-      },
-      {
-       "kind": "flow",
        "flow": "quest-霹雳门",
        "title": "霹雳门",
        "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-霹雳门",
-       "title": "霹雳门",
-       "ref": "quest-霹雳门"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-异种金蝎",
-       "title": "异种金蝎",
-       "ref": "quest-异种金蝎"
       }
      ],
      "back": [
@@ -2394,7 +1926,7 @@
      "text": "主线前往伙房喝粥(留下)/前往清霄处再前往山顶(送走)。",
      "window": "",
      "links": [
-      "本步后开启：[[quest-武家旧事]]、[[quest-甘泉苦水]]、[[quest-甘泉苦水]]、[[quest-甘泉苦水]]、[[quest-甘泉苦水]]、[[quest-甘泉苦水]]、[[quest-甘泉苦水]]、[[quest-甘泉苦水]]、[[quest-甘泉苦水]]、[[quest-绮罗筵]]、[[quest-绮罗筵]]",
+      "本步后开启：[[quest-武家旧事]]、[[quest-甘泉苦水]]、[[quest-绮罗筵]]",
       "本步后开启小型支线：程家二爷、晦明朝夕、重返平阳堡、周家纠葛-复仇"
      ],
      "tags": {
@@ -2414,54 +1946,6 @@
        "flow": "quest-甘泉苦水",
        "title": "甘泉苦水",
        "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-甘泉苦水",
-       "title": "甘泉苦水",
-       "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-甘泉苦水",
-       "title": "甘泉苦水",
-       "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-甘泉苦水",
-       "title": "甘泉苦水",
-       "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-甘泉苦水",
-       "title": "甘泉苦水",
-       "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-甘泉苦水",
-       "title": "甘泉苦水",
-       "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-甘泉苦水",
-       "title": "甘泉苦水",
-       "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-甘泉苦水",
-       "title": "甘泉苦水",
-       "ref": "quest-甘泉苦水"
-      },
-      {
-       "kind": "flow",
-       "flow": "quest-绮罗筵",
-       "title": "绮罗筵",
-       "ref": "quest-绮罗筵"
       },
       {
        "kind": "flow",

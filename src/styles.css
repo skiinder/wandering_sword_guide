@@ -166,10 +166,11 @@ body {
 .back {
   margin-top: 9px; padding-top: 8px; border-top: 1px dashed var(--line);
   font-size: 12.5px; color: var(--dim);
+  display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center;
 }
-.back a { color: var(--azur); text-decoration: none; margin-right: 8px; }
+.back a { color: var(--azur); text-decoration: none; }
 .back a:hover { text-decoration: underline; }
-.back-label { margin-right: 4px; }
+.back-label { margin-right: 2px; }
 
 /* ---- 内联引用胶囊（window/link 文本中的 [[ref]]） ---- */
 .ref {
@@ -220,7 +221,7 @@ body {
 .sec-head { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
 .sec-head h1 { font-size: 19px; }
 .sec-group { font-size: 12px; color: var(--dim); }
-.back { border: 1px solid var(--line); background: var(--card); border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; cursor: pointer; color: var(--ink-2); font-size: 16px; }
+.round-back { border: 1px solid var(--line); background: var(--card); border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; cursor: pointer; color: var(--ink-2); font-size: 16px; }
 
 .prep-card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; margin: 12px 0; }
 .prep-card h2 { font-size: 15.5px; margin-bottom: 4px; }

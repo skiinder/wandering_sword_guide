@@ -91,6 +91,18 @@ for (const w of WIN) {
   ;(openingAt[w.open_after] = openingAt[w.open_after] || []).push({ name: w.quest, q, tag })
 }
 
+// 去重：同大支线多条任务只保留一个 [[quest]] 链接；任务名列表按出现顺序去重
+function dedupeRefs(joined) {
+  const seen = new Set()
+  return joined
+    .split('、')
+    .filter((x) => (seen.has(x) ? false : (seen.add(x), true)))
+    .join('、')
+}
+function dedupeNames(names) {
+  return [...new Set(names)].join('、')
+}
+
 function autoTitle(mainNo, text) {
   let t = text.replace(/^主线/, '').replace(/^剧情后?/, '')
   const m = t.split(/[→。：]/)[0].trim().slice(0, 16)
@@ -118,11 +130,11 @@ for (const ch of CHAPTERS) {
     const meta = []
     if (closing.length) {
       const links = closing.map((c) => (c.q ? `[[${c.q}]]` : c.name)).join('、')
-      meta.push(`> window: ⚠ 本步前需完成（关闭窗口）：${links}`)
+      meta.push(`> window: ⚠ 本步前需完成（关闭窗口）：${dedupeRefs(links)}`)
     }
-    if (closingMisc.length) meta.push(`> window: ⚠ 本步前完成小型支线：${closingMisc.map((c) => c.name).join('、')}`)
-    if (opening.length) meta.push(`> link: 本步后开启：${opening.map((c) => (c.q ? `[[${c.q}]]` : c.name)).join('、')}`)
-    if (openingMisc.length) meta.push(`> link: 本步后开启小型支线：${openingMisc.map((c) => c.name).join('、')}`)
+    if (closingMisc.length) meta.push(`> window: ⚠ 本步前完成小型支线：${dedupeNames(closingMisc.map((c) => c.name))}`)
+    if (opening.length) meta.push(`> link: 本步后开启：${dedupeRefs(opening.map((c) => (c.q ? `[[${c.q}]]` : c.name)).join('、'))}`)
+    if (openingMisc.length) meta.push(`> link: 本步后开启小型支线：${dedupeNames(openingMisc.map((c) => c.name))}`)
     if (SAVES[n]) meta.push(`> 存档：${SAVES[n]}`)
     if (RECRUITS[n]) meta.push(`> 队友入队：${RECRUITS[n]}`)
     for (const f of excelFill.get(n) || []) {

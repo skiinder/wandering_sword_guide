@@ -25,7 +25,7 @@ export function Prep({ data }: { data: GuideData }) {
   return (
     <div class="page">
       <div class="sec-head">
-        <button class="back" onClick={() => nav('#/')} aria-label="返回">‹</button>
+        <button class="round-back" onClick={() => nav('#/')} aria-label="返回">‹</button>
         <div>
           <h1>准备 · 传承</h1>
           <p class="sec-group">开局前 · 基于 v{walkthrough.meta.game_version}</p>
