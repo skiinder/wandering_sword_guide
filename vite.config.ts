@@ -2,7 +2,11 @@ import { defineConfig } from 'vite'
 import preact from '@preact/preset-vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
+// GitHub Pages 子路径部署：workflow 传 VITE_BASE=/<repo>/；本地默认 /
+const BASE = process.env.VITE_BASE || '/'
+
 export default defineConfig({
+  base: BASE,
   plugins: [
     preact(),
     VitePWA({
@@ -16,17 +20,17 @@ export default defineConfig({
         theme_color: '#1b2a3a',
         background_color: '#f6f4ee',
         display: 'standalone',
-        start_url: '/',
-        scope: '/',
+        start_url: './',
+        scope: './',
         icons: [
-          { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
-          { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
-          { src: '/icons/maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+          { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+          { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' },
+          { src: 'icons/maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
         ]
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,json,webmanifest}'],
-        navigateFallback: '/index.html',
+        navigateFallback: './index.html',
         navigateFallbackDenylist: [/^\/data\//],
         maximumFileSizeToCacheInBytes: 6 * 1024 * 1024
       }

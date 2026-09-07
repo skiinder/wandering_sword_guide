@@ -96,13 +96,14 @@ function buildIndex(flowsData: GuideData['flows'], wt: Walkthrough, windows: Que
 export function loadGuide(): Promise<GuideData> {
   if (!cache) {
     cache = (async () => {
+      const B = import.meta.env.BASE_URL // GitHub Pages 子路径部署（如 /wandering_sword_guide/）
       const [flows, wt, win, ext, comp, misc] = await Promise.all([
-        fetch('/data/flows.json').then((r) => r.json()),
-        fetch('/data/walkthrough.json').then((r) => r.json()),
-        fetch('/data/windows.json').then((r) => r.json()),
-        fetch('/data/external.json').then((r) => r.json()),
-        fetch('/data/companions.json').then((r) => r.json()),
-        fetch('/data/misc-tasks.json').then((r) => r.json()),
+        fetch(`${B}data/flows.json`).then((r) => r.json()),
+        fetch(`${B}data/walkthrough.json`).then((r) => r.json()),
+        fetch(`${B}data/windows.json`).then((r) => r.json()),
+        fetch(`${B}data/external.json`).then((r) => r.json()),
+        fetch(`${B}data/companions.json`).then((r) => r.json()),
+        fetch(`${B}data/misc-tasks.json`).then((r) => r.json()),
       ])
       return buildIndex(flows, wt, win.windows, ext.entries || [], comp.companions || [], misc.tasks || [])
     })()

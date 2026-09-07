@@ -1,0 +1,57 @@
+# 部署到 GitHub Pages（https://<user>.github.io/<repo>/）
+# 完整 PWA：SW 离线缓存 + manifest 可安装（同源 https 满足浏览器要求）
+# 使用前提：仓库 Settings → Pages → Source 选择 "GitHub Actions"
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # 子路径部署：所有资源/数据 fetch/PWA base 由 vite.config.ts 消费
+      VITE_BASE: /${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Sync data & build content
+        run: node tools/sync-data.mjs && node tools/build-content.mjs
+
+      - name: Build (vite + PWA)
+        run: npx vite build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
